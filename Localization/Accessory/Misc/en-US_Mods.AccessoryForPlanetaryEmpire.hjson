@@ -1,0 +1,25 @@
+Accessory: {
+	StarPack: {
+		DisplayName: B-1 Supply Pack
+		Tooltip:
+			'''
+			It was originally meant to be carried on the back to provide extra backpack space. 
+			Due to budgetary issues, it can only be opened once. 
+			However, despite this, it still contains a lot of items.
+			'''
+	}
+
+	Y_TestAcc: {
+		TheItem: {
+			DisplayName: Crystal of Technology
+			Tooltip:
+				'''
+				Essential for crafting all accessories in the mod.
+				Each accessory requires one
+				Can be purchased from the Mechanic
+				Left-click to open the equipment archive.
+				"Indispensable, absolutely necessary."
+				'''
+		}
+	}
+}

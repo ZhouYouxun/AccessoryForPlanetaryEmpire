@@ -1,0 +1,45 @@
+TheItemCatalog: {
+	Title: PLANETARY EMPIRE // EQUIPMENT ARCHIVE
+	Subtitle: "{0} equipment records synchronized"
+	Controls: Select a category, then use the left and right arrows to browse. Click outside the archive to close.
+	EntryIndex: RECORD {0}/{1}  //  {2}
+	NoEntries: No equipment records were found in this category.
+	MissingDescription: No archived description is available for this equipment.
+
+	Categories: {
+		Attack: OFFENSE
+		Defense: DEFENSE
+		Movement: MOBILITY
+		Dash: DASH
+		Job: CLASS
+		Wings: WINGS
+		Utility: UTILITY
+	}
+
+	Subcategories: {
+		Attack: General Offense
+		Defense: General Defense
+		Movement: Movement Systems
+		Dash: Dash Systems
+		JobAcc: Class Equipment
+		Wings: Flight Systems
+		Others: General Utility
+		Annihilation: Annihilation
+		Gambler: Gambler
+		JobSkill: Class Skill
+		ModProj: Projectile Systems
+		PermanentModProj: Permanent Projectile Systems
+		SolarSystem: Solar System
+		SummonOnly: Summoner
+		Counter: Counterattack
+		OnlyCYC: Circulation System
+		OnlyEMPs: EMP Systems
+		ClearBullet: Projectile Interception
+		OtherEMP: Auxiliary EMP
+		SupportBullet: Support Field
+		Magic: Mage
+		Melee: Melee
+		Range: Ranger
+		Summon: Summoner
+	}
+}

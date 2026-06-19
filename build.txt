@@ -1,0 +1,6 @@
+displayName = [c/3498db:Pla][c/f1c40f:net][c/9b59b6:ary] [c/f39c12:Em][c/e74c3c:pi][c/8e44ad:re] [c/808080:Acc][c/00c0e6:ess][c/ffff00:ory] [PLAmod]
+author = Tidaorentaifeng
+version = 10.1.2
+hideCode = false
+hideResources = false
+includeSource = true

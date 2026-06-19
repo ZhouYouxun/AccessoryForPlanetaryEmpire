@@ -1,0 +1,45 @@
+TheItemCatalog: {
+	Title: 行星帝国 // 装备档案库
+	Subtitle: 已同步 {0} 条装备记录
+	Controls: 选择分类后，点击左右箭头浏览装备；点击档案库外部可关闭界面。
+	EntryIndex: 档案 {0}/{1}  //  {2}
+	NoEntries: 该分类中没有找到装备记录。
+	MissingDescription: 该装备暂无可用的档案介绍。
+
+	Categories: {
+		Attack: 进攻
+		Defense: 防御
+		Movement: 移动
+		Dash: 冲刺
+		Job: 职业
+		Wings: 翅膀
+		Utility: 通用
+	}
+
+	Subcategories: {
+		Attack: 通用进攻装备
+		Defense: 通用防御装备
+		Movement: 移动系统
+		Dash: 冲刺系统
+		JobAcc: 职业装备
+		Wings: 飞行系统
+		Others: 通用装备
+		Annihilation: 湮灭装备
+		Gambler: 赌徒装备
+		JobSkill: 职业技能
+		ModProj: 弹幕改造
+		PermanentModProj: 常驻弹幕改造
+		SolarSystem: 太阳系
+		SummonOnly: 召唤专属
+		Counter: 反击装备
+		OnlyCYC: 循环系统
+		OnlyEMPs: 电磁脉冲系统
+		ClearBullet: 弹幕拦截
+		OtherEMP: 辅助电磁脉冲
+		SupportBullet: 支援力场
+		Magic: 魔法职业
+		Melee: 近战职业
+		Range: 远程职业
+		Summon: 召唤职业
+	}
+}

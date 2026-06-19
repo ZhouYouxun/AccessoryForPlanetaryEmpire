@@ -1,0 +1,45 @@
+Accessory: {
+	Others: {
+		LiquidAbsorbentShield: {
+			DisplayName: World Composite
+			Tooltip:
+				'''
+				Grants 10% increased damage, 10% increased attack speed, 5% defense, 5 life regeneration,
+				20% increased movement speed, 10% damage reduction, 10% max life, and 25% max mana.
+				"A jack of all trades."				   
+				'''
+		}
+
+		LiquidAbsorbentShield2: {
+			DisplayName: World Composite V2
+			Tooltip:
+				'''
+				Grants 20% increased damage, 20% increased attack speed, 10% defense, 10 life regeneration,
+				25% increased movement speed, 15% damage reduction, 15% max life, and 35% max mana.
+				"A jack of all trades^2."				   
+				'''
+		}
+
+		NanoExcavator: {
+			DisplayName: Nano Excavator
+			Tooltip:
+				'''
+				Allows your non-summon projectiles to break blocks.
+				!! Avoid using weapons with long durations !!
+				!! Avoid using weapons with excessive range !!
+				!! Avoid using overly intelligent weapons !!
+				!! Do not use this at home !!
+				I warned you. If you end up tearing down your house, don’t blame me.				   
+				'''
+		}
+
+		SuperMoney: {
+			DisplayName: Surprise Gift Box
+			Tooltip:
+				'''
+				It seems you can’t open this gift,
+				but perhaps someone is willing to buy it for a hefty price?				   
+				'''
+		}
+	}
+}

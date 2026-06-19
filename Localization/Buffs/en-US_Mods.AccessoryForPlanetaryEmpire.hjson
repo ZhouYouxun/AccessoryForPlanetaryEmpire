@@ -1,0 +1,181 @@
+Buffs: {
+	Fly: {
+		DisplayName: You shouldn't see this
+		Description: Tell me what you did
+	}
+
+	BloodPumpBuff: {
+		Description: Physically strong people can face more challenges
+		DisplayName: Circulatory System Enhancement
+	}
+
+	DamageProtectionDevice: {
+		Description: Your defense and damage reduction are reduced to zero!
+		DisplayName: Broken Defense
+	}
+
+	INV: {
+		Description: Enemies cannot attack you
+		DisplayName: Subspace Field
+	}
+
+	DamageProtectionDeviceBuff: {
+		DisplayName: Broken Defense
+		Description: Your defense and damage reduction are reduced to zero!
+	}
+
+	NSDD_Player: {
+		Description: You can barely move!
+		DisplayName: Nervous System Regeneration
+	}
+
+	NSDD_Enemy: {
+		Description: You can barely move!
+		DisplayName: Nervous System Damage
+	}
+
+	ControllableHaloBuff: {
+		Description: You are losing health at a rate of 2‰ per second!
+		DisplayName: Disintegration Ring
+	}
+
+	HandHeldMechanicalBucklerSkillBuff: {
+		Description: You feel unstoppable!
+		DisplayName: Armored Shield Blessing
+	}
+
+	UnlimitedManaBackpackPlayerSkillBuff: {
+		Description: Your attack power is strong enough to tear everything apart, but at the cost of rapid health loss
+		DisplayName: Mana Backpack Boost
+	}
+
+	UltimateFunctionOverloadDeviceBuff: {
+		DisplayName: You feel full of power
+		Description: Overload Device Effect
+	}
+
+	GamblersTopHatBuff: {
+		Description: Super crit triggered
+		DisplayName: Super Crit
+	}
+
+	Nomove: {
+		Description: For some reason, you can't move
+		DisplayName: Unable to Move
+	}
+
+	WindrunnerBootsBuff: {
+		DisplayName: Super Speed Run
+		Description: Speed up, speed up
+	}
+
+	GamblersGloves: {
+		DisplayName: Mental Burst
+		Description: Greatly increases movement speed and damage
+	}
+
+	LifeSubSpaceBuff: {
+		DisplayName: Revival Ecology
+		Description: Quickly restores health and increases defense
+	}
+
+	ManaSickness: {
+		DisplayName: Mana Decay
+		Description: Danger, magic weapon, danger
+	}
+
+	PowerJetPackCoolDown: {
+		DisplayName: Power Jet Pack Cooldown
+		Description: You cannot use the Power Jet Pack dash again
+	}
+
+	MercuryBlessingBuff: {
+		DisplayName: Mercury's Blessing
+		Description: You have 95% damage reduction
+	}
+
+	MercuryCurseingBuff: {
+		DisplayName: Mercury's Curse
+		Description: Defense greatly reduced
+	}
+
+	Uranium235Debuff: {
+		DisplayName: U235 - Freeze
+		Description: Freeze!
+	}
+
+	Uranium238Debuff: {
+		DisplayName: U238 - Slow
+		Description: Slow down!
+	}
+
+	VenusHighTempMeltDebuff: {
+		DisplayName: Venus High-Temperature Melt
+		Description: Your defenses are greatly reduced!
+	}
+
+	DeathNoteBuff: {
+		Description: You feel death approaching
+		DisplayName: Death Note
+	}
+
+	EMPIncreasedDamageBuff: {
+		Description: Cleared projectiles convert to your damage boost!
+		DisplayName: EMP Energy Absorption
+	}
+
+	EMPUniversalBuff: {
+		DisplayName: EMP Super Energy Absorption
+		Description: Cleared projectiles convert to your damage and defense boost!
+	}
+
+	SpeedModActiveBuff: {
+		Description: Wow, so fast
+		DisplayName: Power Propulsion Device Effect
+	}
+
+	FirepowerExoskeletonDeviceBuff: {
+		Description: I'm furious
+		DisplayName: Firepower Exoskeleton Kit Damage Boost Effect
+	}
+
+	MechanicalHeartBuff: {
+		Description: Revived from the dead
+		DisplayName: Resurrection Effect
+	}
+
+	TamingWhipRingBuff: {
+		Description: Stackable whip effect
+		DisplayName: Beast Tamer Whip Ring Effect
+	}
+
+	SynergisticCatalystBuff: {
+		Description: Cross-class compatibility effect
+		DisplayName: Synergistic Catalyst Effect
+	}
+
+	BrainInJarBuff: {
+		Description: Your brain-in-a-jar companion is active
+		DisplayName: Brain In Jar Buff
+	}
+
+	ElectronicPsychedelicDrugsBuff: {
+		Description: You feel dizzy
+		DisplayName: Electronic Psychedelic Drugs Buff
+	}
+
+	LimitResponseModuleBuff: {
+		DisplayName: Limit Response
+		Description: Increases damage by 45%, sets critical strike chance to 100%, and increases movement speed by 75%
+	}
+
+	RedSunSummonBuff: {
+		DisplayName: Red Sun Summon Buff
+		Description: The red sun is fighting at your side
+	}
+
+	BloodVesselAcceleratorSkillBuff: {
+		Description: Greatly increases life regeneration and grants near-total damage reduction
+		DisplayName: Blood Vessel Accelerator
+	}
+}

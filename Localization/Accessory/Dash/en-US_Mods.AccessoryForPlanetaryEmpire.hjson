@@ -1,0 +1,47 @@
+Accessory: {
+	Dash: {
+		ElfEnergyCore: {
+			DisplayName: Elf Energy Core
+			Tooltip:
+				'''
+				Perform a powerful energy dash, immune to enemy projectile damage.
+				Disable accessory visibility to use double-tap dash.
+				Enable accessory visibility to use single-key dash.
+				"This is the standard of the Elf Queen."
+				'''
+		}
+
+		PowerJetPack: {
+			DisplayName: Power Jet Pack
+			Tooltip:
+				'''
+				Performs an extremely long, far, and fast electric dash.
+				Immunity to all damage during the dash, dealing massive collision damage to enemies.
+				20-second cooldown on the dash.
+				"Martian technology, compressed dash."
+				'''
+		}
+
+		ShallowOxygenBottle: {
+			DisplayName: Shallow Oxygen Bottle
+			Tooltip:
+				'''
+				Perform a powerful water dash, immune to enemy contact damage.
+				Disable accessory visibility to use double-tap dash.
+				Enable accessory visibility to use single-key dash.
+				"This is the Duke's standard."
+				'''
+		}
+
+		SweetheartCloak: {
+			DisplayName: Sweetheart Cloak
+			Tooltip:
+				'''
+				Perform a powerful honey dash, 25% chance to be immune to damage.
+				Disable accessory visibility to use double-tap dash.
+				Enable accessory visibility to use single-key dash.
+				"Do not enslave the bees."
+				'''
+		}
+	}
+}

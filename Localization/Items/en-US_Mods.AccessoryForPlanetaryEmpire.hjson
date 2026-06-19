@@ -1,0 +1,119 @@
+Items: {
+	PlanetaryHook: {
+		DisplayName: Planetary Hook
+		Tooltip:
+			'''
+			You say you want the entire galaxy?
+			Then why not hook it over?
+			'''
+	}
+
+	StellarCleaver: {
+		DisplayName: Stellar Cleaver
+		Tooltip:
+			'''
+			Pickaxe power and attack damage scale with game progress
+			Right-click to use as a hammer
+			'''
+	}
+
+	TheOutcast: {
+		DisplayName: The Outcast
+		Tooltip:
+			'''
+			Sprays solutions to change terrain
+			Right-click to switch modes
+			Does not consume ammo
+			"Essential for purifying the world"
+			'''
+	}
+
+	Kong: {
+		DisplayName: Kong Gun
+		Tooltip:
+			'''
+			Left-click to shrink enemies
+			Right-click to enlarge enemies
+			For entertainment purposes only!
+			"Form is emptiness"
+			'''
+	}
+
+	Miao: {
+		DisplayName: The Wonderful
+		Tooltip:
+			'''
+			Shoots random projectiles!
+			You never know what the next shot will be!
+			If in a "good world", the damage is permanently tripled
+			"It's just too wonderful"
+			'''
+	}
+
+	TimeLeaper: {
+		DisplayName: Time Leaper
+		Tooltip:
+			'''
+			Left click to turn rain on or off on the surface and snowfields
+			left click to turn on and off sandstorms in the desert. 
+			Right click to change 4 times (4:30 am, 12 noon, 7:30 pm, 12 midnight)
+			'''
+	}
+
+	FakeZenith: {
+		DisplayName: Fake Zenith
+		Tooltip:
+			'''
+			A very low-quality imitation of the Zenith. 
+			It has all the power of the Zenith's materials, but a replica is still just a replica. 
+			It has less than 10% of the power of the original.
+			'''
+	}
+
+	Dreamer: {
+		DisplayName: Dreamer
+		Tooltip:
+			'''
+			A powerful fishing rod that can fish in lava.
+			The number of lines cast and fishing power grow as you progress through the game.
+			"Those fish say they volunteered to bite the hook; it has nothing to do with us."
+			'''
+	}
+
+	CompressedBait: {
+		DisplayName: Compressed Bait
+		Tooltip:
+			'''
+			An indestructible bait.
+			"The ultimate in durability."
+			'''
+	}
+
+	ElectronicPsychedelicDrugs: {
+		DisplayName: Electronic Psychedelic Drugs
+		Tooltip:
+			'''
+			Damage increased by 200%
+			You feel dizzy and feel like you are about to give birth
+			'''
+	}
+
+	DestroyBomb: {
+		DisplayName: Destroy Bomb
+		Tooltip: ""
+	}
+
+	StellarDrill: {
+		DisplayName: Stellar Drill
+		Tooltip: ""
+	}
+
+	SB: {
+		DisplayName: Super Balloon
+		Tooltip:
+			'''
+			Provides nine jumps plus a period of flight
+			"For Super Balloon"
+			'''
+	}
+}

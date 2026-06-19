@@ -1,0 +1,58 @@
+Configs: {
+	EXPModConfig: {
+		// DisplayName: E X P Mod Config
+		
+		EnableExplosionDamageImmunity: {
+		}
+	}
+
+	NoMoreExplosions: {
+		// DisplayName: No More Explosions
+		
+		EnableExplosionDamageImmunity: {
+		}
+	}
+
+	WT_PearlwoodBow: {
+		// DisplayName: W T_ Pearlwood Bow
+		
+		EnablePearlwoodBowTweaks: {
+		}
+	}
+
+	PLAConfigs: {
+		// DisplayName: P L A Configs
+		
+		EnableExplosionDamageImmunity: {
+			Tooltip: 开启后让爆破物无法对玩家造成有效伤害
+			Label: 开启玩家耐炸
+		}
+
+		EnablePearlwoodBowTweaks: {
+			Tooltip: 开启后将修改珍珠木弓的属性和功能
+			Label: 开启珍珠木弓更改
+		}
+
+		EnableDeathSickleTweaks: {
+			Tooltip: 开启后将修改死神镰刀的属性和功能
+			Label: 开启死神镰刀更改
+		}
+
+		EnablePulseBowTweaks: {
+			Tooltip: 开启后将修改脉冲弓的属性和功能
+			Label: 开启脉冲弓更改
+		}
+
+		EnableFireworksLauncherTweaks: {
+			Tooltip: 开启后将修改庆典Mk2的属性和功能
+			Label: 开启庆典Mk2更改
+		}
+
+		DisplayName: 行星帝国饰品设置
+
+		EnableFriendlyFire: {
+			Label: 开启友军伤害
+			Tooltip: 开启后，玩家弹幕可以按精密计算后的伤害命中其他玩家
+		}
+	}
+}

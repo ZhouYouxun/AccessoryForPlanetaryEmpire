@@ -1,0 +1,1645 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\projectiles\\solarsystem\\sunprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:projectiles\\solarsystem\\sunprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\global\\plglobalitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:global\\plglobalitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\global\\plglobalbuyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:global\\plglobalbuyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\global\\keybindsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:global\\keybindsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\global\\customglobalitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:global\\customglobalitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\plarecipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:plarecipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\pla_xyd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:pla_xyd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\build.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:build.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\localization\\en-us\\mods.accessoryforplanetaryempire.hjson||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:localization\\en-us\\mods.accessoryforplanetaryempire.hjson||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\localization\\zh-hans\\mods.accessoryforplanetaryempire.hjson||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:localization\\zh-hans\\mods.accessoryforplanetaryempire.hjson||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\localization\\zh-hans\\zh-hans_mods.accessoryforplanetaryempire.hjson.legacy||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:localization\\zh-hans\\zh-hans_mods.accessoryforplanetaryempire.hjson.legacy||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\starpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\starpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\weapons\\new\\thestaffproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:weapons\\new\\thestaffproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\players\\defense\\onlycyc\\aedcomponentsplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:players\\defense\\onlycyc\\aedcomponentsplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yitao\\AppData\\Local\\SourceServer\\2689420cf7945326cadcdb2eaf9df67f7dca3f8ae804dd614965dfe9a066c650\\src\\FNAPlatform\\SDL2_FNAPlatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\players\\defense\\onlycyc\\tungstencoreplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:players\\defense\\onlycyc\\tungstencoreplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\players\\defense\\onlycyc\\swarmconstructplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:players\\defense\\onlycyc\\swarmconstructplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\attack\\fallenstar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\attack\\fallenstar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\y_testacc\\theitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\y_testacc\\theitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\y_testacc\\theitem.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\y_testacc\\theitem.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\players\\attack\\fallenstarplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:players\\attack\\fallenstarplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\attack\\amalgamationcodex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\attack\\amalgamationcodex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\attack\\opticallensmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\attack\\opticallensmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\attack\\fixedpointattackdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\attack\\fixedpointattackdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\projectiles\\solarsystem\\sunproj2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:projectiles\\solarsystem\\sunproj2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\attack\\modproj\\bulletscreenmanagementterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\attack\\modproj\\bulletscreenmanagementterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\projectiles\\accessory\\moonshieldprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:projectiles\\accessory\\moonshieldprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\players\\defense\\counter\\shinyslimegunplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:players\\defense\\counter\\shinyslimegunplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\projectiles\\accessory\\shinyslimeshieldprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:projectiles\\accessory\\shinyslimeshieldprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\projectiles\\accessory\\slimeshieldprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:projectiles\\accessory\\slimeshieldprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\defense\\onlyemps\\clearbullet\\absorber15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\defense\\onlyemps\\clearbullet\\absorber15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\attack\\modproj\\permanentmodproj\\quickdrawholster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\attack\\modproj\\permanentmodproj\\quickdrawholster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\players\\attack\\modproj\\permanentmodproj\\quickdrawholsterplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:players\\attack\\modproj\\permanentmodproj\\quickdrawholsterplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\attack\\summononly\\synergisticcatalyst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\attack\\summononly\\synergisticcatalyst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\attack\\summononly\\handheldblackhole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\attack\\summononly\\handheldblackhole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\attack\\summononly\\energizedchitin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\attack\\summononly\\energizedchitin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\attack\\summononly\\armybattlebanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\attack\\summononly\\armybattlebanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\defense\\onlyemps\\clearbullet\\interceptor45.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\defense\\onlyemps\\clearbullet\\interceptor45.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\jobacc\\magic\\magic3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\jobacc\\magic\\magic3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\defense\\counter\\reactshieldgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\defense\\counter\\reactshieldgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\attack\\annihilation\\theentropy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\attack\\annihilation\\theentropy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\defense\\onlyemps\\clearbullet\\interceptor55vi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\defense\\onlyemps\\clearbullet\\interceptor55vi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\defense\\onlyemps\\supportbullet\\subspace25e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\defense\\onlyemps\\supportbullet\\subspace25e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\defense\\onlyemps\\interceptor65l.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\defense\\onlyemps\\interceptor65l.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\movement\\teleportation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\movement\\teleportation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\defense\\counter\\scarab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\defense\\counter\\scarab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\defense\\onlycyc\\co2switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\defense\\onlycyc\\co2switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\movement\\swiftwindwalkerboots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\movement\\swiftwindwalkerboots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\defense\\onlycyc\\mechanicalheart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\defense\\onlycyc\\mechanicalheart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\defense\\onlycyc\\heartpacemaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\defense\\onlycyc\\heartpacemaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\attack\\gambler\\gamblerstophat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\attack\\gambler\\gamblerstophat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\defense\\onlycyc\\bloodpump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\defense\\onlycyc\\bloodpump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\defense\\onlycyc\\bloodvesselaccelerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\defense\\onlycyc\\bloodvesselaccelerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\defense\\onlycyc\\aorticthruster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\defense\\onlycyc\\aorticthruster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\weapons\\new\\thesum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:weapons\\new\\thesum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\weapons\\new\\thestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:weapons\\new\\thestaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\weapons\\new\\theknife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:weapons\\new\\theknife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\weapons\\new\\thebow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:weapons\\new\\thebow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\buffs\\electronicpsychedelicdrugsbuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:buffs\\electronicpsychedelicdrugsbuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\My Games\\Terraria\\tModLoader\\ModConfigs\\ImproveGame_UIConfigs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\plalightingboltssystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:plalightingboltssystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessoryforplanetaryempire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessoryforplanetaryempire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\weapons\\new\\thesumwhip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:weapons\\new\\thesumwhip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ExampleMod\\Content\\Projectiles\\ExampleWhipProjectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ExampleMod\\Content\\Projectiles\\ExampleWhipProjectileAdvanced.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\weapons\\new\\thesummer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:weapons\\new\\thesummer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\weapons\\new\\thesumproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:weapons\\new\\thesumproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ExampleMod\\Content\\Items\\Weapons\\ExampleWhip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\weapons\\new\\theknifeproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:weapons\\new\\theknifeproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\players\\solarsystem\\mercuryplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:players\\solarsystem\\mercuryplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\attack\\solarsystem\\mercuryaccessory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\attack\\solarsystem\\mercuryaccessory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\attack\\solarsystem\\venusaccessory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\attack\\solarsystem\\venusaccessory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\attack\\gambler\\cyberchip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\attack\\gambler\\cyberchip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\movement\\controllablehalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\movement\\controllablehalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\projectiles\\solarsystem\\splittingflamesprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:projectiles\\solarsystem\\splittingflamesprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\projectiles\\solarsystem\\neptuneprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:projectiles\\solarsystem\\neptuneprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\projectiles\\solarsystem\\neptuneprojectiletrident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:projectiles\\solarsystem\\neptuneprojectiletrident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\projectiles\\solarsystem\\neptuneprojectiletaijinpproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:projectiles\\solarsystem\\neptuneprojectiletaijinpproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\projectiles\\solarsystem\\jupiterprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:projectiles\\solarsystem\\jupiterprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\projectiles\\solarsystem\\saturnprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:projectiles\\solarsystem\\saturnprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\projectiles\\solarsystem\\earthprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:projectiles\\solarsystem\\earthprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\attack\\annihilation\\limitresponsemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\attack\\annihilation\\limitresponsemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\players\\solarsystem\\venusplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:players\\solarsystem\\venusplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\players\\defense\\empall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:players\\defense\\empall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\players\\defense\\empclearbulletplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:players\\defense\\empclearbulletplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\defense\\onlyemps\\clearbullet\\interceptor35iv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\defense\\onlyemps\\clearbullet\\interceptor35iv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\defense\\onlycyc\\tungstencore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\defense\\onlycyc\\tungstencore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\defense\\counter\\nervoussystemdisorderdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\defense\\counter\\nervoussystemdisorderdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\defense\\brasspocketwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\defense\\brasspocketwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\attack\\gambler\\gamblersgloves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\attack\\gambler\\gamblersgloves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\attack\\gambler\\luckycoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\attack\\gambler\\luckycoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\attack\\gambler\\shinyplayingcards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\attack\\gambler\\shinyplayingcards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\attack\\annihilation\\fissionreactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\attack\\annihilation\\fissionreactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\others\\supermoney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\others\\supermoney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\jobacc\\summon\\summon1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\jobacc\\summon\\summon1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\defense\\onlyemps\\otheremp\\periodicbarrierbooster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\defense\\onlyemps\\otheremp\\periodicbarrierbooster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\defense\\onlyemps\\clearbullet\\interceptor15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\defense\\onlyemps\\clearbullet\\interceptor15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\attack\\modproj\\permanentmodproj\\breakingdrill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\attack\\modproj\\permanentmodproj\\breakingdrill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\defense\\onlycyc\\lifesubspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\defense\\onlycyc\\lifesubspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\attack\\solarsystem\\sunaccessory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\attack\\solarsystem\\sunaccessory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\accessory\\attack\\solarsystem\\earthaccessory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:accessory\\attack\\solarsystem\\earthaccessory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|d:\\documents\\my games\\terraria\\tmodloader\\modsources\\accessoryforplanetaryempire\\buffs\\venushightempmeltdebuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD4E9D-9A0F-403D-9D2F-21D125908E68}|AccessoryForPlanetaryEmpire.csproj|solutionrelative:buffs\\venushightempmeltdebuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PLARecipes.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\PLARecipes.cs",
+              "RelativeDocumentMoniker": "PLARecipes.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\PLARecipes.cs",
+              "RelativeToolTip": "PLARecipes.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwGMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:29:36.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "build.txt",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\build.txt",
+              "RelativeDocumentMoniker": "build.txt",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\build.txt",
+              "RelativeToolTip": "build.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-18T04:50:51.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PLA_XYD.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\PLA_XYD.cs",
+              "RelativeDocumentMoniker": "PLA_XYD.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\PLA_XYD.cs",
+              "RelativeToolTip": "PLA_XYD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T19:34:12.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomGlobalItem.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Global\\CustomGlobalItem.cs",
+              "RelativeDocumentMoniker": "Global\\CustomGlobalItem.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Global\\CustomGlobalItem.cs",
+              "RelativeToolTip": "Global\\CustomGlobalItem.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T16:12:56.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KeybindSystem.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Global\\KeybindSystem.cs",
+              "RelativeDocumentMoniker": "Global\\KeybindSystem.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Global\\KeybindSystem.cs",
+              "RelativeToolTip": "Global\\KeybindSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T16:12:58.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PLGlobalBuyItem.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Global\\PLGlobalBuyItem.cs",
+              "RelativeDocumentMoniker": "Global\\PLGlobalBuyItem.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Global\\PLGlobalBuyItem.cs",
+              "RelativeToolTip": "Global\\PLGlobalBuyItem.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:06:21.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PLGlobalItem.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Global\\PLGlobalItem.cs",
+              "RelativeDocumentMoniker": "Global\\PLGlobalItem.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Global\\PLGlobalItem.cs",
+              "RelativeToolTip": "Global\\PLGlobalItem.cs",
+              "ViewState": "AgIAAL4FAAAAAAAAAAAlwOYFAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:36:27.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SunProjectile.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Projectiles\\SolarSystem\\SunProjectile.cs",
+              "RelativeDocumentMoniker": "Projectiles\\SolarSystem\\SunProjectile.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Projectiles\\SolarSystem\\SunProjectile.cs",
+              "RelativeToolTip": "Projectiles\\SolarSystem\\SunProjectile.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA0wGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T19:21:46.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StarPack.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\StarPack.cs",
+              "RelativeDocumentMoniker": "Accessory\\StarPack.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\StarPack.cs",
+              "RelativeToolTip": "Accessory\\StarPack.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwGoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:06:42.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TungstenCorePlayer.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Players\\Defense\\OnlyCYC\\TungstenCorePlayer.cs",
+              "RelativeDocumentMoniker": "Players\\Defense\\OnlyCYC\\TungstenCorePlayer.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Players\\Defense\\OnlyCYC\\TungstenCorePlayer.cs",
+              "RelativeToolTip": "Players\\Defense\\OnlyCYC\\TungstenCorePlayer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T20:14:33.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BulletScreenManagementTerminal.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\ModProj\\BulletScreenManagementTerminal.cs",
+              "RelativeDocumentMoniker": "Accessory\\Attack\\ModProj\\BulletScreenManagementTerminal.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\ModProj\\BulletScreenManagementTerminal.cs",
+              "RelativeToolTip": "Accessory\\Attack\\ModProj\\BulletScreenManagementTerminal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:34:30.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mods.AccessoryForPlanetaryEmpire.hjson",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Localization\\en-US\\Mods.AccessoryForPlanetaryEmpire.hjson",
+              "RelativeDocumentMoniker": "Localization\\en-US\\Mods.AccessoryForPlanetaryEmpire.hjson",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Localization\\en-US\\Mods.AccessoryForPlanetaryEmpire.hjson",
+              "RelativeToolTip": "Localization\\en-US\\Mods.AccessoryForPlanetaryEmpire.hjson",
+              "ViewState": "AgIAAG8HAAAAAAAAAAAIwI8HAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-21T07:20:39.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "zh-Hans_Mods.AccessoryForPlanetaryEmpire.hjson.legacy",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Localization\\zh-Hans\\zh-Hans_Mods.AccessoryForPlanetaryEmpire.hjson.legacy",
+              "RelativeDocumentMoniker": "Localization\\zh-Hans\\zh-Hans_Mods.AccessoryForPlanetaryEmpire.hjson.legacy",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Localization\\zh-Hans\\zh-Hans_Mods.AccessoryForPlanetaryEmpire.hjson.legacy",
+              "RelativeToolTip": "Localization\\zh-Hans\\zh-Hans_Mods.AccessoryForPlanetaryEmpire.hjson.legacy",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvzsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-21T07:19:05.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TheStaffPROJ.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Weapons\\New\\TheStaffPROJ.cs",
+              "RelativeDocumentMoniker": "Weapons\\New\\TheStaffPROJ.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Weapons\\New\\TheStaffPROJ.cs",
+              "RelativeToolTip": "Weapons\\New\\TheStaffPROJ.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:30:57.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mods.AccessoryForPlanetaryEmpire.hjson",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Localization\\zh-Hans\\Mods.AccessoryForPlanetaryEmpire.hjson",
+              "RelativeDocumentMoniker": "Localization\\zh-Hans\\Mods.AccessoryForPlanetaryEmpire.hjson",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Localization\\zh-Hans\\Mods.AccessoryForPlanetaryEmpire.hjson",
+              "RelativeToolTip": "Localization\\zh-Hans\\Mods.AccessoryForPlanetaryEmpire.hjson",
+              "ViewState": "AgIAAFAHAAAAAAAAAAAIwGQHAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-21T07:19:07.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FallenStar.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\FallenStar.cs",
+              "RelativeDocumentMoniker": "Accessory\\Attack\\FallenStar.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\FallenStar.cs",
+              "RelativeToolTip": "Accessory\\Attack\\FallenStar.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvwwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T19:28:00.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SDL2_FNAPlatform.cs",
+              "DocumentMoniker": "C:\\Users\\Yitao\\AppData\\Local\\SourceServer\\2689420cf7945326cadcdb2eaf9df67f7dca3f8ae804dd614965dfe9a066c650\\src\\FNAPlatform\\SDL2_FNAPlatform.cs",
+              "ToolTip": "C:\\Users\\Yitao\\AppData\\Local\\SourceServer\\2689420cf7945326cadcdb2eaf9df67f7dca3f8ae804dd614965dfe9a066c650\\src\\FNAPlatform\\SDL2_FNAPlatform.cs",
+              "ViewState": "AgIAAF8BAAAAAAAAAAAiwIsBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:21:52.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TheItem.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Y_TestAcc\\TheItem.cs",
+              "RelativeDocumentMoniker": "Accessory\\Y_TestAcc\\TheItem.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Y_TestAcc\\TheItem.cs",
+              "RelativeToolTip": "Accessory\\Y_TestAcc\\TheItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:24:21.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AedComponentsPlayer.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Players\\Defense\\OnlyCYC\\AedComponentsPlayer.cs",
+              "RelativeDocumentMoniker": "Players\\Defense\\OnlyCYC\\AedComponentsPlayer.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Players\\Defense\\OnlyCYC\\AedComponentsPlayer.cs",
+              "RelativeToolTip": "Players\\Defense\\OnlyCYC\\AedComponentsPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvykAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T05:46:26.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SwarmConstructPlayer.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Players\\Defense\\OnlyCYC\\SwarmConstructPlayer.cs",
+              "RelativeDocumentMoniker": "Players\\Defense\\OnlyCYC\\SwarmConstructPlayer.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Players\\Defense\\OnlyCYC\\SwarmConstructPlayer.cs",
+              "RelativeToolTip": "Players\\Defense\\OnlyCYC\\SwarmConstructPlayer.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAQwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T20:08:19.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FallenStarPlayer.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Players\\Attack\\FallenStarPlayer.cs",
+              "RelativeDocumentMoniker": "Players\\Attack\\FallenStarPlayer.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Players\\Attack\\FallenStarPlayer.cs",
+              "RelativeToolTip": "Players\\Attack\\FallenStarPlayer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA7wDIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T19:33:13.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TheItem.png",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Y_TestAcc\\TheItem.png",
+              "RelativeDocumentMoniker": "Accessory\\Y_TestAcc\\TheItem.png",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Y_TestAcc\\TheItem.png",
+              "RelativeToolTip": "Accessory\\Y_TestAcc\\TheItem.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-11-25T20:02:09.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FixedPointAttackDevice.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\FixedPointAttackDevice.cs",
+              "RelativeDocumentMoniker": "Accessory\\Attack\\FixedPointAttackDevice.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\FixedPointAttackDevice.cs",
+              "RelativeToolTip": "Accessory\\Attack\\FixedPointAttackDevice.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T19:28:06.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AmalgamationCodex.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\AmalgamationCodex.cs",
+              "RelativeDocumentMoniker": "Accessory\\Attack\\AmalgamationCodex.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\AmalgamationCodex.cs",
+              "RelativeToolTip": "Accessory\\Attack\\AmalgamationCodex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T19:30:34.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OpticalLensMatrix.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\OpticalLensMatrix.cs",
+              "RelativeDocumentMoniker": "Accessory\\Attack\\OpticalLensMatrix.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\OpticalLensMatrix.cs",
+              "RelativeToolTip": "Accessory\\Attack\\OpticalLensMatrix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:39:37.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SunProj2.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Projectiles\\SolarSystem\\SunProj2.cs",
+              "RelativeDocumentMoniker": "Projectiles\\SolarSystem\\SunProj2.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Projectiles\\SolarSystem\\SunProj2.cs",
+              "RelativeToolTip": "Projectiles\\SolarSystem\\SunProj2.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwDIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:59:32.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SlimeShieldProjectile.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Projectiles\\Accessory\\SlimeShieldProjectile.cs",
+              "RelativeDocumentMoniker": "Projectiles\\Accessory\\SlimeShieldProjectile.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Projectiles\\Accessory\\SlimeShieldProjectile.cs",
+              "RelativeToolTip": "Projectiles\\Accessory\\SlimeShieldProjectile.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwCcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:48:14.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ShinySlimeShieldProjectile.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Projectiles\\Accessory\\ShinySlimeShieldProjectile.cs",
+              "RelativeDocumentMoniker": "Projectiles\\Accessory\\ShinySlimeShieldProjectile.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Projectiles\\Accessory\\ShinySlimeShieldProjectile.cs",
+              "RelativeToolTip": "Projectiles\\Accessory\\ShinySlimeShieldProjectile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwC8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:48:06.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ShinySlimeGunPlayer.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Players\\Defense\\Counter\\ShinySlimeGunPlayer.cs",
+              "RelativeDocumentMoniker": "Players\\Defense\\Counter\\ShinySlimeGunPlayer.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Players\\Defense\\Counter\\ShinySlimeGunPlayer.cs",
+              "RelativeToolTip": "Players\\Defense\\Counter\\ShinySlimeGunPlayer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAWwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:48:34.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MoonShieldProjectile.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Projectiles\\Accessory\\MoonShieldProjectile.cs",
+              "RelativeDocumentMoniker": "Projectiles\\Accessory\\MoonShieldProjectile.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Projectiles\\Accessory\\MoonShieldProjectile.cs",
+              "RelativeToolTip": "Projectiles\\Accessory\\MoonShieldProjectile.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwC8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:50:08.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Absorber15.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyEMPs\\ClearBullet\\Absorber15.cs",
+              "RelativeDocumentMoniker": "Accessory\\Defense\\OnlyEMPs\\ClearBullet\\Absorber15.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyEMPs\\ClearBullet\\Absorber15.cs",
+              "RelativeToolTip": "Accessory\\Defense\\OnlyEMPs\\ClearBullet\\Absorber15.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAASwEEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:18:20.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "QuickDrawHolster.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\ModProj\\PermanentModProj\\QuickDrawHolster.cs",
+              "RelativeDocumentMoniker": "Accessory\\Attack\\ModProj\\PermanentModProj\\QuickDrawHolster.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\ModProj\\PermanentModProj\\QuickDrawHolster.cs",
+              "RelativeToolTip": "Accessory\\Attack\\ModProj\\PermanentModProj\\QuickDrawHolster.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvw8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:34:22.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "QuickDrawHolsterPlayer.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Players\\Attack\\ModProj\\PermanentModProj\\QuickDrawHolsterPlayer.cs",
+              "RelativeDocumentMoniker": "Players\\Attack\\ModProj\\PermanentModProj\\QuickDrawHolsterPlayer.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Players\\Attack\\ModProj\\PermanentModProj\\QuickDrawHolsterPlayer.cs",
+              "RelativeToolTip": "Players\\Attack\\ModProj\\PermanentModProj\\QuickDrawHolsterPlayer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:35:27.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SynergisticCatalyst.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\SummonOnly\\SynergisticCatalyst.cs",
+              "RelativeDocumentMoniker": "Accessory\\Attack\\SummonOnly\\SynergisticCatalyst.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\SummonOnly\\SynergisticCatalyst.cs",
+              "RelativeToolTip": "Accessory\\Attack\\SummonOnly\\SynergisticCatalyst.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwDkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:25:43.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HandheldBlackHole.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\SummonOnly\\HandheldBlackHole.cs",
+              "RelativeDocumentMoniker": "Accessory\\Attack\\SummonOnly\\HandheldBlackHole.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\SummonOnly\\HandheldBlackHole.cs",
+              "RelativeToolTip": "Accessory\\Attack\\SummonOnly\\HandheldBlackHole.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:25:22.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EnergizedChitin.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\SummonOnly\\EnergizedChitin.cs",
+              "RelativeDocumentMoniker": "Accessory\\Attack\\SummonOnly\\EnergizedChitin.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\SummonOnly\\EnergizedChitin.cs",
+              "RelativeToolTip": "Accessory\\Attack\\SummonOnly\\EnergizedChitin.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwDcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:24:54.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ArmyBattleBanner.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\SummonOnly\\ArmyBattleBanner.cs",
+              "RelativeDocumentMoniker": "Accessory\\Attack\\SummonOnly\\ArmyBattleBanner.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\SummonOnly\\ArmyBattleBanner.cs",
+              "RelativeToolTip": "Accessory\\Attack\\SummonOnly\\ArmyBattleBanner.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwDEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:24:41.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Magic3.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\JobAcc\\Magic\\Magic3.cs",
+              "RelativeDocumentMoniker": "Accessory\\JobAcc\\Magic\\Magic3.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\JobAcc\\Magic\\Magic3.cs",
+              "RelativeToolTip": "Accessory\\JobAcc\\Magic\\Magic3.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAASwD4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:18:27.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TheEntropy.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\Annihilation\\TheEntropy.cs",
+              "RelativeDocumentMoniker": "Accessory\\Attack\\Annihilation\\TheEntropy.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\Annihilation\\TheEntropy.cs",
+              "RelativeToolTip": "Accessory\\Attack\\Annihilation\\TheEntropy.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAASwCMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:18:08.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Interceptor45.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyEMPs\\ClearBullet\\Interceptor45.cs",
+              "RelativeDocumentMoniker": "Accessory\\Defense\\OnlyEMPs\\ClearBullet\\Interceptor45.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyEMPs\\ClearBullet\\Interceptor45.cs",
+              "RelativeToolTip": "Accessory\\Defense\\OnlyEMPs\\ClearBullet\\Interceptor45.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAASwDsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:17:56.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Interceptor55VI.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyEMPs\\ClearBullet\\Interceptor55VI.cs",
+              "RelativeDocumentMoniker": "Accessory\\Defense\\OnlyEMPs\\ClearBullet\\Interceptor55VI.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyEMPs\\ClearBullet\\Interceptor55VI.cs",
+              "RelativeToolTip": "Accessory\\Defense\\OnlyEMPs\\ClearBullet\\Interceptor55VI.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:17:52.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SubSpace25e.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyEMPs\\SupportBullet\\SubSpace25e.cs",
+              "RelativeDocumentMoniker": "Accessory\\Defense\\OnlyEMPs\\SupportBullet\\SubSpace25e.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyEMPs\\SupportBullet\\SubSpace25e.cs",
+              "RelativeToolTip": "Accessory\\Defense\\OnlyEMPs\\SupportBullet\\SubSpace25e.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:17:47.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Interceptor65L.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyEMPs\\Interceptor65L.cs",
+              "RelativeDocumentMoniker": "Accessory\\Defense\\OnlyEMPs\\Interceptor65L.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyEMPs\\Interceptor65L.cs",
+              "RelativeToolTip": "Accessory\\Defense\\OnlyEMPs\\Interceptor65L.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:17:43.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ReactShieldGenerator.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\Counter\\ReactShieldGenerator.cs",
+              "RelativeDocumentMoniker": "Accessory\\Defense\\Counter\\ReactShieldGenerator.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\Counter\\ReactShieldGenerator.cs",
+              "RelativeToolTip": "Accessory\\Defense\\Counter\\ReactShieldGenerator.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAASwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:16:46.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Teleportation.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Movement\\Teleportation.cs",
+              "RelativeDocumentMoniker": "Accessory\\Movement\\Teleportation.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Movement\\Teleportation.cs",
+              "RelativeToolTip": "Accessory\\Movement\\Teleportation.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAtwIIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:17:06.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Scarab.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\Counter\\Scarab.cs",
+              "RelativeDocumentMoniker": "Accessory\\Defense\\Counter\\Scarab.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\Counter\\Scarab.cs",
+              "RelativeToolTip": "Accessory\\Defense\\Counter\\Scarab.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAawCwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:16:53.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CO2Switch.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyCYC\\CO2Switch.cs",
+              "RelativeDocumentMoniker": "Accessory\\Defense\\OnlyCYC\\CO2Switch.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyCYC\\CO2Switch.cs",
+              "RelativeToolTip": "Accessory\\Defense\\OnlyCYC\\CO2Switch.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvx0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:16:33.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SwiftWindWalkerBoots.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Movement\\SwiftWindWalkerBoots.cs",
+              "RelativeDocumentMoniker": "Accessory\\Movement\\SwiftWindWalkerBoots.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Movement\\SwiftWindWalkerBoots.cs",
+              "RelativeToolTip": "Accessory\\Movement\\SwiftWindWalkerBoots.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAASwDAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:16:27.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GamblersTopHat.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\Gambler\\GamblersTopHat.cs",
+              "RelativeDocumentMoniker": "Accessory\\Attack\\Gambler\\GamblersTopHat.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\Gambler\\GamblersTopHat.cs",
+              "RelativeToolTip": "Accessory\\Attack\\Gambler\\GamblersTopHat.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAASwCkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:16:20.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BloodVesselAccelerator.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyCYC\\BloodVesselAccelerator.cs",
+              "RelativeDocumentMoniker": "Accessory\\Defense\\OnlyCYC\\BloodVesselAccelerator.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyCYC\\BloodVesselAccelerator.cs",
+              "RelativeToolTip": "Accessory\\Defense\\OnlyCYC\\BloodVesselAccelerator.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwDEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:15:40.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ElectronicPsychedelicDrugsBuff.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Buffs\\ElectronicPsychedelicDrugsBuff.cs",
+              "RelativeDocumentMoniker": "Buffs\\ElectronicPsychedelicDrugsBuff.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Buffs\\ElectronicPsychedelicDrugsBuff.cs",
+              "RelativeToolTip": "Buffs\\ElectronicPsychedelicDrugsBuff.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:21:12.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "TheBow.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Weapons\\New\\TheBow.cs",
+              "RelativeDocumentMoniker": "Weapons\\New\\TheBow.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Weapons\\New\\TheBow.cs",
+              "RelativeToolTip": "Weapons\\New\\TheBow.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAgwJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:04:29.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AorticThruster.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyCYC\\AorticThruster.cs",
+              "RelativeDocumentMoniker": "Accessory\\Defense\\OnlyCYC\\AorticThruster.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyCYC\\AorticThruster.cs",
+              "RelativeToolTip": "Accessory\\Defense\\OnlyCYC\\AorticThruster.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:23:14.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "HeartPacemaker.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyCYC\\HeartPacemaker.cs",
+              "RelativeDocumentMoniker": "Accessory\\Defense\\OnlyCYC\\HeartPacemaker.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyCYC\\HeartPacemaker.cs",
+              "RelativeToolTip": "Accessory\\Defense\\OnlyCYC\\HeartPacemaker.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAawC8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:22:46.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MechanicalHeart.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyCYC\\MechanicalHeart.cs",
+              "RelativeDocumentMoniker": "Accessory\\Defense\\OnlyCYC\\MechanicalHeart.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyCYC\\MechanicalHeart.cs",
+              "RelativeToolTip": "Accessory\\Defense\\OnlyCYC\\MechanicalHeart.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAawC8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:23:23.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "PLALightingBoltsSystem.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\PLALightingBoltsSystem.cs",
+              "RelativeDocumentMoniker": "PLALightingBoltsSystem.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\PLALightingBoltsSystem.cs",
+              "RelativeToolTip": "PLALightingBoltsSystem.cs",
+              "ViewState": "AgIAAAgDAAAAAAAAAAApwCIDAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:21:28.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "BloodPump.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyCYC\\BloodPump.cs",
+              "RelativeDocumentMoniker": "Accessory\\Defense\\OnlyCYC\\BloodPump.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyCYC\\BloodPump.cs",
+              "RelativeToolTip": "Accessory\\Defense\\OnlyCYC\\BloodPump.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvzIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:23:17.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "TheSum.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Weapons\\New\\TheSum.cs",
+              "RelativeDocumentMoniker": "Weapons\\New\\TheSum.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Weapons\\New\\TheSum.cs",
+              "RelativeToolTip": "Weapons\\New\\TheSum.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:04:42.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TheStaff.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Weapons\\New\\TheStaff.cs",
+              "RelativeDocumentMoniker": "Weapons\\New\\TheStaff.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Weapons\\New\\TheStaff.cs",
+              "RelativeToolTip": "Weapons\\New\\TheStaff.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAqwLUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:04:35.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "TheKnife.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Weapons\\New\\TheKnife.cs",
+              "RelativeDocumentMoniker": "Weapons\\New\\TheKnife.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Weapons\\New\\TheKnife.cs",
+              "RelativeToolTip": "Weapons\\New\\TheKnife.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAgwJQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:04:24.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ImproveGame_UIConfigs.json",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModConfigs\\ImproveGame_UIConfigs.json",
+              "RelativeDocumentMoniker": "..\\..\\ModConfigs\\ImproveGame_UIConfigs.json",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModConfigs\\ImproveGame_UIConfigs.json",
+              "RelativeToolTip": "..\\..\\ModConfigs\\ImproveGame_UIConfigs.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-22T06:27:57.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AccessoryForPlanetaryEmpire.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\AccessoryForPlanetaryEmpire.cs",
+              "RelativeDocumentMoniker": "AccessoryForPlanetaryEmpire.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\AccessoryForPlanetaryEmpire.cs",
+              "RelativeToolTip": "AccessoryForPlanetaryEmpire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T23:43:33.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "TheSumWhip.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Weapons\\New\\TheSumWhip.cs",
+              "RelativeDocumentMoniker": "Weapons\\New\\TheSumWhip.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Weapons\\New\\TheSumWhip.cs",
+              "RelativeToolTip": "Weapons\\New\\TheSumWhip.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAcwI4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:24:45.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ExampleWhip.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ExampleMod\\Content\\Items\\Weapons\\ExampleWhip.cs",
+              "RelativeDocumentMoniker": "..\\ExampleMod\\Content\\Items\\Weapons\\ExampleWhip.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ExampleMod\\Content\\Items\\Weapons\\ExampleWhip.cs",
+              "RelativeToolTip": "..\\ExampleMod\\Content\\Items\\Weapons\\ExampleWhip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvyMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:22:48.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ExampleWhipProjectile.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ExampleMod\\Content\\Projectiles\\ExampleWhipProjectile.cs",
+              "RelativeDocumentMoniker": "..\\ExampleMod\\Content\\Projectiles\\ExampleWhipProjectile.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ExampleMod\\Content\\Projectiles\\ExampleWhipProjectile.cs",
+              "RelativeToolTip": "..\\ExampleMod\\Content\\Projectiles\\ExampleWhipProjectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:34:32.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ExampleWhipProjectileAdvanced.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ExampleMod\\Content\\Projectiles\\ExampleWhipProjectileAdvanced.cs",
+              "RelativeDocumentMoniker": "..\\ExampleMod\\Content\\Projectiles\\ExampleWhipProjectileAdvanced.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ExampleMod\\Content\\Projectiles\\ExampleWhipProjectileAdvanced.cs",
+              "RelativeToolTip": "..\\ExampleMod\\Content\\Projectiles\\ExampleWhipProjectileAdvanced.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:34:56.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "TheSumPROJ.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Weapons\\New\\TheSumPROJ.cs",
+              "RelativeDocumentMoniker": "Weapons\\New\\TheSumPROJ.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Weapons\\New\\TheSumPROJ.cs",
+              "RelativeToolTip": "Weapons\\New\\TheSumPROJ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:05:25.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "TheSummer.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Weapons\\New\\TheSummer.cs",
+              "RelativeDocumentMoniker": "Weapons\\New\\TheSummer.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Weapons\\New\\TheSummer.cs",
+              "RelativeToolTip": "Weapons\\New\\TheSummer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:05:17.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "TheKnifePROJ.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Weapons\\New\\TheKnifePROJ.cs",
+              "RelativeDocumentMoniker": "Weapons\\New\\TheKnifePROJ.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Weapons\\New\\TheKnifePROJ.cs",
+              "RelativeToolTip": "Weapons\\New\\TheKnifePROJ.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:04:50.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "MercuryAccessory.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\SolarSystem\\MercuryAccessory.cs",
+              "RelativeDocumentMoniker": "Accessory\\Attack\\SolarSystem\\MercuryAccessory.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\SolarSystem\\MercuryAccessory.cs",
+              "RelativeToolTip": "Accessory\\Attack\\SolarSystem\\MercuryAccessory.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:21:19.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "MercuryPlayer.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Players\\SolarSystem\\MercuryPlayer.cs",
+              "RelativeDocumentMoniker": "Players\\SolarSystem\\MercuryPlayer.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Players\\SolarSystem\\MercuryPlayer.cs",
+              "RelativeToolTip": "Players\\SolarSystem\\MercuryPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:09:57.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ControllableHalo.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Movement\\ControllableHalo.cs",
+              "RelativeDocumentMoniker": "Accessory\\Movement\\ControllableHalo.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Movement\\ControllableHalo.cs",
+              "RelativeToolTip": "Accessory\\Movement\\ControllableHalo.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:06:21.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "VenusAccessory.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\SolarSystem\\VenusAccessory.cs",
+              "RelativeDocumentMoniker": "Accessory\\Attack\\SolarSystem\\VenusAccessory.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\SolarSystem\\VenusAccessory.cs",
+              "RelativeToolTip": "Accessory\\Attack\\SolarSystem\\VenusAccessory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvyYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:13:57.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "CyberChip.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\Gambler\\CyberChip.cs",
+              "RelativeDocumentMoniker": "Accessory\\Attack\\Gambler\\CyberChip.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\Gambler\\CyberChip.cs",
+              "RelativeToolTip": "Accessory\\Attack\\Gambler\\CyberChip.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:44:04.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "SplittingFlamesProjectile.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Projectiles\\SolarSystem\\SplittingFlamesProjectile.cs",
+              "RelativeDocumentMoniker": "Projectiles\\SolarSystem\\SplittingFlamesProjectile.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Projectiles\\SolarSystem\\SplittingFlamesProjectile.cs",
+              "RelativeToolTip": "Projectiles\\SolarSystem\\SplittingFlamesProjectile.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwDgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:08:06.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "NeptuneProjectileTaiJinPProj.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Projectiles\\SolarSystem\\NeptuneProjectileTaiJinPProj.cs",
+              "RelativeDocumentMoniker": "Projectiles\\SolarSystem\\NeptuneProjectileTaiJinPProj.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Projectiles\\SolarSystem\\NeptuneProjectileTaiJinPProj.cs",
+              "RelativeToolTip": "Projectiles\\SolarSystem\\NeptuneProjectileTaiJinPProj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:02:21.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "NeptuneProjectile.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Projectiles\\SolarSystem\\NeptuneProjectile.cs",
+              "RelativeDocumentMoniker": "Projectiles\\SolarSystem\\NeptuneProjectile.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Projectiles\\SolarSystem\\NeptuneProjectile.cs",
+              "RelativeToolTip": "Projectiles\\SolarSystem\\NeptuneProjectile.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowCsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:47:42.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "NeptuneProjectileTrident.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Projectiles\\SolarSystem\\NeptuneProjectileTrident.cs",
+              "RelativeDocumentMoniker": "Projectiles\\SolarSystem\\NeptuneProjectileTrident.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Projectiles\\SolarSystem\\NeptuneProjectileTrident.cs",
+              "RelativeToolTip": "Projectiles\\SolarSystem\\NeptuneProjectileTrident.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAawIkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:45:46.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "JupiterProjectile.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Projectiles\\SolarSystem\\JupiterProjectile.cs",
+              "RelativeDocumentMoniker": "Projectiles\\SolarSystem\\JupiterProjectile.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Projectiles\\SolarSystem\\JupiterProjectile.cs",
+              "RelativeToolTip": "Projectiles\\SolarSystem\\JupiterProjectile.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwEwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:17:17.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "SaturnProjectile.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Projectiles\\SolarSystem\\SaturnProjectile.cs",
+              "RelativeDocumentMoniker": "Projectiles\\SolarSystem\\SaturnProjectile.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Projectiles\\SolarSystem\\SaturnProjectile.cs",
+              "RelativeToolTip": "Projectiles\\SolarSystem\\SaturnProjectile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvyIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:17:57.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "EarthProjectile.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Projectiles\\SolarSystem\\EarthProjectile.cs",
+              "RelativeDocumentMoniker": "Projectiles\\SolarSystem\\EarthProjectile.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Projectiles\\SolarSystem\\EarthProjectile.cs",
+              "RelativeToolTip": "Projectiles\\SolarSystem\\EarthProjectile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:17:44.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "LimitResponseModule.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\Annihilation\\LimitResponseModule.cs",
+              "RelativeDocumentMoniker": "Accessory\\Attack\\Annihilation\\LimitResponseModule.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\Annihilation\\LimitResponseModule.cs",
+              "RelativeToolTip": "Accessory\\Attack\\Annihilation\\LimitResponseModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvx0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:22:31.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "VenusPlayer.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Players\\SolarSystem\\VenusPlayer.cs",
+              "RelativeDocumentMoniker": "Players\\SolarSystem\\VenusPlayer.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Players\\SolarSystem\\VenusPlayer.cs",
+              "RelativeToolTip": "Players\\SolarSystem\\VenusPlayer.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:08:41.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Interceptor35IV.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyEMPs\\ClearBullet\\Interceptor35IV.cs",
+              "RelativeDocumentMoniker": "Accessory\\Defense\\OnlyEMPs\\ClearBullet\\Interceptor35IV.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyEMPs\\ClearBullet\\Interceptor35IV.cs",
+              "RelativeToolTip": "Accessory\\Defense\\OnlyEMPs\\ClearBullet\\Interceptor35IV.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwC8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:58:16.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "GamblersGloves.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\Gambler\\GamblersGloves.cs",
+              "RelativeDocumentMoniker": "Accessory\\Attack\\Gambler\\GamblersGloves.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\Gambler\\GamblersGloves.cs",
+              "RelativeToolTip": "Accessory\\Attack\\Gambler\\GamblersGloves.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:44:03.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "LuckyCoin.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\Gambler\\LuckyCoin.cs",
+              "RelativeDocumentMoniker": "Accessory\\Attack\\Gambler\\LuckyCoin.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\Gambler\\LuckyCoin.cs",
+              "RelativeToolTip": "Accessory\\Attack\\Gambler\\LuckyCoin.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:43:45.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "ShinyPlayingCards.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\Gambler\\ShinyPlayingCards.cs",
+              "RelativeDocumentMoniker": "Accessory\\Attack\\Gambler\\ShinyPlayingCards.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\Gambler\\ShinyPlayingCards.cs",
+              "RelativeToolTip": "Accessory\\Attack\\Gambler\\ShinyPlayingCards.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:43:27.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "TungstenCore.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyCYC\\TungstenCore.cs",
+              "RelativeDocumentMoniker": "Accessory\\Defense\\OnlyCYC\\TungstenCore.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyCYC\\TungstenCore.cs",
+              "RelativeToolTip": "Accessory\\Defense\\OnlyCYC\\TungstenCore.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwDUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:31:42.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "EMPClearBulletPlayer.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Players\\Defense\\EMPClearBulletPlayer.cs",
+              "RelativeDocumentMoniker": "Players\\Defense\\EMPClearBulletPlayer.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Players\\Defense\\EMPClearBulletPlayer.cs",
+              "RelativeToolTip": "Players\\Defense\\EMPClearBulletPlayer.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAnwBMBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T07:01:55.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "BrassPocketWatch.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\BrassPocketWatch.cs",
+              "RelativeDocumentMoniker": "Accessory\\Defense\\BrassPocketWatch.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\BrassPocketWatch.cs",
+              "RelativeToolTip": "Accessory\\Defense\\BrassPocketWatch.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:45:07.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "EMPAll.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Players\\Defense\\EMPAll.cs",
+              "RelativeDocumentMoniker": "Players\\Defense\\EMPAll.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Players\\Defense\\EMPAll.cs",
+              "RelativeToolTip": "Players\\Defense\\EMPAll.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAArwEUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T07:01:33.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "NervousSystemDisorderDevice.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\Counter\\NervousSystemDisorderDevice.cs",
+              "RelativeDocumentMoniker": "Accessory\\Defense\\Counter\\NervousSystemDisorderDevice.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\Counter\\NervousSystemDisorderDevice.cs",
+              "RelativeToolTip": "Accessory\\Defense\\Counter\\NervousSystemDisorderDevice.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwCoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:45:46.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "FissionReactor.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\Annihilation\\FissionReactor.cs",
+              "RelativeDocumentMoniker": "Accessory\\Attack\\Annihilation\\FissionReactor.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\Annihilation\\FissionReactor.cs",
+              "RelativeToolTip": "Accessory\\Attack\\Annihilation\\FissionReactor.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAtwCYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:39:53.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "SuperMoney.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Others\\SuperMoney.cs",
+              "RelativeDocumentMoniker": "Accessory\\Others\\SuperMoney.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Others\\SuperMoney.cs",
+              "RelativeToolTip": "Accessory\\Others\\SuperMoney.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAvwB8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:36:10.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Summon1.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\JobAcc\\Summon\\Summon1.cs",
+              "RelativeDocumentMoniker": "Accessory\\JobAcc\\Summon\\Summon1.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\JobAcc\\Summon\\Summon1.cs",
+              "RelativeToolTip": "Accessory\\JobAcc\\Summon\\Summon1.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAArwD8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:36:02.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "PeriodicBarrierBooster.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyEMPs\\OtherEMP\\PeriodicBarrierBooster.cs",
+              "RelativeDocumentMoniker": "Accessory\\Defense\\OnlyEMPs\\OtherEMP\\PeriodicBarrierBooster.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyEMPs\\OtherEMP\\PeriodicBarrierBooster.cs",
+              "RelativeToolTip": "Accessory\\Defense\\OnlyEMPs\\OtherEMP\\PeriodicBarrierBooster.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAtwC8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:35:54.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Interceptor15.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyEMPs\\ClearBullet\\Interceptor15.cs",
+              "RelativeDocumentMoniker": "Accessory\\Defense\\OnlyEMPs\\ClearBullet\\Interceptor15.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyEMPs\\ClearBullet\\Interceptor15.cs",
+              "RelativeToolTip": "Accessory\\Defense\\OnlyEMPs\\ClearBullet\\Interceptor15.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAtwDsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:35:29.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "BreakingDrill.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\ModProj\\PermanentModProj\\BreakingDrill.cs",
+              "RelativeDocumentMoniker": "Accessory\\Attack\\ModProj\\PermanentModProj\\BreakingDrill.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\ModProj\\PermanentModProj\\BreakingDrill.cs",
+              "RelativeToolTip": "Accessory\\Attack\\ModProj\\PermanentModProj\\BreakingDrill.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAIA9wC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:35:23.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "LifeSubSpace.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyCYC\\LifeSubSpace.cs",
+              "RelativeDocumentMoniker": "Accessory\\Defense\\OnlyCYC\\LifeSubSpace.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Defense\\OnlyCYC\\LifeSubSpace.cs",
+              "RelativeToolTip": "Accessory\\Defense\\OnlyCYC\\LifeSubSpace.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwD4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:23:51.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "SunAccessory.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\SolarSystem\\SunAccessory.cs",
+              "RelativeDocumentMoniker": "Accessory\\Attack\\SolarSystem\\SunAccessory.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\SolarSystem\\SunAccessory.cs",
+              "RelativeToolTip": "Accessory\\Attack\\SolarSystem\\SunAccessory.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwEAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:22:07.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "EarthAccessory.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\SolarSystem\\EarthAccessory.cs",
+              "RelativeDocumentMoniker": "Accessory\\Attack\\SolarSystem\\EarthAccessory.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Accessory\\Attack\\SolarSystem\\EarthAccessory.cs",
+              "RelativeToolTip": "Accessory\\Attack\\SolarSystem\\EarthAccessory.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T08:21:42.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "VenusHighTempMeltDebuff.cs",
+              "DocumentMoniker": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Buffs\\VenusHighTempMeltDebuff.cs",
+              "RelativeDocumentMoniker": "Buffs\\VenusHighTempMeltDebuff.cs",
+              "ToolTip": "D:\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AccessoryForPlanetaryEmpire\\Buffs\\VenusHighTempMeltDebuff.cs",
+              "RelativeToolTip": "Buffs\\VenusHighTempMeltDebuff.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T07:05:00.534Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

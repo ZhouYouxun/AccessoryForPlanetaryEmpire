@@ -1,0 +1,181 @@
+Buffs: {
+	Fly: {
+		DisplayName: 你不应该看到这个
+		Description: 快说你干了什么
+	}
+
+	BloodPumpBuff: {
+		Description: 内心强大（物理）的人可以面临更多挑战
+		DisplayName: 循环系统强化
+	}
+
+	DamageProtectionDevice: {
+		Description: 你的防御力和伤害减免归零了！
+		DisplayName: 破败防御
+	}
+
+	INV: {
+		Description: 敌人无法攻击到你
+		DisplayName: 亚空间立场
+	}
+
+	DamageProtectionDeviceBuff: {
+		DisplayName: 破败防御
+		Description: 你的防御力和伤害减免归零了！
+	}
+
+	NSDD_Player: {
+		Description: 你寸步难行！
+		DisplayName: 神经系统再生
+	}
+
+	NSDD_Enemy: {
+		Description: 你寸步难行！
+		DisplayName: 神经系统损坏
+	}
+
+	ControllableHaloBuff: {
+		Description: 你正在以每秒2‰的速度损失生命值！
+		DisplayName: 分崩离析之环
+	}
+
+	HandHeldMechanicalBucklerSkillBuff: {
+		Description: 你感觉你势不可挡！
+		DisplayName: 装甲盾之佑
+	}
+
+	UnlimitedManaBackpackPlayerSkillBuff: {
+		Description: 你的攻击力强大到能撕碎万物，但以快速生命流失为代价
+		DisplayName: 魔能背包增益
+	}
+
+	UltimateFunctionOverloadDeviceBuff: {
+		DisplayName: 你感觉你 充 满 了 抛 瓦
+		Description: 超载装置效果
+	}
+
+	GamblersTopHatBuff: {
+		Description: 已触发超级暴击
+		DisplayName: 超级暴击
+	}
+
+	Nomove: {
+		Description: 因某种原因 你动弹不得
+		DisplayName: 无法移动
+	}
+
+	WindrunnerBootsBuff: {
+		DisplayName: 超速奔跑
+		Description: 速度加快~ 速度加快~
+	}
+
+	GamblersGloves: {
+		DisplayName: 精神爆发
+		Description: 大幅提升移速与伤害
+	}
+
+	LifeSubSpaceBuff: {
+		DisplayName: 复苏之生态
+		Description: 快速恢复生命值并增加防御力
+	}
+
+	ManaSickness: {
+		DisplayName: 魔力破败
+		Description: 危 魔法武器 危
+	}
+
+	PowerJetPackCoolDown: {
+		DisplayName: 电能喷气背包冷却
+		Description: 你不能再使用电能喷气背包冲刺
+	}
+
+	MercuryBlessingBuff: {
+		DisplayName: 水星祝福
+		Description: 你拥有95%的伤害减免
+	}
+
+	MercuryCurseingBuff: {
+		DisplayName: 水星诅咒
+		Description: 防御力大幅降低
+	}
+
+	Uranium235Debuff: {
+		DisplayName: U235-冻结
+		Description: 冻结吧！
+	}
+
+	Uranium238Debuff: {
+		DisplayName: U238-缓速
+		Description: 减速吧！
+	}
+
+	VenusHighTempMeltDebuff: {
+		DisplayName: 金星高温熔毁
+		Description: 你们的防御力大幅降低了！
+	}
+
+	DeathNoteBuff: {
+		Description: 你觉得死亡正在向你逼近
+		DisplayName: 死亡笔记
+	}
+
+	EMPIncreasedDamageBuff: {
+		Description: 被清除的弹幕转化为你的伤害提升！
+		DisplayName: EMP能量吸收
+	}
+
+	EMPUniversalBuff: {
+		DisplayName: EMP超级能量吸收
+		Description: 被清除的弹幕转化为你的伤害与防御力提升！
+	}
+
+	SpeedModActiveBuff: {
+		Description: 哇，好快
+		DisplayName: 动力推进装置效果
+	}
+
+	FirepowerExoskeletonDeviceBuff: {
+		Description: 爷怒了
+		DisplayName: 火力外骨骼套件增伤效果
+	}
+
+	MechanicalHeartBuff: {
+		Description: 起死回生
+		DisplayName: 复活效果
+	}
+
+	TamingWhipRingBuff: {
+		Description: 可以堆叠的鞭子效果
+		DisplayName: 驯兽鞭环效果
+	}
+
+	SynergisticCatalystBuff: {
+		Description: 不同职业的兼容效果
+		DisplayName: 协同催化剂效果
+	}
+
+	BrainInJarBuff: {
+		Description: 罐中大脑正在协同作战
+		DisplayName: 罐中大脑效果
+	}
+
+	ElectronicPsychedelicDrugsBuff: {
+		Description: 头晕目眩
+		DisplayName: 电子迷幻效果
+	}
+
+	LimitResponseModuleBuff: {
+		DisplayName: 极限反应
+		Description: 伤害提升45%，暴击率提升至100%，移动速度提升75%
+	}
+
+	RedSunSummonBuff: {
+		DisplayName: 红日召唤效果
+		Description: 红日正在与你并肩作战
+	}
+
+	BloodVesselAcceleratorSkillBuff: {
+		Description: 大幅提升生命恢复，并获得近乎完全的伤害减免
+		DisplayName: 血管加速器
+	}
+}

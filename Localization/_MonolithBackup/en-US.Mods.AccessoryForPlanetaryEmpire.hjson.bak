@@ -1,0 +1,2051 @@
+Accessory: {
+	Attack: {
+		SolarSystem: {
+			MercuryAccessory: {
+				DisplayName: Mercury
+				Tooltip:
+					'''
+					Summons Mercury to orbit around you.
+					Mercury provides periodic high damage reduction.
+					When hit, damage reduction and defense are nullified for 10 seconds.
+					[c/BFC5CC: Other types of injuries will not result in the termination of damage reduction or penalties]
+					If upgraded to the Solar System, this penalty is removed.
+					"It has nothing to do with water or mercury."
+					'''
+			}
+
+			EarthAccessory: {
+				DisplayName: Earth
+				Tooltip:
+					'''
+					Summons Earth to orbit around you.
+					Every 10 seconds, Earth restores 100 health.
+					If upgraded to the Solar System, the cooldown is reduced to 5 seconds.
+					If in a "good world", it will restores 250 health.
+					"Cutting-edge medical technology"
+					'''
+			}
+
+			MarsAccessory: {
+				DisplayName: Mars
+				Tooltip:
+					'''
+					Summons Mars to orbit around you.
+					Mars spews tracking, splitting flames at enemies, dealing 0.75x the damage of your held weapon.
+					If upgraded to the Solar System, damage multiplier increases to 1.5x, and attack interval shortens to 2 seconds.
+					"It has the highest mountain."
+					'''
+			}
+
+			JupiterAccessory: {
+				DisplayName: Jupiter
+				Tooltip:
+					'''
+					Summons Jupiter to orbit around you.
+					Jupiter deals 1500 collision damage to enemies.
+					If upgraded to the Solar System, the damage increases to 4500.
+					"What's wrong with a stronger gravity? Roche limit is here."
+					'''
+			}
+
+			SaturnAccessory: {
+				DisplayName: Saturn
+				Tooltip:
+					'''
+					Summons Saturn to orbit around you.
+					Saturn scatters rings that ricochet off the screen edges.
+					The base damage of the rings is 450, increasing with each bounce.
+					If upgraded to the Solar System, the damage increases to 650.
+					"No, it is not earthy at all."
+					'''
+			}
+
+			UranusAccessory: {
+				DisplayName: Uranus
+				Tooltip:
+					'''
+					Summons Uranus to orbit around you.
+					Uranus slows down nearby enemies and has a chance to freeze them.
+					If upgraded to the Solar System, the interference radius increases by 40%.
+					"The name of uranium comes from this planet."
+					'''
+			}
+
+			PlutoAccessory: {
+				DisplayName: Pluto
+				Tooltip:
+					'''
+					Summons Pluto to orbit around you.
+					Pluto blocks all projectiles that touch it, with a chance to reflect them back.
+					"Don't ask me where Charon is."
+					'''
+			}
+
+			HalleyCometAccessory: {
+				DisplayName: Halley's Comet
+				Tooltip:
+					'''
+					Summons Halley's Comet to orbit you in an elliptical path.
+					Halley's Comet enhances the damage of player projectiles by 75% and increases their speed by 30% upon contact.
+					"Beautiful track across the night sky."
+					'''
+			}
+
+			NeptuneAccessory: {
+				DisplayName: Neptune
+				Tooltip:
+					'''
+					Summons Neptune to orbit around you.
+					Neptune can summon four tridents that revolve around him to launch ranged attacks.
+					"Poseidon love it."
+					'''
+			}
+
+			VenusAccessory: {
+				DisplayName: Venus
+				Tooltip:
+					'''
+					Summons Venus to orbit around you.
+					Venus periodically releases shockwaves, shattering enemy defenses and damage reduction.
+					"Who would have thought that it is the hottest."
+					'''
+			}
+
+			SunAccessory: {
+				DisplayName: Sun
+				Tooltip:
+					'''
+					Summon a sun hovering above the player's head.
+					It periodically fires numerous solar flares, which fly in a curved trajectory, dealing tons of damage.
+					Finally, it returns to the player to heal them.
+					"So dazzling!"
+					'''
+			}
+
+			TheSolarSystem: {
+				DisplayName: Solar System
+				Tooltip:
+					'''
+					-----[c/f1c40f: Star Crowning]-----
+					+25% damage for all classes, +15% critical strike chance, +15% movement speed, +25 max health.
+					+25% melee attack speed, +30% ranged projectile velocity, -40% mana consumption, +4 minion and sentry slots.
+					Summon 4 gravitational fields and the entire solar system to fight for you
+					Swift as a fleeting star, shielding its master from harm—that is Mercury.
+					Blazing flames encircle me, dissolving all enemy defenses—that is Venus.
+					Endless blessings flow, healing hearts and souls—that is Earth.
+					Flames dance in frenzy, scattering enemy ranks—that is Mars.
+					Collisions like thunder, explosions resound across the skies—that is Jupiter.
+					Rings rebound and strike, erasing shadows of enemies—that is Saturn.
+					Chilling mist spreads wide, restricting enemy movements—that is Uranus.
+					Water darts like arrows, freezing foes in their tracks—that is Neptune.
+					Cold shadows conceal, defeating foes with unseen skill—that is Pluto.
+					Radiant light shines far, scorching the heavens with its blaze—that is the Sun.
+					Stars revolve around me, a stellar guard at my side—that is the entire Solar System.
+					"The stars shine brightly, the universe is boundless, only the radiant can command the heavens."
+					'''
+			}
+
+			GravitationalField: {
+				DisplayName: Quadruple Gravitational Field
+				Tooltip:
+					'''
+					Summons two pairs of gravitational crosshairs centered on the player.
+					Non-summon projectiles passing through the gravitational crosshairs gain speed and damage boosts.
+					Passing through the closer pair grants a 75% damage boost and guaranteed critical hits.
+					Passing through the farther pair grants a 125% damage boost and guaranteed critical hits.
+					"Warp time and space."
+					'''
+			}
+		}
+
+		Gambler: {
+			CyberChip: {
+				DisplayName: Cyber Chip
+				Tooltip:
+					'''
+					The higher the value of your weapon, the greater the damage boost it provides.
+					Increases damage by 1% for every gold coin the weapon is worth, up to a maximum of 35%.
+					"Expensive means good."
+					'''
+			}
+
+			GamblersBowTie: {
+				DisplayName: Gamblers Bow Tie
+				Tooltip:
+					'''
+					Grants a 25% chance to fire three additional projectile copies when using non-summon weapons.
+					The copies fall from the sky, with damage fluctuating between 0.5x and 1.9x.
+					"Am I still myself?"
+					'''
+			}
+
+			GamblersGloves: {
+				DisplayName: Gamblers Gloves
+				Tooltip:
+					'''
+					Grants a 20% chance to dodge an attack.
+					If the dodge fails, you take 1.5x damage.
+					However, your damage and movement speed increase for the next 5 seconds.
+					"A more reliable dodge, I'm sure of it."
+					'''
+			}
+
+			GamblersTopHat: {
+				DisplayName: Gamblers Top Hat
+				Tooltip:
+					'''
+					Increases damage by 10%.
+					Weapons have a 1% chance to deal a super critical hit, causing 50x damage.
+					"No child cries every day, no gambler always loses!"
+					'''
+			}
+
+			LuckyCoin: {
+				DisplayName: Lucky Coin
+				Tooltip:
+					'''
+					When selling an item, there's a 60% chance to receive some extra money.
+					The amount of money returned will vary between 0 and the item's sell price.
+					The other 40% chance may result in a slight loss.
+					Additionally, for every platinum coin you carry, your damage increases by 0.5%, up to a maximum of 75%.
+					"Because you're poor, you're rich—it's a paradox."
+					'''
+			}
+
+			ShinyPlayingCards: {
+				DisplayName: Shiny Playing Cards
+				Tooltip:
+					'''
+					Removes enemy invincibility frames, causing piercing weapons to explode.
+					But at what cost?
+					The cost is the removal of your own invincibility frames.
+					If in a "good world", the player's invincibility frames will not be removed
+					"Either you die or I die"
+					'''
+			}
+
+			SuperDice: {
+				DisplayName: Super Dice
+				Tooltip:
+					'''
+					Increases life regeneration by 7, defense by 7, and damage reduction by 7.
+					However, weapon damage and critical chance will begin to fluctuate randomly.
+					Damage varies between 0.6x and 1.8x.
+					Critical chance fluctuates between the current value and 100%.
+					If in a "good world", the damage range becomes 1.2x to 2.5x
+					"You were always lucky, so I hope your luck never runs out."
+					'''
+			}
+
+			Z_GamblersKit: {
+				DisplayName: Gamblers Kit
+				Tooltip:
+					'''
+					-----[c/f39c12:Go for broke]-----
+					Grants the effects of all 7 components:
+					Super Lucky Dice - Weapon damage and crit chance randomly fluctuate upwards.
+					Lucky Coin - Generates money when selling items; funds in your inventory boost damage.
+					Gambler's Top Hat - 1% chance to deal 50x damage.
+					Gambler's Gloves - Chance to dodge attacks, failure increases damage output.
+					Cyber Chip - Increases damage up to 35% based on weapon value.
+					Shiny Playing Cards - Removes invincibility frames for both enemies and yourself.
+					Gambler's Bow Tie - A small chance to summon three clones from the sky.
+					"The dice of fate have been cast, and victory or defeat lies in a single moment."
+					'''
+			}
+		}
+
+		JobSkill: {
+			TriggerBulletBox: {
+				DisplayName: Trigger Bullet Box
+				Tooltip:
+					'''
+					Increases ranged damage by 10% and ranged critical strike chance by 5%.
+					Automatically fires a round of Ichor, Cursed Flame, Nano, Explosive, Golden, or Crystal bullets at the mouse position every 5 seconds.
+					Auxiliary bullets inherit the attributes of the current weapon (even when not holding a ranged weapon).
+					Generates particle effects at the cursor location, which can be disabled by hiding the accessory's visibility.
+					"You'll never need to manually switch ammo or weapons again."
+					'''
+			}
+		}
+
+		ModProj: {
+			AITrackingDevice: {
+				DisplayName: AI Tracking Device
+				Tooltip:
+					'''
+					All your projectiles (except summon projectiles) home in on enemies.
+					Note: May not work or may have adverse effects on certain special projectiles.
+					[i:4956][i:3541][i:2424][i:1513][i:2882][i:1947][i:757]
+					"I'm not telling you how pairing this with no-invulnerability-frame projectiles will cause an explosion of damage."
+					'''
+			}
+
+			BulletScreenManagementTerminal: {
+				DisplayName: Bullet Screen Management Terminal
+				Tooltip:
+					'''
+					-----[c/9b59b6:Bullet Shadows and Meteor Streams]-----
+					The barrage is guaranteed to crit, reduce mana consumption to 0, and increase damage by 30%.
+					Grants all effects of its materials.
+					Inflicts extra damage at close range (Quick Trigger).
+					Increases weapon damage proportionally to movement speed (Momentum Chip).
+					The higher the enemy's defense, the greater the increase in attack power (Breaker Drill).
+					Increases attack power by a fixed amount as the game progresses (Advanced Combat SSD).
+					Toggling the accessory’s visibility causes non-piercing projectiles to deal higher damage upon explosion (Phase Projector).
+					Press the hotkey to cycle through 6 barrage modes:
+					0 Off: Does nothing.
+					1 Glitch: Randomly triggers one of over 20 minor glitches.
+					2 Gravity: Barrages orbit around the player.
+					3 Acceleration: Projectile speed and damage exponentially increase over time.
+					4 Homing: Barrages chase the closest enemy.
+					5 Echo: Barrages bounce off screen edges and deal increased damage.
+					6 Drift: Barrages move with the mouse cursor.
+					Compatible with rogue class.
+					"Bullets like stars, flashing in an instant, hiding endless peril within their paths."
+					'''
+			}
+
+			EchoBoundary: {
+				DisplayName: Echo Boundary
+				Tooltip:
+					'''
+					Allows your non-summon projectiles to bounce off the edges of the screen.
+					Each bounce increases damage by 5%.
+					Maximum of 5 bounces.
+					"Now you can travel with your projectiles."
+					'''
+			}
+
+			GlitchCore: {
+				DisplayName: Glitch Core
+				Tooltip:
+					'''
+					Causes your non-summon projectiles to randomly trigger various "minor glitches."
+					Some glitches are beneficial, some are detrimental—pure luck decides.
+					"I'm not telling you whether these are buffs or debuffs."
+					'''
+			}
+
+			NebulaBracelet: {
+				DisplayName: Nebula Bracelet
+				Tooltip:
+					'''
+					Your projectiles will follow your mouse cursor.
+					"You don't know who to attack."
+					'''
+			}
+
+			ParticleAccelerator: {
+				DisplayName: Particle Accelerator
+				Tooltip:
+					'''
+					Reduces the initial speed of non-summon projectiles to 20% of their original, but allows it to exponentially increase over time.
+					Can boost up to 300% of the projectile's original speed.
+					Damage increases correspondingly with speed.
+					"In 1974, chromium-54 ions first bombarded osmium-248."
+					'''
+			}
+
+			PhaseProjector: {
+				DisplayName: Phase Projector
+				Tooltip:
+					'''
+					Non-piercing projectiles won't disappear upon hitting enemies but will continue flying.
+					They deal double damage upon their natural expiration.
+					"Catch them off guard!"
+					'''
+			}
+
+			Universalgravitation: {
+				DisplayName: Universal Gravitation
+				Tooltip:
+					'''
+					Your non-summon projectiles will orbit around you in a circular motion until they disappear.
+					The speed of the bullet screen will gradually increase.
+					The orbit of the bullet screen will try to locate the enemy's orbit.
+					In other words, the orbit radius will gradually approach the distance to the enemy.
+					"The Center of The World"
+					'''
+			}
+
+			PermanentModProj: {
+				UltraHighCrit: {
+					DisplayName: Crit Ring
+					Tooltip:
+						'''
+						All player attacks are guaranteed to critically hit (crit chance +100%), but defense is reduced by 25%.
+						"The summoner sheds a tear."
+						'''
+				}
+
+				MomentumChip: {
+					DisplayName: Momentum Chip
+					Tooltip:
+						'''
+						Increases damage based on your current movement speed.
+						Maxes out at 30% increased damage.
+						"Focus. Speed. I am speed."
+						'''
+				}
+
+				QuickDrawHolster: {
+					DisplayName: Quick Trigger
+					Tooltip:
+						'''
+						Increases damage of ranged weapons at close range, up to 1.4x.
+						"Bullet speed decays over time, which makes sense."
+						'''
+				}
+
+				AttackIndicator: {
+					DisplayName: Advanced Combat Chip
+					Tooltip:
+						'''
+						Grants a fixed damage boost (3 pre-Hardmode, 7 in Hardmode, 16 after Plantera, 30 after Moon Lord).
+						Damage boost is independent of any other damage increase or immunity frames.
+						"Traditional books can only carry so little knowledge, so this time, is a solid-state drive."					
+						'''
+				}
+
+				BreakingDrill: {
+					DisplayName: Breaking Drill
+					Tooltip:
+						'''
+						Gain 2% additional damage for every point of enemy defense.
+						"My drill will pierce the heavens!"
+						'''
+				}
+			}
+		}
+
+		SummonOnly: {
+			ArmyBattleBanner: {
+				DisplayName: Army Battle Banner
+				Tooltip:
+					'''
+					Forces your minion slots to be reduced to 1.
+					For each minion slot lost, gain a 90% increase in summon damage.
+					Each sentry column lost provides an additional 200% summon damage increase.
+					"No longer an army, now just a bodyguard."
+					'''
+			}
+
+			CelestialDominion: {
+				DisplayName: Celestial Dominion
+				Tooltip:
+					'''
+					-----[c/e74c3c:Summoning Star Field]-----
+					+10 minion slots and +10 sentry slots, increases summon damage by 80%.
+					Grants the effects of all its components.
+					Enhances summoning abilities while wielding non-summon weapons.
+					Minions have a chance to fire the projectiles of non-summon weapons.
+					Each minion increases max health and health regeneration, and allows minions to lifesteal.
+					Minions near the player can block projectiles, while those far away can enhance allied projectiles.
+					Minions hitting enemies grant stackable whip buffs.
+					Toggle visibility of this accessory to set minion and sentry slots to 1, granting corresponding damage boosts, and vice versa.
+					Sentries follow the player instead of staying stationary.
+					"The stars heed your call, the heavens open for you, all is under your command."
+					'''
+			}
+
+			EnergizedChitin: {
+				DisplayName: Energized Chitin
+				Tooltip:
+					'''
+					Minions within 25 tiles of the player have a 25% chance to nullify enemy projectiles.
+					Minions beyond 50 tiles have a 50% chance to enhance non-summon projectiles by 50%.
+					Minions will release particle effects of corresponding colors to indicate their functions.
+					"You said you've never smelled chitin on fire? Have you never electrocuted a mosquito with an electric mosquito swatter?"
+					'''
+			}
+
+			GiftofLcarus: {
+				DisplayName: Gift of Lcarus
+				Tooltip:
+					'''
+					Increases minion slots by 3, sentry slots by 1, and summon damage by 30%.
+					While wielding non-summon weapons, minions and sentries have a 40% chance to fire projectiles from the held weapon.
+					Additional Projectile has a 60-frame cooldown
+					Note: Certain special attack animations may not work [i:2795][i:675]
+					"Upgrade your army's armament!"
+					'''
+			}
+
+			HandheldBlackHole: {
+				DisplayName: Handheld Black Hole
+				Tooltip:
+					'''
+					Increases sentry slots by 2.
+					Allows sentries to follow the player rather than staying stationary.
+					"Mobile fortress!"
+					'''
+			}
+
+			MedicalDrones: {
+				DisplayName: Medical Drones
+				Tooltip:
+					'''
+					Reduces summon damage by 45%.
+					Each minion provides +25 max health and +5 health regeneration, up to 20 minions for a maximum of +500 health and +100 health regeneration.
+					30% chance to lifesteal when minions hit enemies, with lifesteal amount ranging from 5% to 30% of the damage dealt.
+					"You look hungry."
+					'''
+			}
+
+			SynergisticCatalyst: {
+				DisplayName: Synergistic Catalyst
+				Tooltip:
+					'''
+					While wielding non-summon weapons and attacking enemies, 
+					there is a 10% chance to randomly increase minion damage for 10 seconds.
+					The damage boost ranges from 5% to 30%.
+					"Know thyself, know thy enemy, and you will never be defeated."
+					'''
+			}
+
+			TamingWhipRing: {
+				DisplayName: Taming Whip Ring
+				Tooltip:
+					'''
+					Reduces minion count by 3, and summon damage by 30%.
+					Minions hitting enemies grant a buff that increases whip attack speed by 15% and whip damage by 50%.
+					The buff can stack up to 7 times, granting up to 350% whip damage and 105% attack speed.
+					"You Gotta Move~ You Gotta Move~"
+					'''
+			}
+		}
+
+		AmalgamationCodex: {
+			DisplayName: Amalgamation Codex
+			Tooltip:
+				'''
+				Your attacks inflict a random debuff.
+				At the same time, you are immune to most enemy debuffs.
+				Yes, it is compatible with other mods.
+				"The Modern Elementalist"
+				'''
+		}
+
+		AntimatterNuclearMissile: {
+			DisplayName: ICBM Launcher
+			Tooltip:
+				'''
+				Begins loading when a boss is alive, taking 10 minutes to prepare a missile.
+				Any death, whether yours or an enemy's, resets the loading process.
+				Once loaded, the missile will immediately launch, killing all bosses.
+				The missile ignores all defense, damage reduction, and anti-cheat mechanisms.
+				This process cannot be accelerated by any means.
+				If in a "good world", the reload time is reduced to 5 minutes
+				"Please be patient."
+				'''
+		}
+
+		ArtisansToken: {
+			DisplayName: Artisans Token
+			Tooltip:
+				'''
+				Provides no bonuses on its own.
+				Instead, it multiplies the prefix of the item by 7.
+				Only supports vanilla Terraria prefixes.
+				"The merchant actually had a point."
+				'''
+		}
+
+		ControllableHalo: {
+			DisplayName: Controllable Halo
+			Tooltip:
+				'''
+				Increases jump speed by 25%, movement speed by 15%, and flight time by 30%.
+				Also forms an illuminating halo at the cursor's position.
+				The halo disintegrates enemies, dealing 0.2% of their max health per second.
+				"Maybe you should try killing a boss using only the halo?"
+				'''
+		}
+
+		DoomsdayTechExperiment: {
+			DisplayName: Doomsday Tech Experiment
+			Tooltip:
+				'''
+				When not attacking, increases the damage of the held non-summon weapon by 100% every 1.5 seconds.
+				Maxes out at 10 times damage after 15 seconds.
+				"Crouch, hold your breath, and pull the trigger."
+				'''
+		}
+
+		FixedPointAttackDevice: {
+			DisplayName: Fixed Point Attack Device
+			Tooltip:
+				'''
+				Doubles damage output while stationary.
+				Reduces damage output by 75% while moving at full speed.
+				Attack power changes linearly based on movement.
+				"Dedicated to the ultimate camper."
+				'''
+		}
+
+		OpticalLensMatrix: {
+			DisplayName: Optical Lens
+			Tooltip:
+				'''
+				Non-summon projectiles have a chance to split into multiple copies.
+				The fewer the copies, the higher each one's damage.
+				Split projectiles deal significantly less damage and cannot split again.
+				"Utterly chaotic."
+				'''
+		}
+
+		Annihilation: {
+			TheEntropy: {
+				DisplayName: The Entropy
+				Tooltip:
+					'''
+					Life regeneration is reduced to zero, healing potions are disabled, and you will start losing health every second.
+					The rate of health loss starts fast and slows down, eventually stopping at 25% of max health.
+					40% chance for projectiles to create a 3x damage duplicate when hitting an enemy.
+					"Now you know what that lost health has been turned into."
+					'''
+			}
+
+			AntimatterSynthesizer: {
+				DisplayName: Antimatter Synthesizer
+				Tooltip:
+					'''
+					Greatly increases the penetration and speed of non-summon projectiles,
+					but there is a 5% chance for the player's weapons to shoot extra hostile projectiles.
+					Hostile projectiles will shoot towards the player from random directions at the edge of the screen.
+					"Careful, they can one-shot you."
+					'''
+			}
+
+			CrownofOblivion: {
+				DisplayName: Crown of Oblivion
+				Tooltip:
+					'''
+					-----[c/8e44ad: Extreme Destruction]-----
+					Increases melee damage by 45% and melee attack speed by 45%.
+					Grants the effects of all its components.
+					Greatly increases projectile penetration and speed, but may shoot hostile projectiles that can one-shot the player (Antimatter Synthesizer).
+					Increases damage taken, but forces enemies to lose health (Soul Quantum Corruptor).
+					Greatly enhances warrior offense, but sets defense and damage reduction to zero when taking damage (Berserker Arm).
+					The lower the player's health, the higher their damage (Fission Reactor).
+					Melee attack speed inversely scales with the distance between you and enemies (Blade Belt).
+					Grants speed and damage boosts at critical health (Extreme Reaction Module).
+					Converts melee attack speed to damage for melee weapons that don't benefit from attack speed (Solar Banner).
+					Activate a powerful skill with a huge damage boost at great cost (Overclock V-Type).
+					Disable healing and continuously lose health when accessories are visible, with a chance to shoot high-damage duplicate projectiles (The Entropy).
+					"Only by coming infinitely close to death can one comprehend the true meaning of life."
+					'''
+			}
+
+			DamageProtectionDevice: {
+				DisplayName: Berserker Arm
+				Tooltip:
+					'''
+					Increases melee damage by 45% and melee attack speed by 45%.
+					But defense and damage reduction are set to zero when taking damage, lasting for 10 seconds.
+					"A warrior who fights like an archer."
+					'''
+			}
+
+			FissionReactor: {
+				DisplayName: Fission Reactor
+				Tooltip:
+					'''
+					For every 10% of health lost, damage increases by 10%.
+					The cap is a 90% damage increase at 90% health loss.
+					"It's come to this."
+					'''
+			}
+
+			HeroDamageDevice: {
+				DisplayName: Blade Belt
+				Tooltip:
+					'''
+					The closer you are to an enemy, the more melee damage and attack speed you gain.
+					At 10 tiles, damage increases by up to 50% and attack speed by 30.
+					Being more than 30 tiles away will have negative effects.
+					At worst, at 60 tiles, damage is reduced by 30% and attack speed by 30.
+					"Want to get up close and personal? Let's go."
+					'''
+			}
+
+			LimitResponseModule: {
+				DisplayName: Extreme Reaction Module
+				Tooltip:
+					'''
+					When health drops below 20%, gain damage, crit chance, and movement speed boosts.
+					The effect triggers automatically, lasts for 15 seconds, and has a 50-second cooldown.
+					Afterward, the effect will only trigger again when health drops below 10%.
+					"Adrenaline wants you to survive."
+					'''
+			}
+
+			SolarBanner: {
+				DisplayName: Solar Banner
+				Tooltip:
+					'''
+					For melee weapons such as yoyos and flails
+					can convert melee attack speed boosts into damage boosts at a 1:1 ratio.
+					"Your arm is stronger, so it makes sense these weapons hit harder too."
+					'''
+			}
+
+			UltimateFunctionOverloadDevice: {
+				DisplayName: Overclock V-Type
+				Tooltip:
+					'''
+					Press the hotkey to sacrifice 50% of max health, reduce defense by 50%, and decrease movement speed by 50%.
+					Greatly increases aggro and blinds the player.
+					However, for the next 15 seconds, increase damage by 600%. Cooldown: 1 minute.
+					The effect can be canceled at any time.
+					If in a "good world", it will not blinds
+					"You know what this means, right?"
+					'''
+			}
+
+			SoulQuantumCorruptor: {
+				DisplayName: Soul Quantum Corruptor
+				Tooltip:
+					'''
+					Make surrounding enemies lose 5% of their current health every 5 seconds
+					But you will also receive an additional 15% damage
+					"This guy is rotten to the core"
+					'''
+			}
+		}
+
+		AIAssistDevice: {
+			DisplayName: AI Penetration Device
+			Tooltip:
+				'''
+				Your projectiles can penetrate through blocks.
+				"Obviously, not a good idea for dynamite or explosives, right?"
+				'''
+		}
+
+		SonicRing: {
+			DisplayName: Sonic Ring
+			Tooltip:
+				'''
+				Generate 2 circles with the player as the center. When the bullet screen approaches the player, press the shortcut key to make a judgment
+				When in the middle of the 2 circles, Great will clear the enemy bullet screen
+				Outside the outer ring, Miss will force a one-second cooldown
+				In the inner ring, Perfect will eliminate the bullet screen and increase the attack power by 2%, which can be stacked up to 50 times until it fails or is hit
+				"The future belongs to people, and I also need to move towards my own future"
+				'''
+		}
+
+		FallenStar: {
+			DisplayName: Fallen Star
+			Tooltip:
+				'''
+				When worn on the surface at night,
+				randomly summons falling stars from the sky.
+				"I made a wish to the sky, and the sky said 'Okay'."
+				'''
+		}
+	}
+
+	Defense: {
+		OnlyCYC: {
+			AedComponents: {
+				DisplayName: Aed Components
+				Tooltip:
+					'''
+					Generates a heart every 4 seconds around the player, restoring 20 health when collected.
+					Only triggers when health is below 90%.
+					"Replenish what you lack."
+					'''
+			}
+
+			BloodPump: {
+				DisplayName: Blood Pump
+				Tooltip:
+					'''
+					When the bound button is pressed, half of the lost health is restored immediately
+					And a strong life recovery and damage reduction are given. 
+					Cooldown time is 30 seconds, independent of healing potion.
+					"Like a new life."
+					'''
+			}
+
+			BloodVesselAccelerator: {
+				DisplayName: Blood Vessel Accelerator
+				Tooltip:
+					'''
+					Increases life regeneration by 25 when health is below 50%, and by 100 when below 15%. Resets to zero when above 75%.
+					When the hotkey is pressed, it will greatly increase the survivability. 
+					Duration: 10 seconds, cooldown: 30 seconds
+					"Survive in desperate situation!"
+					'''
+			}
+
+			HeartPacemaker: {
+				DisplayName: Heart Pacemaker
+				Tooltip:
+					'''
+					Increases life regeneration by 15.
+					For every 10% health lost, gain 10 defense and 5% damage reduction.
+					Caps at 90% health lost, providing 90 defense and 45% damage reduction.
+					"Strengthen your heart, literally."
+					'''
+			}
+
+			LifeSubSpace: {
+				DisplayName: Life Sub Space
+				Tooltip:
+					'''
+					When health drops below 20%, automatically creates a healing aura at the player's location.
+					All players within the aura will have debuffs cleansed and receive rapid healing.
+					This effect has a 90-second cooldown.
+					If upgraded to the Circulation System Retrofit Kit, cooldown is reduced to 45 seconds.
+					"Serving the people."
+					'''
+			}
+
+			MechanicalHeart: {
+				DisplayName: Mechanical Heart
+				Tooltip:
+					'''
+					Revives you with full health upon taking fatal damage.
+					Grants 100 health regeneration and 10 seconds of invincibility.
+					2.5-minute cooldown, resets upon death.
+					In a "good world", the cooldown is reduced to half a minute.
+					"Resurrection! "
+					'''
+			}
+
+			PainEditor: {
+				DisplayName: Pain Editor
+				Tooltip:
+					'''
+					Limits maximum damage taken in a single hit to 20% of your current max health.
+					"You can kill me... wait, now you can't."
+					'''
+			}
+
+			Z_CirculationSystemRetrofitKit: {
+				DisplayName: Circulation System Retrofit Kit
+				Tooltip:
+					'''
+					-----[c/2ecc71: Eternal Vitality]-----
+					Defense +25, greatly increases the hatred value
+					Grants all effects of its materials:
+					Slowly restores health by dropping hearts (AED Component).
+					Provides various stat boosts underwater (CO2 Exchanger).
+					After suffering severe damage, the next damage is halved (Tungsten Carbide Core).
+					Reduces incoming damage by a fixed amount (Tranquilizer Cooler).
+					Records one instance of damage and attempts to heal the player (Swarm Construct).
+					Manually activate to greatly enhance survival abilities (Vascular Accelerator).
+					Increases the effectiveness of healing potions (Hemopump).
+					Limits single-instance damage to 20% of maximum health (Pain Editor).
+					Increases defense and damage reduction when health is low (Pacemaker).
+					Creates a rapid healing aura when health is critically low (Life Revitalizer).
+					When at full health, taking damage causes double the hearts to drop (Aortic Propeller).
+					Revives the player once after taking fatal damage (Mechanical Heart).
+					"Life flows like an endless spring breeze; only resilience can withstand the storms."
+					'''
+			}
+
+			SwarmConstruct: {
+				DisplayName: Swarm Construct
+				Tooltip:
+					'''
+					Records damage taken.
+					If no further damage is received within 5 seconds, heals 10% to 70% of the damage taken.
+					If damage continues, the 5-second timer is extended.
+					"Masterful hive craftsmanship."
+					'''
+			}
+
+			SedativeRefrigerator: {
+				DisplayName: Sedative Refrigerator
+				Tooltip:
+					'''
+					Reduces incoming damage by a fixed amount (10 pre-Hardmode, 15 in Hardmode, 25 after Plantera, 40 after Moon Lord).
+					Damage reduction is independent of any defense or damage mitigation.
+					"A calm mind cools the body."
+					'''
+			}
+
+			CO2Switch: {
+				DisplayName: CO2 Switch
+				Tooltip:
+					'''
+					Provides 20% max health, flight time, and movement speed underwater.
+					Grants 15 health regeneration and 25 defense.
+					No penalties on land.
+					"Don't worry, no decompression sickness."
+					'''
+			}
+
+			AorticThruster: {
+				DisplayName: Aortic Thruster
+				Tooltip:
+					'''
+					When health is full, damage taken will convert into 2x hearts, scattered randomly around you.
+					15-second cooldown.
+					"Why are there so many?"
+					'''
+			}
+
+			TungstenCore: {
+				DisplayName: Tungsten Carbide Core
+				Tooltip:
+					'''
+					Defense +15
+					Activates protection after taking damage equal to or above 10% of max life
+					The next hit you take will be halved
+					"I’m hard-wired to protect you."
+					'''
+			}
+		}
+
+		OnlyEMPs: {
+			ClearBullet: {
+				Absorber15: {
+					DisplayName: Absorber15
+					Tooltip:
+						'''
+						Press the EMP key to clear enemy projectiles within a 15-tile radius.  
+						Each neutralized projectile grants a 3.5% temporary damage boost for 5 seconds.  
+						Cooldown: 45 seconds  
+						“Without guns, without cannons, the enemy will arm us.”  
+						'''
+				}
+
+				Interceptor15: {
+					DisplayName: Interceptor15
+					Tooltip:
+						'''
+						Press the EMP key to clear enemy projectiles within a 15-tile radius.  
+						Cooldown: 45 seconds  
+						“Annihilate! Exterminate!”  
+						'''
+				}
+
+				Interceptor25II: {
+					DisplayName: Interceptor25 II
+					Tooltip:
+						'''
+						Press the EMP key to clear enemy projectiles within a 25-tile radius.  
+						Applies a Confusion debuff to enemies in range.  
+						Cooldown: 45 seconds  
+						“What's the use of this?”  
+						'''
+				}
+
+				Interceptor35IV: {
+					DisplayName: Interceptor35 IV
+					Tooltip:
+						'''
+						Press the EMP key to clear enemy projectiles within a 35-tile radius.  
+						Simultaneously releases a barrage of lasers around the area.  
+						Cooldown: 45 seconds  
+						“ESo, who will hit by this?.”  
+						'''
+				}
+
+				Interceptor45: {
+					DisplayName: Interceptor45
+					Tooltip:
+						'''
+						Press the EMP key to clear enemy projectiles within a 55-tile radius.  
+						50% chance to reverse and return projectiles as friendly fire.  
+						Cooldown: 45 seconds  
+						“Subterfuge doesn't always work, does it?”  
+						'''
+				}
+
+				Interceptor55I: {
+					DisplayName: Interceptor55 I
+					Tooltip:
+						'''
+						Press the EMP key to clear enemy projectiles within a 55-tile radius.  
+						Neutralized projectiles will explode, dealing 5x their original damage in a small area.  
+						Cooldown: 45 seconds  
+						“Great fortresses often crumble from within.”  
+						'''
+				}
+
+				Interceptor55IX: {
+					DisplayName: Interceptor55 IX
+					Tooltip:
+						'''
+						Press the EMP key to clear enemy projectiles within a 55-tile radius.  
+						100% chance to reverse and return projectiles as friendly fire.  
+						Cooldown: 45 seconds  
+						“Reversing matter always gets results.”  
+						'''
+				}
+
+				Interceptor55VI: {
+					DisplayName: Interceptor55 V I
+					Tooltip:
+						'''
+						Press the EMP key to clear enemy projectiles within a 55-tile radius.  
+						Simultaneously stuns enemies in the area for 3 seconds.  
+						Cooldown: 45 seconds  
+						“The speed at which they recover is truly astonishing, isn't it?”  
+						'''
+				}
+			}
+
+			SupportBullet: {
+				Barrier25d: {
+					DisplayName: Barrier25d
+					Tooltip:
+						'''
+						Press the EMP key to deploy a 25-tile radius barrier at your position.  
+						The barrier blocks enemy projectiles for 10 seconds.  
+						Cooldown: 30 seconds  
+						“It’s merely a matter of slowing molecular movement.”  
+						'''
+				}
+
+				SubSpace25e: {
+					DisplayName: Sub Space25e
+					Tooltip:
+						'''
+						Press the EMP key to deploy a 25-tile radius subspace field at your position.  
+						The field grants invulnerability to all players within for 10 seconds.  
+						Cooldown: 30 seconds  
+						“Generated by space compression and folding technology.”  
+						'''
+				}
+			}
+
+			UniversalProtectionDevice001: {
+				DisplayName: Universal Protection Device 001
+				Tooltip:
+					'''
+					-----[c/3498db:Shield Sky Curtain]-----
+					Has periodic barrier and shield ejector effects.
+					Press the EMP key to clear enemy projectiles within a 250-tile radius.  
+					Cleared projectiles explode, dealing 10x their original damage,  
+					are converted into friendly projectiles, and return on their original paths.  
+					Each neutralized projectile grants a 2% damage boost and +2 defense for 15 seconds.  
+					Simultaneously deploys a 90-tile radius barrier at your position,  
+					granting invulnerability to players and blocking enemy projectiles.  
+					Stuns all enemies within range for 10 seconds.  
+					Cooldown: 60 seconds  
+					“Strong as rock, protective as the sky, no harm shall pass through you.”  
+					'''
+			}
+
+			Interceptor65L: {
+				DisplayName: Interceptor65 L
+				Tooltip:
+					'''
+					Each time the EMP key is pressed, clear the nearest enemy projectile.  
+					Reloads every second, up to 150 projectiles.  
+					“This might be the true purpose of laser weapons.”  
+					'''
+			}
+
+			OtherEMP: {
+				EnergyShieldCatapult: {
+					DisplayName: Energy Shield Catapult
+					Tooltip:
+						'''
+						Increases damage reduction by 15% and jump speed.
+						Increases defense by 15 points.
+						Automatically fires a slow-moving, circular projectile every 5 seconds, which can erase enemy bullets.
+						"Borrowing the power of a tiger!"
+						'''
+				}
+
+				PeriodicBarrierBooster: {
+					DisplayName: Periodic Barrier Generator
+					Tooltip:
+						'''
+						Increases defense by 8.
+						Automatically provides 5 seconds of invincibility every 45 seconds.
+						"Pure, simple invincibility."
+						"This was the first item added to the mod, so it's historically significant. You can obtain it early in the game, which sounds nice!"
+						'''
+				}
+			}
+		}
+
+		AsteroidBelt: {
+			DisplayName: Asteroid Belt
+			Tooltip:
+				'''
+				Creates an asteroid that orbits around you.
+				It blocks enemy projectiles, but breaks for a while after doing so.
+				"The quality doesn't seem particularly strong."
+				'''
+		}
+
+		FixedPointDefenseDevice: {
+			DisplayName: Fixed Point Defense Device
+			Tooltip:
+				'''
+				Doubles defense when stationary.
+				Reduces defense by 75% when moving at full speed.
+				Defense changes gradually and linearly.
+				"Retreat into the beetle shell."
+				'''
+		}
+
+		IntegratedNeuron: {
+			DisplayName: Integrated Neuron
+			Tooltip:
+				'''
+				Increases debuff duration reduction by 30% per second.
+				Reduces healing cooldown by 5% every 5 seconds.
+				Reduces mana sickness by 30% every second.
+				"You've developed antibodies by now."
+				'''
+		}
+
+		ShieldGeneratorOnDeployment: {
+			DisplayName: Shield Generator On Deployment
+			Tooltip:
+				'''
+				+8 defense, immune to fire blocks and knockback
+				Grants 10 seconds of invincibility upon respawning.
+				"↑ ↓ → ← ↑"
+				'''
+		}
+
+		BrassPocketWatch: {
+			DisplayName: Brass Pocket Watch
+			Tooltip:
+				'''
+				Increases all class damage by 25% and all class crit by 10%
+				When the wearer dies, there is a chance that other units will die as well
+				"They were all terrified."
+				'''
+		}
+
+		Counter: {
+			ChargedBulletNest: {
+				DisplayName: Charged Bullet Nest
+				Tooltip:
+					'''
+					Each time you take damage, you gain 6 extra projectiles.
+					Maximum of 150 projectiles.
+					Upon death, all stored projectiles are fired at once.
+					"Load, rotate, fire."
+					'''
+			}
+
+			DarkSideOfTheMoon: {
+				DisplayName: Dark Side of the Moon
+				Tooltip:
+					'''
+					When health is below half, for every 3 hits taken, a barrage of moon shields that block projectiles will be summoned around you.
+					Shields last 10 seconds and can block infinite projectiles.
+					"This is a spell of the Moon Lord, but he thought it would be too unfair to use against you in battle."
+					'''
+			}
+
+			FirepowerExoskeletonDevice: {
+				DisplayName: Firepower Exoskeleton Kit
+				Tooltip:
+					'''
+					Increases damage by 200% for 5 seconds when taking damage.
+					Only activates when the damage is equal to or greater than 15% of max health.
+					15-second cooldown.
+					"What doesn't kill me makes me stronger."
+					'''
+			}
+
+			MagicSeeker: {
+				DisplayName: Magic Seeker
+				Tooltip:
+					'''
+					For each hit taken, your next 10 attacks will steal health from enemies.
+					You can store up to 100 health-stealing attacks.
+					Health stealing does not require a magic weapon.
+					"A healer can heal themselves too."
+					'''
+			}
+
+			NervousSystemDisorderDevice: {
+				DisplayName: Nervous System Disruptor
+				Tooltip:
+					'''
+					After taking damage twice, reducing the movement speed and attack power of nearby enemies by 30%.
+					This effect will last for two seconds.
+					"It's said to interfere with enemies' nervous systems, but it's more like spraying pepper spray in their faces."
+					'''
+			}
+
+			ReactShieldGenerator: {
+				DisplayName: Reactive Shield Generator
+				Tooltip:
+					'''
+					After taking damage 3 times, gain 5 seconds of invincibility.
+					"Perfect for continuous hits."
+					'''
+			}
+
+			Scarab: {
+				DisplayName: Scarab
+				Tooltip:
+					'''
+					After taking damage 5 times,
+					converts nearby enemy projectiles into your own and sends them back.
+					If in a "good world", then only two injuries are needed.
+					"Like breaking something apart."
+					'''
+			}
+
+			ShinySlimeGun: {
+				DisplayName: Pink Slime Gun
+				Tooltip:
+					'''
+					Every 5 seconds, tosses 2 glowing slime shields to the mouse position.
+					Shields last 10 seconds and are destroyed after blocking 2 hits.
+					"Look, they bounce like marbles."
+					'''
+			}
+
+			SlimeGun: {
+				DisplayName: Slime Gun
+				Tooltip:
+					'''
+					After taking damage 5 times, a large number of slime shields that block projectiles will spawn around the mouse.
+					Shields last 10 seconds but are destroyed after blocking 1 hit.
+					"Guess how he became the Slime King."
+					'''
+			}
+
+			ControllableStellarEnergy: {
+				DisplayName: Controllable Stellar Energy
+				Tooltip:
+					'''
+					-----[c/00c0e6: Constant Energy Trigger]-----
+					Grants all the effects of its components:
+					Throws slime shields after 5 hits (Slime Gun).
+					Grants 5 seconds of invincibility after 3 hits (Reactive Shield Generator).
+					Reflects enemy projectiles after 5 hits (Scarab).
+					Slows enemies speed and attack after 2 hits (Nervous System Disruptor).
+					Gathers health-stealing attacks with each hit (Magic Seeker).
+					Stores projectiles and fires them all upon death (Charged Bullet Nest).
+					Increases offensive power significantly when taking a large hit (Firepower Exoskeleton Kit).
+					Creates infinite blocking shields after 3 hits when health is below half (Dark Side of the Moon).
+					Automatically fires slime shields (Pink Slime Gun).
+					"Everything in the world has a price, especially you."
+					'''
+			}
+		}
+	}
+
+	JobAcc: {
+		Magic: {
+			Magic1: {
+				DisplayName: Arcane Container V1
+				Tooltip: Increases magic weapon damage by 15% and critical strike chance by 5%.
+			}
+
+			Magic2: {
+				DisplayName: Arcane Container V2
+				Tooltip: Increases magic weapon damage by 20% and critical strike chance by 10%.
+			}
+
+			Magic3: {
+				DisplayName: Arcane Container V3
+				Tooltip: Increases magic weapon damage by 30% and critical strike chance by 20%.
+			}
+
+			Magic4: {
+				DisplayName: Arcane Container V4
+				Tooltip: Increases magic weapon damage by 35% and critical strike chance by 30%.
+			}
+		}
+
+		Melee: {
+			Tank1: {
+				DisplayName: Shield of Glory V1
+				Tooltip:
+					'''
+					Increases melee weapon damage by 15% and critical strike chance by 5%.
+					Enemies are more likely to target you.
+					'''
+			}
+
+			Tank2: {
+				DisplayName: Shield of Glory V2
+				Tooltip:
+					'''
+					Increases melee weapon damage by 20% and critical strike chance by 10%.
+					Enemies are more likely to target you.
+					'''
+			}
+
+			Tank3: {
+				DisplayName: Shield of Glory V3
+				Tooltip:
+					'''
+					Increases melee weapon damage by 30% and critical strike chance by 20%.
+					Enemies are more likely to target you.
+					'''
+			}
+
+			Tank4: {
+				DisplayName: Shield of Glory V4
+				Tooltip:
+					'''
+					Increases melee weapon damage by 35% and critical strike chance by 30%.
+					Enemies are more likely to target you.
+					'''
+			}
+		}
+
+		Range: {
+			Ranger1: {
+				DisplayName: Firearm Care Package V1
+				Tooltip: Increases ranged weapon damage by 20% and critical strike chance by 10%.
+			}
+
+			Ranger2: {
+				DisplayName: Firearm Care Package V2
+				Tooltip: Increases ranged weapon damage by 20% and critical strike chance by 10%.
+			}
+
+			Ranger3: {
+				DisplayName: Firearm Care Package V3
+				Tooltip: Increases ranged weapon damage by 30% and critical strike chance by 20%.
+			}
+
+			Ranger4: {
+				DisplayName: Firearm Care Package V4
+				Tooltip: Increases ranged weapon damage by 35% and critical strike chance by 30%.
+			}
+		}
+
+		Summon: {
+			Summon0: {
+				DisplayName: Infinite Summoner
+				Tooltip:
+					'''
+					Grants you unlimited minion and sentry slots.
+					Also greatly increases summon weapon attack speed.
+					However, your summon damage is reduced to 0.
+					"Now go show off your personal army to your friends."
+					'''
+			}
+
+			Summon1: {
+				DisplayName: Command Baton V1
+				Tooltip: Increases summon weapon damage by 15%, and adds 2 minion and sentry slots.
+			}
+
+			Summon2: {
+				DisplayName: Command Baton V2
+				Tooltip: Increases summon weapon damage by 20%, and adds 3 minion and sentry slots.
+			}
+
+			Summon3: {
+				DisplayName: Command Baton V3
+				Tooltip: Increases summon weapon damage by 30%, and adds 4 minion and sentry slots.
+			}
+
+			Summon4: {
+				DisplayName: Command Baton V4
+				Tooltip: Increases summon weapon damage by 35%, and adds 5 minion and sentry slots.
+			}
+		}
+	}
+
+	Movement: {
+		SpeedModActive: {
+			DisplayName: Dynamic Propulsion Device
+			Tooltip:
+				'''
+				Increases movement speed, jump speed, and fall speed by 30%, but reduces defense by 20%.
+				Press the hotkey to double these bonuses.
+				Cooldown: 60 seconds
+				"You are the embodiment of speed."        
+				'''
+		}
+
+		SwiftWindWalkerBoots: {
+			DisplayName: Swift Windwalker Boots
+			Tooltip:
+				'''
+				Upon activation, greatly increases movement speed and grants invincibility for 10 seconds.
+				Cooldown: 45 seconds
+				The cost is the inability to deal damage.
+				"The slower you run, the faster you fall."
+				'''
+		}
+
+		Teleportation: {
+			DisplayName: Warp Drive Engine
+			Tooltip:
+				'''
+				Press the hotkey to teleport to the mouse cursor's location.
+				Clears all enemy projectiles within a 15-tile radius upon arrival.
+				[c/9b59b6:Does not cause Chaos State (From Rod of Discord)]
+				Cooldown: 15 seconds
+				"That was fast—I just blinked!"
+				'''
+		}
+	}
+
+	Others: {
+		LiquidAbsorbentShield: {
+			DisplayName: World Composite
+			Tooltip:
+				'''
+				Grants 10% increased damage, 10% increased attack speed, 5% defense, 5 life regeneration,
+				20% increased movement speed, 10% damage reduction, 10% max life, and 25% max mana.
+				"A jack of all trades."				   
+				'''
+		}
+
+		LiquidAbsorbentShield2: {
+			DisplayName: World Composite V2
+			Tooltip:
+				'''
+				Grants 20% increased damage, 20% increased attack speed, 10% defense, 10 life regeneration,
+				25% increased movement speed, 15% damage reduction, 15% max life, and 35% max mana.
+				"A jack of all trades^2."				   
+				'''
+		}
+
+		NanoExcavator: {
+			DisplayName: Nano Excavator
+			Tooltip:
+				'''
+				Allows your non-summon projectiles to break blocks.
+				!! Avoid using weapons with long durations !!
+				!! Avoid using weapons with excessive range !!
+				!! Avoid using overly intelligent weapons !!
+				!! Do not use this at home !!
+				I warned you. If you end up tearing down your house, don’t blame me.				   
+				'''
+		}
+
+		SuperMoney: {
+			DisplayName: Surprise Gift Box
+			Tooltip:
+				'''
+				It seems you can’t open this gift,
+				but perhaps someone is willing to buy it for a hefty price?				   
+				'''
+		}
+	}
+
+	StarPack: {
+		DisplayName: B-1 Supply Pack
+		Tooltip:
+			'''
+			It was originally meant to be carried on the back to provide extra backpack space. 
+			Due to budgetary issues, it can only be opened once. 
+			However, despite this, it still contains a lot of items.
+			'''
+	}
+
+	Wings: {
+		IMPWing: {
+			DisplayName: Wings of Celestial Power
+			Tooltip:
+				'''
+				-----[c/27ae60:Stars Moving Across the World]-----
+				Health regeneration, damage, and defense each increased by 15.
+				Allows for infinite flight.
+				While airborne, pressing both up and down allows you to walk in the air as if on solid ground.
+				Grants all effects of its materials.
+				Double-tap left or right, or press the hotkey for a powerful dash.
+				The dash grants invincibility, deals damage, and clears enemy projectiles.
+				Press the Super Dash key to perform a long-distance, invincible dash with immense power and range.
+				Multiplies your modifiers by 7 and applies them to the player.
+				Grants the effects of the SpeedModActive, SwiftWindWalkerBoots, and Teleportation.
+				"Speed knows no bounds, soaring across the skies, where the heart moves, a thousand miles can be reached."
+				'''
+		}
+	}
+
+	Y_TestAcc: {
+		TheItem: {
+			DisplayName: Crystal of Technology
+			Tooltip:
+				'''
+				Essential for crafting all accessories in the mod.
+				Each accessory requires one
+				Can be purchased from the Mechanic
+				Left-click to open the Lunar kit matrix catalog.
+				"Indispensable, absolutely necessary."
+				'''
+		}
+	}
+
+	Dash: {
+		ElfEnergyCore: {
+			DisplayName: Elf Energy Core
+			Tooltip:
+				'''
+				Perform a powerful energy dash, immune to enemy projectile damage.
+				Disable accessory visibility to use double-tap dash.
+				Enable accessory visibility to use single-key dash.
+				"This is the standard of the Elf Queen."
+				'''
+		}
+
+		PowerJetPack: {
+			DisplayName: Power Jet Pack
+			Tooltip:
+				'''
+				Performs an extremely long, far, and fast electric dash.
+				Immunity to all damage during the dash, dealing massive collision damage to enemies.
+				20-second cooldown on the dash.
+				"Martian technology, compressed dash."
+				'''
+		}
+
+		ShallowOxygenBottle: {
+			DisplayName: Shallow Oxygen Bottle
+			Tooltip:
+				'''
+				Perform a powerful water dash, immune to enemy contact damage.
+				Disable accessory visibility to use double-tap dash.
+				Enable accessory visibility to use single-key dash.
+				"This is the Duke's standard."
+				'''
+		}
+
+		SweetheartCloak: {
+			DisplayName: Sweetheart Cloak
+			Tooltip:
+				'''
+				Perform a powerful honey dash, 25% chance to be immune to damage.
+				Disable accessory visibility to use double-tap dash.
+				Enable accessory visibility to use single-key dash.
+				"Do not enslave the bees."
+				'''
+		}
+	}
+}
+
+Keybinds: {
+	大冲刺.DisplayName: Big Dash
+	单键冲刺.DisplayName: Single-button Dash
+	疾风行者靴.DisplayName: Windrunner Boots
+	动力加速装置.DisplayName: Power Accelerator
+	血管加速器.DisplayName: Blood Vessel Accelerator
+	活血泵.DisplayName: Blood Pump
+	瞬间移动.DisplayName: Teleport
+	超载装置.DisplayName: Overload Device
+	通用电磁脉冲.DisplayName: EMP
+	弹幕管理终端.DisplayName: Bullet Screen Management Terminal
+	音波环.DisplayName: Sonic Ring
+}
+
+Projectiles: {
+	MiaoProj.DisplayName: Miao Proj
+	BrassBowProj.DisplayName: Brass Bow Proj
+	WhiteHolePROJ4.DisplayName: White Hole P R O J4
+	WhiteHolePROJ3.DisplayName: White Hole P R O J3
+	WhiteHolePROJ2.DisplayName: White Hole P R O J2
+	WhiteHolePROJ.DisplayName: White Hole P R O J
+	VoidOfDarknessTHOR.DisplayName: Void Of Darkness T H O R
+	VoidOfDarknessROT.DisplayName: Void Of Darkness R O T
+	VoidOfDarknessPROJ.DisplayName: Void Of Darkness P R O J
+	ThermalSmoke.DisplayName: Thermal Smoke
+	ThermalBullet.DisplayName: Thermal Bullet
+	PurpleES.DisplayName: Purple E S
+	LightBlueES.DisplayName: Light Blue E S
+	BrownES.DisplayName: Brown E S
+	BrassLight.DisplayName: Brass Light
+	BrassGear.DisplayName: Brass Gear
+	BrassArrow.DisplayName: Brass Arrow
+	BlackES.DisplayName: Black E S
+	AbyssWorm.DisplayName: Abyss Worm
+	AbyssEssence.DisplayName: Abyss Essence
+	VenusProjectile.DisplayName: Venus Projectile
+	VenusExplosionProjectile.DisplayName: Venus Explosion Projectile
+	UranusProjectile.DisplayName: Uranus Projectile
+	SunSmallRay.DisplayName: Sun Small Ray
+	SunProjectile.DisplayName: Sun Projectile
+	SunLaserProjectile.DisplayName: Sun Laser Projectile
+	SplittingFlamesProjectile.DisplayName: Splitting Flames Projectile
+	SaturnRingProjectile.DisplayName: Saturn Ring Projectile
+	SaturnProjectile.DisplayName: Saturn Projectile
+	PlutoProjectile.DisplayName: Pluto Projectile
+	NeptuneWaterProjectile.DisplayName: Neptune Water Projectile
+	NeptuneProjectile.DisplayName: Neptune Projectile
+	MercuryProjectile.DisplayName: Mercury Projectile
+	MarsProjectile.DisplayName: Mars Projectile
+	JupiterProjectile.DisplayName: Jupiter Projectile
+	HalleyCometProjectile.DisplayName: Halley Comet Projectile
+	EarthProjectile.DisplayName: Earth Projectile
+	UniversalAura.DisplayName: Universal Aura
+	SlimeShieldProjectile.DisplayName: Slime Shield Projectile
+	ShinySlimeShieldProjectile.DisplayName: Shiny Slime Shield Projectile
+	MoonShieldProjectile.DisplayName: Moon Shield Projectile
+	LifeSubSpacePROJ.DisplayName: Life Sub Space P R O J
+	FlyEyeProj.DisplayName: Fly Eye Proj
+	EnergyShieldCatapultPROJ.DisplayName: Energy Shield Catapult P R O J
+	UniversalBarrierProjectile.DisplayName: Universal Barrier Projectile
+	SubSpaceProjectile.DisplayName: Sub Space Projectile
+	EMPProj.DisplayName: E M P Proj
+	BarrierProjectile.DisplayName: Barrier Projectile
+	DeathNoteProjectile.DisplayName: Death Note Projectile
+	ControllableHaloPROJ.DisplayName: Controllable Halo P R O J
+	BMSPROJ.DisplayName: B M S P R O J
+	BlueRoundShield.DisplayName: Blue Round Shield
+	AsteroidBeltPROJ.DisplayName: Asteroid Belt P R O J
+	AncientGiftSUProj.DisplayName: Ancient Gift S U Proj
+	AncientGiftREProj.DisplayName: Ancient Gift R E Proj
+	AncientGiftMEProj.DisplayName: Ancient Gift M E Proj
+	AncientGiftMAProj.DisplayName: Ancient Gift M A Proj
+	PlanetaryHookProjectile.DisplayName: Planetary Hook Projectile
+	KongDa.DisplayName: Kong Da
+	KongXiao.DisplayName: Kong Xiao
+	ShakeProj.DisplayName: Shake Proj
+	EarthHealProj.DisplayName: Earth Heal Proj
+	AntimatterNuclearMissilePROJ.DisplayName: Antimatter Nuclear Missile P R O J
+	TestPROJ.DisplayName: Test P R O J
+	ReinforcedConcretePROJ.DisplayName: Reinforced Concrete P R O J
+	Kar98kShot.DisplayName: Kar98k Shot
+	AKMHoldout.DisplayName: A K M Holdout
+	DreamerBobber.DisplayName: Dreamer Bobber
+	SpainningProjectile.DisplayName: Spainning Projectile
+	AircraftSarrierSA.DisplayName: Aircraft Sarrier S A
+	StarrySkyBoomerangPROJ.DisplayName: Starry Sky Boomerang P R O J
+	ReinforcedConcreteProjectile.DisplayName: Reinforced Concrete Projectile
+	TheASSA.DisplayName: The A S S A
+	RedSunSummon.DisplayName: Red Sun Summon
+	RedSunFirePROJ.DisplayName: Red Sun Fire P R O J
+	DestroyBombProj.DisplayName: Destroy Bomb Proj
+	StellarDrillProj.DisplayName: Stellar Drill Proj
+	MedicalDrones.DisplayName: Medical Drones
+	EMPVis.DisplayName: E M P Vis
+	EMPUse.DisplayName: E M P Use
+	EMPVis2.DisplayName: E M P Vis2
+	EMPVis65L.DisplayName: E M P Vis65 L
+	NeptuneProjectileTrident.DisplayName: Neptune Projectile Trident
+	NeptuneProjectileTaiJinPProj.DisplayName: Neptune Projectile Tai Jin P Proj
+	SwordBarrage.DisplayName: Sword Barrage
+	PrimordialStateSlash.DisplayName: Primordial State Slash
+	TheSuperSlash.DisplayName: The Super Slash
+	SunProj2.DisplayName: Sun Proj2
+	TheStaffPROJ.DisplayName: The Staff P R O J
+	TheSumWhip.DisplayName: The Sum Whip
+	ControllableStellarEnergyProjection.DisplayName: Controllable Stellar Energy Projection
+	TheItemKitCatalogPanel.DisplayName: The Item Kit Catalog Panel
+}
+
+Buffs: {
+	Fly: {
+		DisplayName: You shouldn't see this
+		Description: Tell me what you did
+	}
+
+	BloodPumpBuff: {
+		Description: Physically strong people can face more challenges
+		DisplayName: Circulatory System Enhancement
+	}
+
+	DamageProtectionDevice: {
+		Description: Your defense and damage reduction are reduced to zero!
+		DisplayName: Broken Defense
+	}
+
+	INV: {
+		Description: Enemies cannot attack you
+		DisplayName: Subspace Field
+	}
+
+	DamageProtectionDeviceBuff: {
+		DisplayName: Broken Defense
+		Description: Your defense and damage reduction are reduced to zero!
+	}
+
+	NSDD_Player: {
+		Description: You can barely move!
+		DisplayName: Nervous System Regeneration
+	}
+
+	NSDD_Enemy: {
+		Description: You can barely move!
+		DisplayName: Nervous System Damage
+	}
+
+	ControllableHaloBuff: {
+		Description: You are losing health at a rate of 2‰ per second!
+		DisplayName: Disintegration Ring
+	}
+
+	HandHeldMechanicalBucklerSkillBuff: {
+		Description: You feel unstoppable!
+		DisplayName: Armored Shield Blessing
+	}
+
+	UnlimitedManaBackpackPlayerSkillBuff: {
+		Description: Your attack power is strong enough to tear everything apart, but at the cost of rapid health loss
+		DisplayName: Mana Backpack Boost
+	}
+
+	UltimateFunctionOverloadDeviceBuff: {
+		DisplayName: You feel full of power
+		Description: Overload Device Effect
+	}
+
+	GamblersTopHatBuff: {
+		Description: Super crit triggered
+		DisplayName: Super Crit
+	}
+
+	Nomove: {
+		Description: For some reason, you can't move
+		DisplayName: Unable to Move
+	}
+
+	WindrunnerBootsBuff: {
+		DisplayName: Super Speed Run
+		Description: Speed up, speed up
+	}
+
+	GamblersGloves: {
+		DisplayName: Mental Burst
+		Description: Greatly increases movement speed and damage
+	}
+
+	LifeSubSpaceBuff: {
+		DisplayName: Revival Ecology
+		Description: Quickly restores health and increases defense
+	}
+
+	ManaSickness: {
+		DisplayName: Mana Decay
+		Description: Danger, magic weapon, danger
+	}
+
+	PowerJetPackCoolDown: {
+		DisplayName: Power Jet Pack Cooldown
+		Description: You cannot use the Power Jet Pack dash again
+	}
+
+	MercuryBlessingBuff: {
+		DisplayName: Mercury's Blessing
+		Description: You have 95% damage reduction
+	}
+
+	MercuryCurseingBuff: {
+		DisplayName: Mercury's Curse
+		Description: Defense greatly reduced
+	}
+
+	Uranium235Debuff: {
+		DisplayName: U235 - Freeze
+		Description: Freeze!
+	}
+
+	Uranium238Debuff: {
+		DisplayName: U238 - Slow
+		Description: Slow down!
+	}
+
+	VenusHighTempMeltDebuff: {
+		DisplayName: Venus High-Temperature Melt
+		Description: Your defenses are greatly reduced!
+	}
+
+	DeathNoteBuff: {
+		Description: You feel death approaching
+		DisplayName: Death Note
+	}
+
+	EMPIncreasedDamageBuff: {
+		Description: Cleared projectiles convert to your damage boost!
+		DisplayName: EMP Energy Absorption
+	}
+
+	EMPUniversalBuff: {
+		DisplayName: EMP Super Energy Absorption
+		Description: Cleared projectiles convert to your damage and defense boost!
+	}
+
+	SpeedModActiveBuff: {
+		Description: Wow, so fast
+		DisplayName: Power Propulsion Device Effect
+	}
+
+	FirepowerExoskeletonDeviceBuff: {
+		Description: I'm furious
+		DisplayName: Firepower Exoskeleton Kit Damage Boost Effect
+	}
+
+	MechanicalHeartBuff: {
+		Description: Revived from the dead
+		DisplayName: Resurrection Effect
+	}
+
+	TamingWhipRingBuff: {
+		Description: Stackable whip effect
+		DisplayName: Beast Tamer Whip Ring Effect
+	}
+
+	SynergisticCatalystBuff: {
+		Description: Cross-class compatibility effect
+		DisplayName: Synergistic Catalyst Effect
+	}
+
+	BrainInJarBuff: {
+		Description: Mods.AccessoryForPlanetaryEmpire.Buffs.BrainInJarBuff.Description
+		DisplayName: Brain In Jar Buff
+	}
+
+	ElectronicPsychedelicDrugsBuff: {
+		Description: You feel dizzy
+		DisplayName: Electronic Psychedelic Drugs Buff
+	}
+
+	LimitResponseModuleBuff: {
+		DisplayName: Limit Response Module Buff
+		Description: Mods.AccessoryForPlanetaryEmpire.Buffs.LimitResponseModuleBuff.Description
+	}
+
+	RedSunSummonBuff: {
+		DisplayName: Red Sun Summon Buff
+		Description: Mods.AccessoryForPlanetaryEmpire.Buffs.RedSunSummonBuff.Description
+	}
+
+	BloodVesselAcceleratorSkillBuff: {
+		Description: Mods.AccessoryForPlanetaryEmpire.Buffs.BloodVesselAcceleratorSkillBuff.Description
+		DisplayName: Blood Vessel Accelerator Skill Buff
+	}
+}
+
+// NPCs.HPnpc.DisplayName: H Pnpc
+
+Configs: {
+	EXPModConfig: {
+		// DisplayName: E X P Mod Config
+		
+		EnableExplosionDamageImmunity: {
+		}
+	}
+
+	NoMoreExplosions: {
+		// DisplayName: No More Explosions
+		
+		EnableExplosionDamageImmunity: {
+		}
+	}
+
+	WT_PearlwoodBow: {
+		// DisplayName: W T_ Pearlwood Bow
+		
+		EnablePearlwoodBowTweaks: {
+		}
+	}
+
+	PLAConfigs: {
+		// DisplayName: P L A Configs
+		
+		EnableExplosionDamageImmunity: {
+			Tooltip: Grants immunity to explosion damage when enabled.
+			Label: Enable Explosion Damage Immunity
+		}
+
+		EnablePearlwoodBowTweaks: {
+			Tooltip: Modifies the attributes and functionality of the Pearlwood Bow when enabled.
+			Label: Enable Pearlwood Bow Tweaks
+		}
+
+		EnableDeathSickleTweaks: {
+			Tooltip: Modifies the attributes and functionality of the Death Sickle when enabled.
+			Label: Enable Death Sickle Tweaks
+		}
+
+		EnablePulseBowTweaks: {
+			Tooltip: Modifies the attributes and functionality of the Pulse Bow when enabled.
+			Label: Enable Pulse Bow Tweaks
+		}
+
+		EnableFireworksLauncherTweaks: {
+			Tooltip: Modifies the attributes and functionality of the Celebration Mk2 when enabled.
+			Label: Enable Fireworks Launcher Tweaks
+		}
+
+		DisplayName: P L A Configs
+
+		EnableFriendlyFire: {
+			Label: 开启炸队友
+			Tooltip: 开启后，玩家弹幕可以按精密计算后的伤害命中其他玩家
+		}
+	}
+}
+
+NPCs: {
+	HPnpc.DisplayName: H Pnpc
+	TheALTK.DisplayName: The A L T K
+}
+
+Items: {
+	PlanetaryHook: {
+		DisplayName: Planetary Hook
+		Tooltip:
+			'''
+			You say you want the entire galaxy?
+			Then why not hook it over?
+			'''
+	}
+
+	StellarCleaver: {
+		DisplayName: Stellar Cleaver
+		Tooltip:
+			'''
+			Pickaxe power and attack damage scale with game progress
+			Right-click to use as a hammer
+			'''
+	}
+
+	TheOutcast: {
+		DisplayName: The Outcast
+		Tooltip:
+			'''
+			Sprays solutions to change terrain
+			Right-click to switch modes
+			Does not consume ammo
+			"Essential for purifying the world"
+			'''
+	}
+
+	Kong: {
+		DisplayName: Kong Gun
+		Tooltip:
+			'''
+			Left-click to shrink enemies
+			Right-click to enlarge enemies
+			For entertainment purposes only!
+			"Form is emptiness"
+			'''
+	}
+
+	Miao: {
+		DisplayName: The Wonderful
+		Tooltip:
+			'''
+			Shoots random projectiles!
+			You never know what the next shot will be!
+			If in a "good world", the damage is permanently tripled
+			"It's just too wonderful"
+			'''
+	}
+
+	TimeLeaper: {
+		DisplayName: Time Leaper
+		Tooltip:
+			'''
+			Left click to turn rain on or off on the surface and snowfields
+			left click to turn on and off sandstorms in the desert. 
+			Right click to change 4 times (4:30 am, 12 noon, 7:30 pm, 12 midnight)
+			'''
+	}
+
+	FakeZenith: {
+		DisplayName: Fake Zenith
+		Tooltip:
+			'''
+			A very low-quality imitation of the Zenith. 
+			It has all the power of the Zenith's materials, but a replica is still just a replica. 
+			It has less than 10% of the power of the original.
+			'''
+	}
+
+	Dreamer: {
+		DisplayName: Dreamer
+		Tooltip:
+			'''
+			A powerful fishing rod that can fish in lava.
+			The number of lines cast and fishing power grow as you progress through the game.
+			"Those fish say they volunteered to bite the hook; it has nothing to do with us."
+			'''
+	}
+
+	CompressedBait: {
+		DisplayName: Compressed Bait
+		Tooltip:
+			'''
+			An indestructible bait.
+			"The ultimate in durability."
+			'''
+	}
+
+	ElectronicPsychedelicDrugs: {
+		DisplayName: Electronic Psychedelic Drugs
+		Tooltip:
+			'''
+			Damage increased by 200%
+			You feel dizzy and feel like you are about to give birth
+			'''
+	}
+
+	DestroyBomb: {
+		DisplayName: Destroy Bomb
+		Tooltip: ""
+	}
+
+	StellarDrill: {
+		DisplayName: Stellar Drill
+		Tooltip: ""
+	}
+
+	SB: {
+		DisplayName: Super Balloon
+		Tooltip:
+			'''
+			Provides nine jumps plus a period of flight
+			"For Super Balloon"
+			'''
+	}
+}
+
+NewWeapons: {
+	TheBow: {
+		DisplayName: Tri-Axis Bow
+		Tooltip:
+			'''
+			Left-click fires three parallel energy arrows, providing stable basic coverage.
+			Right-click enters a high-speed single-shot mode for rapid suppression.
+			'''
+	}
+
+	TheKnife: {
+		DisplayName: Spinblade
+		Tooltip:
+			'''
+			Left-click throws a high-speed rotating energy blade that slows down and continues cutting.
+			Right-click performs a reinforced melee slash, dealing higher warrior damage.
+			'''
+	}
+
+	TheStaff: {
+		DisplayName: Riftspire Staff
+		Tooltip:
+			'''
+			Opens small energy rifts around the caster, summoning violet constructs toward the cursor.
+			A suitable basic arcane weapon for early progression.
+			'''
+	}
+
+	TheSum: {
+		DisplayName: Pulseweave Lash
+		Tooltip:
+			'''
+			A lightweight lash woven from pulsed energy.
+			Hitting an enemy marks the target for your minions.
+			'''
+	}
+
+	TheKnifePROJ.DisplayName: The Knife P R O J
+	TheStaffPROJ.DisplayName: The Staff P R O J
+	TheSummer.DisplayName: The Summer
+}
+
+TheItemCatalog: {
+	Title: Lunar Kit Matrix
+	Materials: Materials
+	ClickHint: Click a kit to view its required materials.
+	NoEntries: No Lunar Bar kit recipes are currently registered.
+}

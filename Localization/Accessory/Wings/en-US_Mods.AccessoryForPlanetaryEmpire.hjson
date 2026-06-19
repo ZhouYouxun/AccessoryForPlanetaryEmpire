@@ -1,0 +1,21 @@
+Accessory: {
+	Wings: {
+		IMPWing: {
+			DisplayName: Wings of Celestial Power
+			Tooltip:
+				'''
+				-----[c/27ae60:Stars Moving Across the World]-----
+				Health regeneration, damage, and defense each increased by 15.
+				Allows for infinite flight.
+				While airborne, pressing both up and down allows you to walk in the air as if on solid ground.
+				Grants all effects of its materials.
+				Double-tap left or right, or press the hotkey for a powerful dash.
+				The dash grants invincibility, deals damage, and clears enemy projectiles.
+				Press the Super Dash key to perform a long-distance, invincible dash with immense power and range.
+				Multiplies your modifiers by 7 and applies them to the player.
+				Grants the effects of the SpeedModActive, SwiftWindWalkerBoots, and Teleportation.
+				"Speed knows no bounds, soaring across the skies, where the heart moves, a thousand miles can be reached."
+				'''
+		}
+	}
+}

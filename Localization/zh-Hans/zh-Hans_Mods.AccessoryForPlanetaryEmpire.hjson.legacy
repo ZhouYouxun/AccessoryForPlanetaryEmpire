@@ -1,0 +1,2083 @@
+Items: {
+	AIAssistDevice: {
+		DisplayName: 人工智能穿透装置
+		Tooltip:
+			'''
+			你射出的所有弹幕都能够穿墙
+			“对于某些类型的弹幕来说，穿墙可不是什么好消息”
+			'''
+	}
+
+	FixedPointAttackDevice: {
+		DisplayName: 定点进攻装置
+		Tooltip:
+			'''
+			静止移动时能够翻倍输出
+			全速移动时降低75%的输出能力
+			攻击力变化将会线性增长或降低
+			“专门献给老六”
+			'''
+	}
+
+	HeroDamageDevice: {
+		DisplayName: 白刃腰带
+		Tooltip:
+			'''
+			距离敌人越近，越会提高近战攻击力和攻速
+			距离10格远时会线性提升至50%的攻击力和30的攻速
+			远离超过30格会受到负面影响
+			最严重的时候会在第60格的地方降低30%的攻击力和30的攻速
+			“想拼刀吗？来啊”
+			'''
+	}
+
+	ImperialDashShield: {
+		DisplayName: 重型冲锋盾牌Mk1
+		Tooltip:
+			'''
+			提升10%伤害，可以进行比较快的四向冲刺
+			原版冲刺饰品可能会覆盖此饰品的冲刺效果
+			“冲刺！冲刺！”
+			'''
+	}
+
+	ImperialDashShieldSJR: {
+		DisplayName: 重型冲锋盾牌MK2
+		Tooltip:
+			'''
+			提升15%伤害，可以进行非常快的四向冲刺，生命回复加8
+			原版冲刺饰品可能会覆盖此饰品的冲刺效果
+			“冲刺！冲刺！”
+			'''
+	}
+
+	UltimateFunctionOverloadDevice: {
+		DisplayName: 极限体能超载装置
+		Tooltip:
+			'''
+			消耗自身75%最大生命值为代价，降低50%防御力，50%移动速度，仇恨值大幅提升
+			但是在接下来的15秒提升600%的伤害，冷却时间为1分钟
+			“玻璃大炮，启动！”
+			'''
+	}
+
+	UltraHighCrit: {
+		DisplayName: 暴击戒指
+		Tooltip:
+			'''
+			玩家的每次攻击都必定暴击(暴击率加100%)，但是防御力减少25%
+			“召唤师流下了眼泪”
+			'''
+	}
+
+	FixedPointDefenseDevice: {
+		DisplayName: 定点防御装置
+		Tooltip:
+			'''
+			静止移动时能够翻倍防御
+			全速移动时降低75%的防御能力
+			防御力变化将会线性增长或降低
+			“缩进甲虫壳中”
+			'''
+	}
+
+	HighVoltageGrid: {
+		DisplayName: "高压电网生成器 "
+		Tooltip:
+			'''
+			每隔1.5秒消除范围内的一个敌方弹幕
+			“你和你的弹幕让我感到可笑”
+			'''
+	}
+
+	MagicSeeker: {
+		DisplayName: "魔力引导头 "
+		Tooltip:
+			'''
+			受到伤害时将伤害转化为魔力受损，每受5次伤害将会触发一次
+			“当一个法师魔力耗尽时：？”
+			'''
+	}
+
+	PeriodicBarrierBooster: {
+		DisplayName: "周期性屏障生成器 "
+		Tooltip:
+			'''
+			防御力加8
+			每隔45秒钟自动提供5秒钟的无敌
+			“简单纯粹的无敌”
+			“这是本模组第1个加入的装备，非常有历史意义，因此你可以在游戏早期就获得它，这听上去不错！”
+			'''
+	}
+
+	PeriodicBarrierBoosterHAV: {
+		DisplayName: "周期性屏障生成器（手动版） "
+		Tooltip:
+			'''
+			防御力加8
+			按下绑定按键，激活一个时长为5秒钟的无敌护盾，冷却时间为45秒
+			“简单纯粹的无敌”
+			'''
+	}
+
+	RangeBarrier: {
+		DisplayName: "团队范围屏障 "
+		Tooltip:
+			'''
+			按下快捷键，在玩家自身范围为中心，创建一个半径为35格的屏障，仅仅持续1秒钟且阻挡所有敌方弹幕，但冷却时间也只有10秒
+			“有点团队，但是不多”
+			'''
+	}
+
+	ReactShieldGenerator: {
+		DisplayName: 反应护盾生成器
+		Tooltip:
+			'''
+			受到伤害时提供5秒钟的无敌时间，每受3次伤害将会触发一次
+			“适合连续受击”
+			'''
+	}
+
+	ReflectArcPulse: {
+		DisplayName: 子弹电磁脉冲-清除
+		Tooltip:
+			'''
+			每隔45秒充能后释放反向脉冲清除半径60格以内范围内所有敌方弹幕
+			“你的弹幕是多么无趣”
+			'''
+	}
+
+	ReflectArcPulseHAV: {
+		DisplayName: "子弹电磁脉冲-清除（手动版） "
+		Tooltip:
+			'''
+			在45秒的充能时间过后，手动按下快捷键释放反向脉冲清除半径60格范围内所有敌方弹幕
+			“你的弹幕是多么无趣”
+			'''
+	}
+
+	Magic1: {
+		DisplayName: "奥术容器V1 "
+		Tooltip: 魔法武器伤害提升15%，暴击率提升5
+	}
+
+	Magic2: {
+		DisplayName: "奥术容器V2 "
+		Tooltip: 魔法武器伤害提升20%，暴击率提升10
+	}
+
+	Magic3: {
+		DisplayName: "奥术容器V3 "
+		Tooltip: 魔法武器伤害提升30%，暴击率提升20
+	}
+
+	Magic4: {
+		DisplayName: "奥术容器V4 "
+		Tooltip: 魔法武器伤害提升35%，暴击率提升30
+	}
+
+	Ranger1: {
+		DisplayName: "枪械护理套装V1 "
+		Tooltip: 远程武器伤害提升20%，暴击率提升10
+	}
+
+	Ranger2: {
+		DisplayName: "枪械护理套装V2 "
+		Tooltip: 远程武器伤害提升20%，暴击率提升10
+	}
+
+	Ranger3: {
+		DisplayName: "枪械护理套装V3 "
+		Tooltip: 远程武器伤害提升30%，暴击率提升20
+	}
+
+	Ranger4: {
+		DisplayName: "枪械护理套装V4 "
+		Tooltip: 远程武器伤害提升35%，暴击率提升30
+	}
+
+	Summon1: {
+		DisplayName: "军队指挥棒V1 "
+		Tooltip: 召唤武器攻击力加15%，召唤栏与哨兵栏加2
+	}
+
+	Summon2: {
+		DisplayName: "军队指挥棒V2 "
+		Tooltip: 召唤武器攻击力加20%，召唤栏与哨兵栏加3
+	}
+
+	Summon3: {
+		DisplayName: "军队指挥棒V3 "
+		Tooltip: 召唤武器攻击力加30%，召唤栏与哨兵栏加4
+	}
+
+	Summon4: {
+		DisplayName: "军队指挥棒V4 "
+		Tooltip: 召唤武器攻击力加35%，召唤栏与哨兵栏加5
+	}
+
+	Tank1: {
+		DisplayName: "荣耀之盾V1 "
+		Tooltip:
+			'''
+			近战武器伤害提升15%，暴击率提升5
+			敌人更有可能瞄准你
+			'''
+	}
+
+	Tank2: {
+		DisplayName: "荣耀之盾V2 "
+		Tooltip:
+			'''
+			近战武器伤害提升20%，暴击率提升10
+			敌人更有可能瞄准你
+			'''
+	}
+
+	Tank3: {
+		DisplayName: "荣耀之盾V3 "
+		Tooltip:
+			'''
+			近战武器伤害提升30%，暴击率提升20
+			敌人更有可能瞄准你
+			'''
+	}
+
+	Tank4: {
+		DisplayName: "荣耀之盾V4 "
+		Tooltip:
+			'''
+			近战武器伤害提升35%，暴击率提升30
+			敌人更有可能瞄准你
+			'''
+	}
+
+	SpeedModActive: {
+		DisplayName: "动力推进装置 "
+		Tooltip:
+			'''
+			移动速度、跳跃速度、下落速度各增加30%，但是防御力减少20%
+			按下快捷键将上述三个增益扩张到两倍
+			“你就是速度的化身”
+			冷却时间60秒
+			'''
+	}
+
+	Teleportation: {
+		DisplayName: "折跃启动引擎 "
+		Tooltip:
+			'''
+			按下快捷键，到达鼠标所在的地方
+			抵达时清除范围半径15格以内的所有敌方弹幕
+			不会造成混沌减益，适合在深渊里使用
+			冷却时间为15秒
+			“好快，我就眨了一下眼！”
+			'''
+	}
+
+	LiquidAbsorbentShield: {
+		DisplayName: 世界综合体
+		Tooltip:
+			'''
+			提供10%的攻击力，10%的攻击速度，5%的防御力，5点生命回复
+			20%的移动速度，10%的伤害减免，10%的最大生命值，25%的最大魔力值
+			“我什么都会一点”
+			'''
+	}
+
+	SuperMoney: {
+		DisplayName: "惊喜礼物盒 "
+		Tooltip:
+			'''
+			你貌似打不开这个礼物
+			但或许有人会愿意花亿点高价收购它？
+			'''
+	}
+
+	WoDeShengGao: {
+		DisplayName: 鼹鼠式仿生挖掘爪
+		Tooltip:
+			'''
+			挖掘速度超大幅度提升
+			注意：TML有挖掘上限，因此对于本来就挖掘速度很快的工具，它无法提供很大的提升
+			“直接挖是吧？哎呀，哎呀呀，哎呀，我的审稿！”
+			'''
+	}
+
+	SuperGlowstick: {
+		DisplayName: 荧光棒之书
+		Tooltip:
+			'''
+			左键释放荧光棒
+			右键释放粘性荧光棒
+			'''
+	}
+
+	SuperBomb: {
+		DisplayName: 炸弹之书
+		Tooltip:
+			'''
+			左键释放炸弹
+			右键释放粘性炸弹
+			'''
+	}
+
+	SpuperDynamite: {
+		DisplayName: 雷管之书
+		Tooltip:
+			'''
+			左键释放炸弹
+			右键释放粘性炸弹
+			'''
+	}
+
+	BeamSwordEX: {
+		DisplayName: 镜面反射
+		Tooltip: 在鼠标位置召唤八条剑气向旁边飞行
+	}
+
+	WehrmachtMachineGun: {
+		DisplayName: 测试弓
+		Tooltip: 随着使用时间的增加来提升攻击力和攻击速度
+	}
+
+	BulletBomb: {
+		DisplayName: 子弹电磁脉冲-爆破
+		Tooltip:
+			'''
+			引爆半径100格范围内的敌方子弹，消除他们的同时并造成高额伤害
+			敌人的弹幕越多，这个技能造成的伤害就越大
+			引爆的弹幕造成大范围内7倍的伤害，不会伤害到友军，同时有90秒的冷却
+			“爆炸了！爆炸了！”
+			'''
+	}
+
+	ShieldGeneratorOnDeployment: {
+		DisplayName: 部署时护盾生成装置
+		Tooltip:
+			'''
+			在刚复活的时候给予十秒的无敌
+			“你复活辣”
+			'''
+	}
+
+	StunEMP: {
+		DisplayName: 子弹电磁脉冲-眩晕
+		Tooltip:
+			'''
+			使用电磁脉冲将半径60格之内的敌方子弹暂停并大幅降低这个范围之内的敌人移动速度
+			持续5秒，冷却时间35秒
+			“让你的敌人有点头疼”
+			'''
+	}
+
+	IMPWing: {
+		DisplayName: 星界动力之翼
+		Tooltip:
+			'''
+			星界能量在此翅膀中流动
+			它给予了你无限翱翔的能力和[c/5272e9:难！ ][c/c8e553:以！ ][c/00c0e6:置！ ][c/8e1ad7:信！ ]的加速度
+			'''
+	}
+
+	TheItem: {
+		DisplayName: 科技结晶
+		Tooltip:
+			'''
+			用于制作模组里的所有饰品
+			“不可或缺，必不可少”
+			'''
+	}
+
+	PlanetaryHook: {
+		DisplayName: 星空锚钩
+		Tooltip:
+			'''
+			你说你想要整个银河系？
+			那为什么不把它钩过来？
+			'''
+	}
+
+	EBall: {
+		Tooltip:
+			'''
+			在鼠标位置发射8个电磁球
+			测试用武器
+			'''
+		DisplayName: 星宇天爆
+	}
+
+	PainEditor: {
+		DisplayName: 疼痛编辑器
+		Tooltip:
+			'''
+			将单次最大伤害限制在你当前最大生命值的20%
+			“你打不死我了，唉，你又打的死我了”
+			'''
+	}
+
+	MechanicalHeart: {
+		Tooltip:
+			'''
+			受到致命伤害是满血复活一次
+			给予100的生命恢复和10秒的无敌
+			两分半冷却，死亡后立刻重置冷却
+			“唉，我刚刚死了，唉，我现在又活过来了，唉，气不气”
+			'''
+		DisplayName: 机械主义心脏
+	}
+
+	BloodPump: {
+		Tooltip:
+			'''
+			替换掉治疗药水的效果，用一种更强大的治疗效果代替，冷却时间40秒
+			按下绑定按键时立刻恢复已损失生命值的一半，并给予一个极强的生命回复和伤害减免
+			与此同时给予40秒的治疗冷却
+			“我受伤了，唉，我又回满血了”
+			'''
+		DisplayName: 活血泵
+	}
+
+	SubSpace: {
+		Tooltip:
+			'''
+			按下快捷键时创建一个持续10秒的超时空立场
+			立场内的玩家获得无敌，即便离开立场也能获得一秒钟的无敌
+			对敌方弹幕和碰撞伤害都有效
+			“你看得见我吗？你看得见吗？你看得见，但是你看不见！你看不见，但是你看得见！”
+			'''
+		DisplayName: 超时空场生成装置
+	}
+
+	NervousSystemDisorderDevice: {
+		Tooltip:
+			'''
+			提升10%伤害
+			按下快捷键时瘫痪半径100格圆形范围内的敌人
+			但这是以瘫痪自己为代价的
+			（降低敌方90%的移速和自身35%的移速，冷却时间45秒）
+			“你的神经系统和敌人的神经系统都烧起来了！”
+			'''
+		DisplayName: 神经系统紊乱装置
+	}
+
+	EnergyShieldCatapult: {
+		Tooltip:
+			'''
+			增加15%的伤害减免和跳跃速度
+			增加15点防御力
+			每隔5秒自动射出一发极其缓慢，但是能够自动消除敌人子弹的圆环状弹幕
+			“狐假虎威! ”
+			'''
+		DisplayName: 能量盾弹射器
+	}
+
+	ControllableHalo: {
+		Tooltip:
+			'''
+			增加25%的跳跃速度，15%的移速，和30%的飞行时间
+			同时在鼠标处形成一个照明光环
+			光环可以使你的敌人分崩离析，每秒造成最大生命值的2‰伤害
+			“也许你可以试试只使用光环杀死BOSS？”
+			'''
+		DisplayName: 虚拟现实眼镜
+	}
+
+	SuperDice: {
+		DisplayName: 超级幸运骰子
+		Tooltip:
+			'''
+			增加7生命恢复，7防御力，7伤害减免
+			但是武器的伤害和暴击率会开始随机波动
+			伤害值从0.6~1.8倍随机波动
+			暴击率从当前值~100随机波动
+			“你以前就很幸运，所以我希望你能一直这么幸运下去”
+			'''
+	}
+
+	AITrackingDevice: {
+		DisplayName: 人工智能定位装置
+		Tooltip:
+			'''
+			你所有的弹幕都能追杀敌人（召唤弹幕除外）
+			注：部分特殊弹幕的武器可能会不起效果/起到反效果
+			[i:4956][i:3541][i:2424][i:1513][i:2882][i:1947][i:757]
+			当关闭饰品可见性时，可以让所有的弹幕都追踪敌人不做任何筛选
+			“我不会告诉你他搭配无视无敌帧的弹幕输出会瞬间爆炸的”
+			'''
+	}
+
+	AIATDevice: {
+		DisplayName: 人工智能定位与穿透装置
+		Tooltip:
+			'''
+			你的所有弹幕能够穿透方块并追杀敌人
+			注：部分特殊弹幕的武器可能会不起效果/起到反效果
+			[i:4956][i:3541][i:2424][i:1513][i:2882][i:1947][i:757]
+			“曾经有人说过穿墙加追踪等于无敌，不知道这是不是真的”
+			'''
+	}
+
+	HuskyAmulet: {
+		DisplayName: 哈士奇护身符
+		Tooltip:
+			'''
+			提升15%伤害，防御力加8
+			按下快捷键进行左右方向的无敌冲刺
+			“冲刺期间将摧毁家具（然而并不会）”
+			[c/FF0000: --开发者物品--]
+			'''
+	}
+
+	LuckyCoin: {
+		DisplayName: 幸运金币
+		Tooltip:
+			'''
+			当售出一个物品时，有60%概率额外返还一些金额
+			返还金额在0到物品的售价之间随机浮动
+			40%的概率则会亏损一些金额
+			与此同时，你所携带的每一枚铂金币都能提升0.5%的伤害，上限为75%
+			“因为你很穷，所以你很富，这是一个悖论”
+			'''
+	}
+
+	LiquidAbsorbentShield2: {
+		DisplayName: 世界综合体V2
+		Tooltip:
+			'''
+			提供20%的攻击力，20%的攻击速度，10%的防御力，10点生命回复
+			25%的移动速度，15%的伤害减免，15%的最大生命值，35%的最大魔力值
+			“我什么都会一点^2”
+			'''
+	}
+
+	Summon0: {
+		DisplayName: 无限召唤器
+		Tooltip:
+			'''
+			你拥有无限的召唤栏位和哨兵栏位 
+			同时还顺便大幅提升了召唤武器攻速
+			但相应的你的召唤伤害降为0
+			“现在去向你的朋友炫耀你的私人军队吧”
+			'''
+	}
+
+	HeartPacemaker: {
+		Tooltip:
+			'''
+			增加15点生命回复
+			生命值每损失10%，便会提供10点防御力和5%的伤害减免
+			上限为损失90%生命，提供90点防御和45%的伤害减免
+			“让你的内心更加坚固（物理）”
+			'''
+		DisplayName: 心脏起搏器
+	}
+
+	GamblersTopHat: {
+		Tooltip:
+			'''
+			增加10%的攻击力
+			武器有1%的概率造成50倍攻击的超暴击
+			“哪有小孩天天哭，哪有赌徒一直输！”
+			'''
+		DisplayName: 赌徒礼帽
+	}
+
+	AedComponents: {
+		Tooltip:
+			'''
+			每隔7秒生成一个红心在玩家周围，捡到恢复20生命值
+			只有当血量低于90%时才会触发这个效果
+			“吃啥补啥”
+			'''
+		DisplayName: Aed组件
+	}
+
+	BloodVesselAccelerator: {
+		Tooltip:
+			'''
+			生命值低于50%时提升25生命再生速度，低于15%提升100，高于75%归零
+			“血液新生！”
+			'''
+		DisplayName: 血管加速器
+	}
+
+	Z_CirculationSystemRetrofitKit: {
+		Tooltip:
+			'''
+			同时拥有7个材料的所有效果：
+			活血泵---------更强大的治疗药水效果
+			机械主义心脏---受到致命伤害复活一次
+			疼痛编辑器-----将单次伤害限制在最大生命值的20%
+			心脏起搏器-----血量低时提供更高的防御力和伤害减免
+			AED组件--------掉落爱心慢速回血
+			血管加速器-----血量低时提供更高的生命回复
+			生命复苏仪-----血量告急时创建快速回血的立场
+			“你觉得你死得掉吗？现在”
+			'''
+		DisplayName: 循环系统改造套件
+	}
+
+	ShinyPlayingCards: {
+		Tooltip:
+			'''
+			移除敌人的无敌帧，让穿透武器爆炸
+			但是，代价是什么呢？
+			代价是移除你自己的无敌帧
+			“举个例子作为提示：[i:494]”
+			'''
+		DisplayName: 闪光扑克牌
+	}
+
+	CyberChip: {
+		Tooltip:
+			'''
+			武器价值越高，就越能提供更高的伤害增幅
+			每1金币提高1%的伤害，最大增幅为35%
+			“贵就是好”
+			'''
+		DisplayName: 赛博筹码
+	}
+
+	GamblersGloves: {
+		Tooltip:
+			'''
+			有20%的概率免疫一次攻击
+			免疫失败会受到1.5倍伤害
+			但是在接下来的5秒内提升攻击力和移动速度
+			“更好用的闪避，我敢肯定”
+			'''
+		DisplayName: 赌徒手套
+	}
+
+	Z_GamblersKit: {
+		Tooltip:
+			'''
+			同时拥有7个材料的所有效果：
+			幸运骰子----武器的伤害与暴击率随机向上浮动
+			幸运金币----出售物品时生产资金，背包里的资金提供额外输出来源
+			赌徒礼帽----1%的概率造成50倍伤害
+			赌徒手套----概率闪避攻击，闪避失败提升输出
+			赛博筹码----根据武器价值最高提升35%的输出
+			闪亮扑克----移除敌我双方的无敌帧
+			赌徒领结----小概率制造三个复制体从天而降
+			“你觉得你很幸运？”
+			'''
+		DisplayName: 赌徒套件
+	}
+
+	QuickDrawHolster: {
+		Tooltip:
+			'''
+			远程武器在近距离时获得伤害增幅，最多为2.5倍
+			“子弹速度随时间衰减，这很合理”
+			'''
+		DisplayName: 疾拔枪套
+	}
+
+	Scarab: {
+		Tooltip:
+			'''
+			冷却时间60秒，持续时间10秒
+			开启技能后自身无法移动，但近乎无敌
+			反弹所有接触到的敌方射弹并造成三倍伤害
+			对部分特殊的敌方射弹无效
+			“以不变应万变”
+			'''
+		DisplayName: 圣甲虫外骨骼套装
+	}
+
+	SU_GiftofLcarus: {
+		DisplayName: 伊卡鲁斯的礼物
+		Tooltip:
+			'''
+			增加3仆从栏和3哨兵栏，30%的召唤伤害
+			手持其他职业武器时有40%的概率让仆从、哨兵射出当前手持武器的弹幕
+			注：部分特殊攻击动画的武器可能不起作用[i:2795][i:675]
+			“给你的军队换上更好的武装！”
+			'''
+	}
+
+	SU_HandheldBlackHole: {
+		DisplayName: 可控引力发生器
+		Tooltip:
+			'''
+			增加2哨兵栏
+			让哨兵能够跟随玩家进行移动，而不是待在原地
+			“移动堡垒！”
+			'''
+	}
+
+	MA_BattlefieldMedicalSuitcase: {
+		DisplayName: 战地医师手提箱
+		Tooltip:
+			'''
+			降低35%的魔法伤害，魔法暴击归零，给予你无限的魔力，增加40%的魔法攻击速度
+			最大生命值翻倍
+			使用魔法武器攻击敌人时有概率治疗我方单位
+			治疗量依据当前武器的面板而定
+			“医者仁心”
+			'''
+	}
+
+	MA_UnlimitedManaBackpack: {
+		DisplayName: 无限奥术背包
+		Tooltip:
+			'''
+			增加15%的魔法伤害与暴击，给予你无限的魔力
+			按下绑定按键可以大幅提升魔法输出能力持续10秒
+			但这是以失去视野和快速生命流失为代价的
+			“到底是黑魔法还是现代科技？”
+			'''
+	}
+
+	ME_DamageProtectionDevice: {
+		DisplayName: 狂战士机械臂
+		Tooltip:
+			'''
+			提升45%近战攻击力和30近战攻击速度，降低20%的伤害减免
+			但是受伤时防御力与伤害减免归零，持续10秒
+			“战士，但是活出了射手的样子”
+			'''
+	}
+
+	ME_HandHeldMechanicalBuckler: {
+		DisplayName: 手持机械圆盾
+		Tooltip:
+			'''
+			加15防御力，加35%最大生命值，加15%减伤
+			但是近战攻速-20，近战暴击-20%，近战攻击力-20%
+			按下绑定按键可以大幅降低敌人的接触伤害，持续10秒
+			“怕个锤子，上去跟他拼了”
+			'''
+	}
+
+	RA_ArcaneQuiver: {
+		DisplayName: 奥术箭袋
+		Tooltip:
+			'''
+			提升25%的远程伤害和15的远程暴击率
+			在玩家周围放置2组会公转的准星
+			远程类弹幕穿过较近的两个准星时获得75%的伤害提升且必定暴击
+			远程类弹幕穿过较远的两个准星时获得125%的伤害提升且必定暴击
+			“虽然名字叫箭袋，但是所有远程武器都能享受加成”
+			'''
+	}
+
+	RA_TriggerBulletBox: {
+		DisplayName: 智能弹药箱
+		Tooltip:
+			'''
+			增加10%的远程伤害和5%的远程暴击
+			每隔5秒往鼠标位置自动打出一发灵液、咒火、纳米、爆破、黄金、水晶子弹
+			辅助子弹的属性继承自当前手持武器（不手持远程武器也可以）
+			在光标处生成粒子特效，可以关闭饰品可见性来取消这个功能
+			“你再也不用手动切换弹药或武器了”
+			'''
+	}
+
+	SwiftWindWalkerBoots: {
+		DisplayName: 疾风行者靴
+		Tooltip:
+			'''
+			开启技能之后，在10秒内移动速度大幅提升且无敌
+			冷却时间为45秒
+			代价是无法造成伤害
+			“你跑得越慢，跑得越快”
+			'''
+	}
+
+	FirepowerExoskeletonDevice: {
+		Tooltip:
+			'''
+			受到伤害时提升200%攻击力，持续5秒
+			只有当伤害大于等于最大生命值的15%才会生效
+			“打不死我的，只会让我更加强大”
+			'''
+		DisplayName: 火力外骨骼套件
+	}
+
+	LawEnforcerGun: {
+		Tooltip:
+			'''
+			左键全自动模式，快速射出大量子弹
+			右键散射一片子弹
+			[c/FF0000:传奇武器]：武器面板数据随游戏流程的推进而成长
+			注：该武器未经平衡性测试，请谨慎使用
+			'''
+		DisplayName: 执法者突击步枪
+	}
+
+	Miao: {
+		DisplayName: 妙妙枪
+		Tooltip:
+			'''
+			射出随机弹幕!
+			你不知道下一发弹幕是什么!
+			“太妙了”
+			注：该武器未经平衡性测试，请谨慎使用
+			'''
+	}
+
+	VoidOfDarkness: {
+		Tooltip:
+			'''
+			射出虚空精华，缓慢停下，随后锁定并追踪敌人
+			虚空精华消失时释放数条虚空蠕虫撕咬敌人
+			右键扔出长枪，在空中留下大量的虚空精华
+			[c/FF0000:传奇武器]：武器面板数据随游戏流程的推进而成长
+			注：该武器未经平衡性测试，请谨慎使用
+			'''
+		DisplayName: 暗之虚无
+	}
+
+	InfDarkness: {
+		DisplayName: 城市毁灭者
+		Tooltip:
+			'''
+			旋转长枪造成近距离范围内的真近战伤害
+			注：该武器未经平衡性测试，请谨慎使用
+			'''
+	}
+
+	ThermalShotgun: {
+		DisplayName: 热能之熵
+		Tooltip:
+			'''
+			左键散射子弹，转化火枪子弹为高温子弹
+			右键射出3颗高温烟雾弹
+			[c/FF0000:传奇武器]：武器面板数据随游戏流程的推进而成长
+			注：该武器未经平衡性测试，请谨慎使用
+			'''
+	}
+
+	ClockworkStar: {
+		DisplayName: 发条之星
+		Tooltip:
+			'''
+			轻型狙击步枪，一下射出四发子弹
+			击中敌人后召唤更多子弹，具备追踪能力并治疗我方单位
+			无限穿墙并穿透，遇到物块并反弹
+			[c/FF0000:传奇武器]：武器面板数据随游戏流程的推进而成长
+			注：该武器未经平衡性测试，请谨慎使用
+			'''
+	}
+
+	BrassBow: {
+		DisplayName: 铜铸星弓
+		Tooltip:
+			'''
+			左键蓄力散射弓箭，随时间增加射速并减少散射范围
+			转化木箭为黄铜箭，击中敌人后召唤额外的激光
+			蓄力到最高层级时，每隔一段时间能散射激光并扔出几颗空中滞留的地雷
+			右键射出一支巨大的箭矢，拥有2倍的飞行速度和15倍的伤害，不转化弹幕
+			[c/FF0000:传奇武器]：武器面板数据随游戏流程的推进而成长
+			注：该武器未经平衡性测试，请谨慎使用
+			'''
+	}
+
+	GamblersBowTie: {
+		DisplayName: 赌徒领结
+		Tooltip:
+			'''
+			在使用非召唤武器时有25%的概率额外射出三发弹幕复制品
+			复制品会从天而降，伤害波动为0.5倍到1.9倍
+			“我还是我自己吗”
+			'''
+	}
+
+	LifeSubSpace: {
+		DisplayName: 生命复苏仪
+		Tooltip:
+			'''
+			当玩家血量不足20%时，自动在原地创建一个治疗光环
+			进入光环内的所有玩家都会被清除负面效果并给予快速回血
+			这个效果有90秒的冷却时间
+			如果升级为循环系统改造套件，那么冷却时间将缩短至45秒
+			“为人民服务”
+			'''
+	}
+
+	AsteroidBelt: {
+		DisplayName: 小行星杯
+		Tooltip:
+			'''
+			制造一个小行星，围绕你旋转
+			它会为你挡下敌人的弹幕
+			但是挡下我发弹幕就会破裂一段时间
+			“质量好像不是特别好”
+			'''
+	}
+
+	OpticalLensMatrix: {
+		DisplayName: 光学镜矩阵
+		Tooltip:
+			'''
+			让非召唤弹幕分裂成6发，每发有25%的原伤害
+			“多就是好”
+			'''
+	}
+
+	DoomsdayTechExperiment: {
+		DisplayName: 末日科技实验体
+		Tooltip:
+			'''
+			当玩家不发动攻击的时候，每1.5秒增加手持非召唤武器一倍的攻击力
+			上限为15秒增加10倍
+			“高就是好”
+			'''
+	}
+
+	MomentumChip: {
+		DisplayName: 动能芯片
+		Tooltip:
+			'''
+			根据玩家当前的移速提升伤害
+			最高30%提升
+			“唯快不破”
+			'''
+	}
+
+	ShallowOxygenBottle: {
+		Tooltip:
+			'''
+			进行强而有力的水能冲刺，免疫敌人碰撞伤害
+			关闭饰品可见性让它使用左右双击键冲刺
+			开启饰品可见性让它使用单键冲刺
+			“这是公爵的标配”
+			'''
+		DisplayName: 浅滩氧气瓶
+	}
+
+	ElfEnergyCore: {
+		DisplayName: 精灵能量核心
+		Tooltip:
+			'''
+			进行强而有力的能量冲刺，免疫敌人弹幕伤害
+			关闭饰品可见性让它使用左右双击键冲刺
+			开启饰品可见性让它使用单键冲刺
+			“这是精灵女王的标配”
+			'''
+	}
+
+	PowerJetPack: {
+		DisplayName: 电能喷气背包
+		Tooltip:
+			'''
+			进行极长极远极快的电能冲刺
+			冲刺期间免疫一切伤害，并对敌人造成高额碰撞伤害
+			冲刺冷却时间为20秒
+			“火星科技，压缩冲刺”
+			'''
+	}
+
+	AncientGift: {
+		DisplayName: 远古之礼
+		Tooltip:
+			'''
+			四种职业的武器都会射出不同的辅助弹幕
+			日耀弹幕会逐渐减速并滞留在原地
+			星旋弹幕碰到物块后平行滑行并穿透敌人
+			星云弹幕围绕玩家做圆弧运动
+			星尘弹幕吸附在别人身上造成极高的持续伤害
+			“四神柱的力量被封印在这里面”
+			'''
+	}
+
+	FlowerVine: {
+		DisplayName: 万花之藤
+		Tooltip:
+			'''
+			近战武器挥砍可以反弹敌人弹幕，反弹成功后进入3秒冷却
+			“所以你说那朵花里面藏了一把加特林，是真的吗？”
+			'''
+	}
+
+	StellarCleaver: {
+		DisplayName: 恒星切割者
+		Tooltip:
+			'''
+			初始之时，威力虽凡；无止之噬，脑中魔冕；
+			亡灵之首，狱火重生；炼金造物，力量激荡；
+			视域守卫，光辉耀眼；鳞甲震荡，地震之力；
+			无限可怖，虽三者之首，但也败于麾下；
+			远古丛生之地，太阳巨灵之心；
+			月之暗面巨兽，光辉重现之日；
+			成长随旅途，镐刃永延；击败众强敌，威力飞升；
+			右键当做锤斧使用
+			“人话：镐力和攻击力随游戏进度而成长”
+			'''
+	}
+
+	MercuryAccessory: {
+		DisplayName: 水星
+		Tooltip:
+			'''
+			召唤围绕玩家的水星
+			水星将为玩家提供周期性的高额伤害减免
+			被击中时伤害减免和防御力归零持续10秒
+			如果升级至太阳系，那么被击中时将不会有惩罚
+			“迅捷星飞驰，护主四方隐”
+			'''
+	}
+
+	EarthAccessory: {
+		DisplayName: 地球
+		Tooltip:
+			'''
+			召唤围绕玩家的地球
+			地球将每隔10秒让玩家恢复100生命值
+			如果升级至太阳系，那么治疗冷却缩短至5秒
+			“无尽恩泽洒，疗愈众生心”
+			'''
+	}
+
+	MarsAccessory: {
+		DisplayName: 火星
+		Tooltip:
+			'''
+			召唤围绕玩家的火星
+			火星将向敌人喷吐追踪分裂火焰，火焰伤害为手持武器的0.75倍
+			如果升级至太阳系，那么伤害倍率提升至1.5倍，攻击间隔从三秒缩短至二秒
+			“炎弹狂舞动，敌阵皆溃散”
+			'''
+	}
+
+	JupiterAccessory: {
+		DisplayName: 木星
+		Tooltip:
+			'''
+			召唤围绕玩家的木星
+			木星将对敌人造成1500的碰撞伤害
+			如果升级至太阳系，那么伤害提升至3000
+			“碰撞如雷霆，爆破声震天”
+			'''
+	}
+
+	SaturnAccessory: {
+		DisplayName: 土星
+		Tooltip:
+			'''
+			召唤围绕玩家的土星
+			土星将散射在屏幕边缘反弹的星环
+			星环基础伤害为450点，每次反弹都会增加伤害
+			如果升级至太阳系，那么伤害提升至650
+			“星环回旋击，敌影尽消亡”
+			'''
+	}
+
+	UranusAccessory: {
+		DisplayName: 天王星
+		Tooltip:
+			'''
+			召唤围绕玩家的天王星
+			天王星将干扰附近的敌人降低移速，并有概率冻结敌人
+			如果升级至太阳系，那么干扰半径提升40%
+			“寒气四散漫，敌动难自由”
+			'''
+	}
+
+	PlutoAccessory: {
+		DisplayName: 冥王星
+		Tooltip:
+			'''
+			召唤围绕玩家的冥王星
+			冥王星将挡下一切触碰到他的弹幕，并有概率让他们弹回
+			“冰冷暗影藏，破敌技无痕”
+			'''
+	}
+
+	HalleyCometAccessory: {
+		DisplayName: 哈雷彗星
+		Tooltip:
+			'''
+			召唤以椭圆形轨道围绕玩家的哈雷彗星
+			哈雷彗星能够增强接触到其的玩家弹幕75%伤害和30%速度
+			“彗光划长空，助主破敌方”
+			'''
+	}
+
+	NeptuneAccessory: {
+		DisplayName: 海王星
+		Tooltip:
+			'''
+			召唤围绕玩家的海王星
+			海王星能够和玩家同步发动进攻
+			射出海王星三叉戟，在鼠标处切割敌人，倍率为手持武器的0.5倍
+			如果升级至太阳系，那么伤害倍率提升至1.0倍
+			“水弹急如梭，冰封阻敌前”
+			'''
+	}
+
+	VenusAccessory: {
+		DisplayName: 金星
+		Tooltip:
+			'''
+			召唤围绕玩家的金星
+			金星将周期性的释放冲击波，粉碎敌人的防御和减伤
+			“烈焰环绕我，敌防尽消融”
+			'''
+	}
+
+	SunAccessory: {
+		DisplayName: 太阳
+		Tooltip:
+			'''
+			召唤停在玩家头顶的太阳
+			太阳能够向四周射出日耀射线，并在鼠标位置天降大型恒星之罚
+			“光芒照万丈，灼热燃耀天”
+			'''
+	}
+
+	TheSolarSystem: {
+		DisplayName: 太阳系
+		Tooltip:
+			'''
+			全职业伤害+25%，全职业暴击+15%，移速+15%，最大生命值+25%
+			近战攻速+25%，远程弹速+30%，魔力消耗-40%，召唤与哨兵栏+4
+			召唤整个太阳系为你作战
+			迅捷星飞驰，护主四方隐，那是水星
+			烈焰环绕我，敌防尽消融，那是金星
+			无尽恩泽洒，疗愈众生心，那是地球
+			炎弹狂舞动，敌阵皆溃散，那是火星
+			碰撞如雷霆，爆破声震天，那是木星
+			星环回旋击，敌影尽消亡，那是土星
+			寒气四散漫，敌动难自由，那是天王星
+			水弹急如梭，冰封阻敌前，那是海王星
+			冰冷暗影藏，破敌技无痕，那是冥王星
+			彗光划长空，助主破敌方，那是哈雷彗星
+			光芒照万丈，灼热燃耀天，那是太阳
+			星际环绕我，众星护主身，那便是全太阳系
+			“感谢您游玩本模组和对本模组的支持，如果可以，请期待我的下一个作品！”
+			'''
+	}
+
+	DarkSideOfTheMoon: {
+		Tooltip:
+			'''
+			每受到3次伤害，便会往周围弹出一大堆能阻挡弹幕的月亮护盾
+			护盾持续10秒，阻挡次数无限
+			“这是月球领主的法术，它觉得可能会太欺负你于是没有在战斗中使用出来”
+			'''
+		DisplayName: 月之暗面
+	}
+
+	SlimeShield: {
+		DisplayName: 粘液盾牌
+		Tooltip:
+			'''
+			每受到5次伤害，便会往周围弹出一大堆能阻挡弹幕的粘液护盾
+			护盾持续10秒，阻挡1次数后便会销毁
+			“据说史莱姆王就是用这种盾牌让他在族群中的战斗中势不可挡的”
+			'''
+	}
+
+	SteelAndFleshHeart: {
+		DisplayName: 血肉与钢铁之心
+		Tooltip:
+			'''
+			禁用治疗药水和生命再生
+			但是将单次伤害限制在最大生命值的5%
+			“这是来自血肉墙的无限增殖能力”
+			'''
+	}
+
+	ShinySlimeShield: {
+		Tooltip:
+			'''
+			每隔五秒往鼠标位置扔出两个闪光粘液盾牌
+			护盾持续10秒，阻挡2次数后便会销毁
+			“粉粉嫩嫩的，多可爱”
+			'''
+		DisplayName: 亮晶晶的粘液盾牌
+	}
+
+	DeathNote: {
+		Tooltip:
+			'''
+			向周围的敌人施加地牢恶咒，每隔5秒造成当前生命值的5%的伤害
+			但你自己也会额外受到50%的伤害
+			（某些免疫所有减益的敌怪不受此影响）
+			“坏到骨子里了”
+			'''
+		DisplayName: 死亡笔记
+	}
+
+	SweetheartCloak: {
+		Tooltip:
+			'''
+			进行强而有力的蜂蜜冲刺，有25%的概率免疫伤害
+			关闭饰品可见性让它使用左右双击键冲刺
+			开启饰品可见性让它使用单键冲刺
+			“不许奴役蜜蜂”
+			'''
+		DisplayName: 甜蜜披风
+	}
+
+	BrainInJar: {
+		Tooltip:
+			'''
+			攻击时射出小型吞噬者协同作战，倍率为手持武器的35%
+			受到伤害时释放飞眼怪攻击敌人，倍率为手持武器的50%
+			“不提供闪避和减伤”
+			'''
+		DisplayName: 罐中大脑
+	}
+
+	Absorber15: {
+		DisplayName: 15型能量吸收装置
+		Tooltip:
+			'''
+			按下电磁脉冲键时，清除半径15格内的敌方弹幕
+			将每一发被清理的弹幕转化为3.5%的临时伤害提升，持续5秒
+			冷却时间为45秒
+			“没有枪没有炮，敌人给我们造”
+			'''
+	}
+
+	Interceptor15: {
+		DisplayName: 15型弹幕拦截器
+		Tooltip:
+			'''
+			按下电磁脉冲键时，清除半径15格内的敌方弹幕
+			冷却时间为45秒
+			“消！除！光！线！”
+			'''
+	}
+
+	Interceptor25II: {
+		DisplayName: 25II型弹幕拦截器
+		Tooltip:
+			'''
+			按下电磁脉冲键时，清除半径25格内的敌方弹幕
+			同时对范围内的敌人施加一次困惑debuff
+			冷却时间为45秒
+			“你困惑了吗？是的！”
+			'''
+	}
+
+	Interceptor35IV: {
+		DisplayName: 35IV型弹幕拦截器
+		Tooltip:
+			'''
+			按下电磁脉冲键时，清除半径35格内的敌方弹幕
+			同时将周围散射大量激光
+			冷却时间为45秒
+			“毁灭者的精华”
+			'''
+	}
+
+	Interceptor45: {
+		DisplayName: 45型转化弹幕拦截器
+		Tooltip:
+			'''
+			按下电磁脉冲键时，清除半径55格内的敌方弹幕
+			50%将敌方弹幕反转成有方弹幕并原路返回
+			冷却时间为45秒
+			“离间计并不总是起效，不是吗？”
+			'''
+	}
+
+	Interceptor55IX: {
+		DisplayName: 55IX型转化弹幕拦截器
+		Tooltip:
+			'''
+			按下电磁脉冲键时，清除半径55格内的敌方弹幕
+			100%将敌方弹幕反转成有方弹幕并原路返回
+			冷却时间为45秒
+			“从物质上的反转总是能起效”
+			'''
+	}
+
+	Interceptor55I: {
+		DisplayName: 55I型连锁引爆炮
+		Tooltip:
+			'''
+			按下电磁脉冲键时，清除半径55格内的敌方弹幕
+			弹幕被清除时会被引爆，对小范围内的敌人造成5倍原弹幕伤害
+			冷却时间为45秒
+			“强大的堡垒往往从内部破裂”
+			'''
+	}
+
+	Interceptor55VI: {
+		DisplayName: 55VI型震荡弹射器
+		Tooltip:
+			'''
+			按下电磁脉冲键时，清除半径55格内的敌方弹幕
+			同时将范围内的敌人眩晕3秒
+			冷却时间为45秒
+			“他们重新站起来的速度简直惊人，不是吗？”
+			'''
+	}
+
+	Barrier25d: {
+		DisplayName: 25d型屏障生成装置
+		Tooltip:
+			'''
+			按下电磁脉冲键时，在原地放置一个半径25格的屏障
+			屏障能在存在的10秒钟内阻挡敌人子弹
+			冷却时间为30秒
+			“仅仅是改变分子之间的移动速度罢了”
+			'''
+	}
+
+	SubSpace25e: {
+		DisplayName: 25f型超时空场生成装置
+		Tooltip:
+			'''
+			按下电磁脉冲键时，在原地放置一个半径25格的超时空力场
+			力场能够在10秒的存在时间内为内部的所有玩家提供无敌
+			冷却时间为30秒
+			“通过空间压缩与折叠技术产生的超时空力场”
+			'''
+	}
+
+	Interceptor65L: {
+		DisplayName: 65L型激光弹幕拦截器
+		Tooltip:
+			'''
+			每次按下电磁脉冲键时，清除距离玩家最近的一发敌方弹幕
+			每一秒钟装填一次，最大填装150发
+			“这也许才是激光武器的真正用法吧”
+			'''
+	}
+
+	UniversalProtectionDevice001: {
+		DisplayName: 001型通用舰载全方位防护装置
+		Tooltip:
+			'''
+			按下电磁脉冲键时，清除半径250格内的敌方弹幕
+			弹幕被清除时会引爆，造成10倍原弹幕伤害
+			将这些弹幕转化为我方弹幕并原路返回
+			被清除的每一发弹幕都会转化为2%的伤害提升和两点防御力持续15秒
+			与此同时，在原地留下一个半径90格的屏障为玩家提供无敌，并且阻挡敌方弹幕
+			同时还将范围内的所有敌人眩晕10秒
+			冷却时间为60秒
+			“这种全能拦截装置一般只会出现在核心母舰上”
+			'''
+	}
+
+	Kong: {
+		DisplayName: 空空枪
+		Tooltip:
+			'''
+			左键使敌人缩小
+			右键使敌人变大
+			仅供娱乐！
+			“空即是色”			
+			'''
+	}
+
+	SU_ArmyBattleBanner: {
+		Tooltip:
+			'''
+			将你的仆从栏位强制变为1
+			每损失的一个仆从栏额外提供120%的召唤伤害增幅
+			“不再是军队 现在是保镖了”
+			'''
+		DisplayName: 军团战旗
+	}
+
+	PhaseProjector: {
+		DisplayName: 相位投影仪
+		Tooltip:
+			'''
+			非穿透弹幕在碰到敌人时不会消失，而是继续飞行
+			在主动消失的时候造成两倍伤害
+			“出其不意，攻其不备！”
+			'''
+	}
+
+	FastTrigger: {
+		// Tooltip: ""
+		// DisplayName: Fast Trigger
+	}
+
+	CenteroftheStorm: {
+		Tooltip:
+			'''
+			手持武器攻击时，每隔15秒释放一圈弹幕复制体
+			复制体弹幕继承原弹幕的特性，但是伤害和速度将随机
+			注：部分较为特殊的弹幕无法被复制
+			“我是即将来临的风暴”
+			'''
+		DisplayName: 风暴中心
+	}
+
+	AmalgamationCodex: {
+		Tooltip:
+			'''
+			你的任意攻击都可以造成一个随机的减益
+			但这件饰品有一个很严重的代价
+			那么，代价是什么呢？
+			代价是浪费一个宝贵的饰品栏
+			“现代元素使”
+			'''
+		DisplayName: 混合元素法典
+	}
+
+	ArtisansToken: {
+		Tooltip:
+			'''
+			本身不提供加成
+			而是将自身的修饰语乘以7倍
+			仅支持原版泰拉瑞亚的修饰语
+			“那名奸商还挺讲道理的”
+			'''
+		DisplayName: 工匠令牌
+	}
+
+	AttackIndicator: {
+		DisplayName: 攻击指示器
+		Tooltip:
+			'''
+			固定提升（3肉前，7肉后，16花后，30月后）攻击力
+			攻击力提升独立于任何增伤和无敌帧
+			“别看了，这俩不能合一起”
+			'''
+	}
+
+	DefenseIndicator: {
+		DisplayName: 防御指示器
+		Tooltip:
+			'''
+			固定降低（10肉前，15肉后，25花后，40月后）所受伤害
+			伤害降低独立于任何防御和伤害减免
+			“别看了，这俩不能合一起”
+			'''
+	}
+
+	Universalgravitation: {
+		DisplayName: 万象天引
+		Tooltip:
+			'''
+			你射出的非召唤弹幕将围绕你做圆周运动直至消失
+			“不要用它搭配手榴弹啊啊啊啊啊啊！”
+			'''
+	}
+
+	IntegratedNeuron: {
+		DisplayName: 集成神经元
+		Tooltip:
+			'''
+			每秒加速debuff的流失时间70%
+			治疗冷却每5秒降低30%
+			魔力疾病每1秒降低40%
+			“这是因为你有抗体了”
+			'''
+	}
+
+	BreakingDrill: {
+		DisplayName: 破阵冲击钻
+		Tooltip:
+			'''
+			敌人的每一点防御力都能为你提供2%的额外伤害增幅
+			“我的钻头可是突破天际的！”
+			'''
+	}
+
+	NanoExcavator: {
+		DisplayName: 纳米挖机
+		Tooltip:
+			'''
+			让你的非召唤弹幕能摧毁方块
+			！！不要使用持续时间过长的武器！！
+			！！不要使用射程过远的武器！！
+			！！不要使用过于智能的武器！！
+			！！不要在家里使用该物品！！
+			我已经提醒过你了，你要是把家拆了，别赖我头上
+			'''
+	}
+
+	VortexSight: {
+		Tooltip:
+			'''
+			弹幕穿透次数+10，飞行速度加75%
+			“它太快了，以至于撕裂了空间”
+			'''
+		DisplayName: 漩瞄之视
+	}
+
+	NebulaBracelet: {
+		Tooltip:
+			'''
+			你射出的弹幕将会跟随你的鼠标移动
+			“你不知道该打谁”
+			'''
+		DisplayName: 云浮钓竿
+	}
+
+	StardustCrown: {
+		DisplayName: 星尘之冠
+		Tooltip:
+			'''
+			大幅提升召唤物的锁敌范围和攻击欲望
+			“理论上只要你鞭子抽的够快，它们就会变得服从性更强，但现在好像不需要这么做了”
+			'''
+	}
+
+	SolarBanner: {
+		Tooltip:
+			'''
+			不受近战攻速加成的近战武器（比如回旋镖，悠悠球）
+			能够将近战攻速加成1:1转化为伤害加成
+			“你的手臂更有力了，因此这些武器也有了伤害提升，这很合理”
+			'''
+		DisplayName: 日轮之旗
+	}
+
+	SuperUniversalDye: {
+		/* Tooltip: "\n" */
+		// DisplayName: Super Universal Dye
+	}
+
+	AntimatterNuclearMissile: {
+		DisplayName: 反物质核导弹
+		Tooltip:
+			'''
+			当boss存活时开始装填，装填一枚核导弹需要10分钟的时间
+			在这期间，敌人或自己死亡会重新开始装填
+			装填完成后立刻发射，杀死所有Boss
+			核导弹无视任何防御力、伤害减免、防秒杀机制
+			该过程无法被任何手段加速
+			“请耐心等待”
+			'''
+	}
+
+	StarPack: {
+		DisplayName: 新手补给箱
+		Tooltip: 右键打开
+	}
+
+	TamingWhipRing: {
+		Tooltip:
+			'''
+			仆从数量-3，伤害-30%
+			但是仆从击中敌人时，能够给予玩家鞭子15%攻速和鞭子50%攻击力加成的buff
+			Buff可以叠加7次，最高350%鞭子伤害和105%鞭子攻速
+			“You Gotta Move~ You Gotta Move~”
+			'''
+		DisplayName: 驯兽鞭环
+	}
+
+	MedicalDrones: {
+		Tooltip:
+			'''
+			降低45%召唤伤害
+			但是每存在一个仆从便会提供25的最大生命值，和5生命回复
+			上限为20个仆从提升500最大生命值和100生命恢复
+			击中敌人时有30%概率吸血，吸血量取决于仆从造成的伤害的5%~30%
+			“你好像饿了”
+			'''
+		DisplayName: 医疗无人机
+	}
+
+	EnergizedChitin: {
+		Tooltip:
+			'''
+			当仆从距离玩家小于25格时有25%概率消除敌方弹幕
+			距离玩家超过50格时有50%概率增强我方非召唤弹幕50%伤害
+			“敌进我退，敌驻我扰，敌疲我打，敌退我追”
+			'''
+		DisplayName: 充能几丁质
+	}
+
+	SynergisticCatalyst: {
+		Tooltip:
+			'''
+			手持非召唤武器攻击敌人时
+			有10%的概率随机提升召唤物面板伤害，持续10秒
+			随机增幅从5%到30%
+			“知己知彼，方能百战不怡”
+			'''
+		DisplayName: 协同催化剂
+	}
+
+	GiftofLcarus: {
+		DisplayName: 伊卡鲁斯的礼物
+		Tooltip:
+			'''
+			增加3仆从栏和3哨兵栏，30%的召唤伤害
+			手持其他职业武器时有40%的概率让仆从、哨兵射出当前手持武器的弹幕
+			注：部分特殊攻击动画的武器可能不起作用[i:2795][i:675]
+			“给你的军队换上更好的武装！”
+			'''
+	}
+
+	HandheldBlackHole: {
+		DisplayName: 可控引力发生器
+		Tooltip:
+			'''
+			增加2哨兵栏
+			让哨兵能够跟随玩家进行移动，而不是待在原地
+			“移动堡垒！”
+			'''
+	}
+
+	ArmyBattleBanner: {
+		Tooltip:
+			'''
+			将你的仆从栏位强制变为1
+			每损失的一个仆从栏额外提供120%的召唤伤害增幅
+			“不再是军队 现在是保镖了”
+			'''
+		DisplayName: 军团战旗
+	}
+
+	TheOutcast: {
+		DisplayName: 逸界者
+		Tooltip:
+			'''
+			喷射改变地形的溶液
+			右键切换模式
+			不消耗弹药
+			“净化世界必备”
+			'''
+	}
+
+	HolographicSummoningDevice: {
+		DisplayName: 全息召唤装置
+		Tooltip:
+			'''
+			召唤你接下来将要面对的boss
+			右键切换，可以挑战以前的boss
+			“我们重新战斗吧”
+			'''
+	}
+
+	LuckySilverCoin: {
+		// Tooltip: ""
+		// DisplayName: Lucky Silver Coin
+	}
+
+	PortableDrillingRig: {
+		// Tooltip: ""
+		// DisplayName: Portable Drilling Rig
+	}
+
+	BulletScreenManagementTerminal: {
+		DisplayName: 终级弹幕管理终端
+		Tooltip:
+			'''
+			以下内容仅针对非召唤弹幕			
+			弹幕可以必定暴击，穿透物块，提高75%的飞行速度和10的穿透力
+			非穿透弹幕不会提升穿透次数
+			开关饰品可见性来开关相位投影仪的效果
+			按下快捷键在6种弹幕模式中循环切换：
+			1 故障：随机触发20多种小故障中的其中一种
+			2 引力：围绕玩家自己公转
+			3 加速：弹幕速度与伤害随时间指数加速
+			4 定位：追杀距离弹幕最近的敌人
+			5 回声：弹幕在屏幕边缘反弹并增加伤害
+			6 云浮：弹幕随鼠标一起移动
+			可以兼容盗贼
+			“弹幕只需要按照预定的路线飞行就行了，而我们玩家作为操控者要考虑的可就多了”
+			'''
+	}
+
+	EchoBoundary: {
+		DisplayName: 回声边界
+		Tooltip:
+			'''
+			让你的非召唤弹幕能够在屏幕边缘反弹
+			每反弹一次增加15%的伤害
+			反弹上限为10次
+			“你现在可以带着弹幕一起旅行了”
+			'''
+	}
+
+	ParticleAccelerator: {
+		DisplayName: 精金粒子加速器
+		Tooltip:
+			'''
+			降低非召唤弹幕的初始速度为初始的20%，但让其随时间指数提升
+			最大可以提升至弹幕原速度的300%
+			弹幕伤害也会由低提升至高，倍率与速度相同
+			“1974年，第一次用铬-54离子轰击锇-248”
+			'''
+	}
+
+	GlitchCore: {
+		DisplayName: 故障核心
+		Tooltip:
+			'''
+			让你的非召唤弹幕随机触发各种“小故障”
+			小故障有好有坏，抽到什么纯靠运气
+			“我才不会告诉你这些是正收益还是负收益”
+			'''
+	}
+
+	CelestialDominion: {
+		DisplayName: 天穹领域
+		Tooltip:
+			'''
+			召唤栏与哨兵栏+10，召唤伤害加80%
+			拥有其所有材料的效果
+			手持其他职业的武器的时候也能提升召唤能力（协同催化剂）
+			与此同时，召唤物有概率射出这种其他职业的弹幕（伊卡鲁斯之礼）
+			每持有一个召唤物便会提升最大生命值和生命回复，召唤物能够吸血（医疗无人机）
+			召唤物在距离玩家近的时候能够阻挡弹幕，而在距离远的时候能够增强我方弹幕（充能几丁质）
+			召唤物击中敌人时给予玩家可堆叠的鞭子增益（驯兽鞭环）
+			开启装备可见性将召唤栏与哨兵栏设为1并给予对应的伤害增幅，反之亦然（军团战旗）
+			哨兵会跟随玩家移动，而不是站在原地（可控黑洞）
+			“你是爽文主角”
+			'''
+	}
+}
+
+Keybinds: {
+	// 电能喷气背包冲刺.DisplayName: Power Jetpack Sprint
+	// 单键冲刺.DisplayName: Single-button Sprint
+	// 疾风行者靴.DisplayName: Windrunner Boots
+	// 圣甲虫.DisplayName: Scarab
+	// 动力加速装置.DisplayName: Power Accelerator
+	// 无限魔力背包.DisplayName: Infinite Mana Backpack
+	// 手持机械圆盾.DisplayName: Handheld Mechanical Buckler
+	// 神经系统紊乱装置.DisplayName: Nervous System Disorder Device
+	// 活血泵.DisplayName: Blood Pump
+	// 瞬间移动.DisplayName: Teleport
+	// 超载装置.DisplayName: Overload Device
+	// 通用电磁脉冲.DisplayName: EMP
+	// 风暴中心.DisplayName: 风暴中心
+	// 弹幕管理终端.DisplayName: 弹幕管理终端
+}
+
+Projectiles: {
+	// MiaoProj.DisplayName: Miao Proj
+	// BrassBowProj.DisplayName: Brass Bow Proj
+	// WhiteHolePROJ4.DisplayName: White Hole P R O J4
+	// WhiteHolePROJ3.DisplayName: White Hole P R O J3
+	// WhiteHolePROJ2.DisplayName: White Hole P R O J2
+	// WhiteHolePROJ.DisplayName: White Hole P R O J
+	// VoidOfDarknessTHOR.DisplayName: Void Of Darkness T H O R
+	// VoidOfDarknessROT.DisplayName: Void Of Darkness R O T
+	// VoidOfDarknessPROJ.DisplayName: Void Of Darkness P R O J
+	// ThermalSmoke.DisplayName: Thermal Smoke
+	// ThermalBullet.DisplayName: Thermal Bullet
+	// PurpleES.DisplayName: Purple E S
+	// LightBlueES.DisplayName: Light Blue E S
+	// BrownES.DisplayName: Brown E S
+	// BrassLight.DisplayName: Brass Light
+	// BrassGear.DisplayName: Brass Gear
+	// BrassArrow.DisplayName: Brass Arrow
+	// BlackES.DisplayName: Black E S
+	// AbyssWorm.DisplayName: Abyss Worm
+	// AbyssEssence.DisplayName: Abyss Essence
+	// VenusProjectile.DisplayName: Venus Projectile
+	// VenusExplosionProjectile.DisplayName: Venus Explosion Projectile
+	// UranusProjectile.DisplayName: Uranus Projectile
+	// SunSmallRay.DisplayName: Sun Small Ray
+	// SunProjectile.DisplayName: Sun Projectile
+	// SunLaserProjectile.DisplayName: Sun Laser Projectile
+	// SplittingFlamesProjectile.DisplayName: Splitting Flames Projectile
+	// SaturnRingProjectile.DisplayName: Saturn Ring Projectile
+	// SaturnProjectile.DisplayName: Saturn Projectile
+	// PlutoProjectile.DisplayName: Pluto Projectile
+	// NeptuneWaterProjectile.DisplayName: Neptune Water Projectile
+	// NeptuneProjectile.DisplayName: Neptune Projectile
+	// MercuryProjectile.DisplayName: Mercury Projectile
+	// MarsProjectile.DisplayName: Mars Projectile
+	// JupiterProjectile.DisplayName: Jupiter Projectile
+	// HalleyCometProjectile.DisplayName: Halley Comet Projectile
+	// EarthProjectile.DisplayName: Earth Projectile
+	// UniversalAura.DisplayName: Universal Aura
+	// SlimeShieldProjectile.DisplayName: Slime Shield Projectile
+	// ShinySlimeShieldProjectile.DisplayName: Shiny Slime Shield Projectile
+	// MoonShieldProjectile.DisplayName: Moon Shield Projectile
+	// LifeSubSpacePROJ.DisplayName: Life Sub Space P R O J
+	// FlyEyeProj.DisplayName: Fly Eye Proj
+	// EnergyShieldCatapultPROJ.DisplayName: Energy Shield Catapult P R O J
+	// UniversalBarrierProjectile.DisplayName: Universal Barrier Projectile
+	// SubSpaceProjectile.DisplayName: Sub Space Projectile
+	// EMPProj.DisplayName: E M P Proj
+	// BarrierProjectile.DisplayName: Barrier Projectile
+	// DeathNoteProjectile.DisplayName: Death Note Projectile
+	// ControllableHaloPROJ.DisplayName: Controllable Halo P R O J
+	// BMSPROJ.DisplayName: B M S P R O J
+	// BlueRoundShield.DisplayName: Blue Round Shield
+	// AsteroidBeltPROJ.DisplayName: Asteroid Belt P R O J
+	// AncientGiftSUProj.DisplayName: Ancient Gift S U Proj
+	// AncientGiftREProj.DisplayName: Ancient Gift R E Proj
+	// AncientGiftMEProj.DisplayName: Ancient Gift M E Proj
+	// AncientGiftMAProj.DisplayName: Ancient Gift M A Proj
+	// PlanetaryHookProjectile.DisplayName: Planetary Hook Projectile
+	// KongDa.DisplayName: Kong Da
+	// KongXiao.DisplayName: Kong Xiao
+	// ShakeProj.DisplayName: Shake Proj
+	// EarthHealProj.DisplayName: Earth Heal Proj
+	// AntimatterNuclearMissilePROJ.DisplayName: Antimatter Nuclear Missile P R O J
+}
+
+Buffs: {
+	Fly: {
+		DisplayName: 你不应该看到这个
+		Description: 快说你干了什么
+	}
+
+	BloodPumpBuff: {
+		Description: 内心强大（物理）的人可以面临更多挑战
+		DisplayName: 循环系统强化
+	}
+
+	DamageProtectionDevice: {
+		Description: 你的防御力和伤害减免归零了！
+		DisplayName: 破败防御
+	}
+
+	INV: {
+		Description: 敌人无法攻击到你
+		DisplayName: 亚空间立场
+	}
+
+	DamageProtectionDeviceBuff: {
+		DisplayName: 破败防御
+		Description: 你的防御力和伤害减免归零了！
+	}
+
+	NSDD_Player: {
+		Description: 你寸步难行！
+		DisplayName: 神经系统再生
+	}
+
+	NSDD_Enemy: {
+		Description: 你寸步难行！
+		DisplayName: 神经系统损坏
+	}
+
+	ControllableHaloBuff: {
+		Description: 你正在以每秒2‰的速度损失生命值！
+		DisplayName: 分崩离析之环
+	}
+
+	HandHeldMechanicalBucklerSkillBuff: {
+		Description: 你感觉你势不可挡！
+		DisplayName: 装甲盾之佑
+	}
+
+	UnlimitedManaBackpackPlayerSkillBuff: {
+		Description: 你的攻击力强大到能撕碎万物，但以快速生命流失为代价
+		DisplayName: 魔能背包增益
+	}
+
+	UltimateFunctionOverloadDeviceBuff: {
+		DisplayName: 你感觉你充满了抛瓦
+		Description: 超载装置效果
+	}
+
+	GamblersTopHatBuff: {
+		Description: 已触发超级暴击
+		DisplayName: 超级暴击
+	}
+
+	Nomove: {
+		Description: 因某种原因 你动弹不得
+		DisplayName: 无法移动
+	}
+
+	WindrunnerBootsBuff: {
+		DisplayName: 超速奔跑
+		Description: 速度加快 速度加快
+	}
+
+	GamblersGloves: {
+		DisplayName: 精神爆发
+		Description: 大幅提升移速与伤害
+	}
+
+	LifeSubSpaceBuff: {
+		DisplayName: 复苏之生态
+		Description: 快速恢复生命值并增加防御力
+	}
+
+	ManaSickness: {
+		DisplayName: 魔力破败
+		Description: 危 魔法武器 危
+	}
+
+	PowerJetPackCoolDown: {
+		DisplayName: 电能喷气背包冷却
+		Description: 你不能再使用电能喷气背包冲刺
+	}
+
+	MercuryBlessingBuff: {
+		DisplayName: 水星祝福
+		Description: 你拥有95%的伤害减免
+	}
+
+	MercuryCurseingBuff: {
+		DisplayName: 水星诅咒
+		Description: 防御力大幅降低
+	}
+
+	Uranium235Debuff: {
+		DisplayName: U235-冻结
+		Description: 冻结吧！
+	}
+
+	Uranium238Debuff: {
+		DisplayName: U238-缓速
+		Description: 减速吧！
+	}
+
+	VenusHighTempMeltDebuff: {
+		DisplayName: 金星高温熔毁
+		Description: 你们的防御力大幅降低了！
+	}
+
+	DeathNoteBuff: {
+		Description: 你觉得死亡正在向你逼近
+		DisplayName: 死亡笔记
+	}
+
+	EMPIncreasedDamageBuff: {
+		Description: 被清除的弹幕转化为你的伤害提升！
+		DisplayName: EMP能量吸收
+	}
+
+	EMPUniversalBuff: {
+		DisplayName: EMP超级能量吸收
+		Description: 被清除的弹幕转化为你的伤害与防御力提升！
+	}
+
+	SpeedModActiveBuff: {
+		// Description: Mods.AccessoryForPlanetaryEmpire.Buffs.SpeedModActiveBuff.Description
+		// DisplayName: Speed Mod Active Buff
+	}
+
+	FirepowerExoskeletonDeviceBuff: {
+		// Description: Mods.AccessoryForPlanetaryEmpire.Buffs.FirepowerExoskeletonDeviceBuff.Description
+		// DisplayName: Firepower Exoskeleton Device Buff
+	}
+
+	MechanicalHeartBuff: {
+		// Description: Mods.AccessoryForPlanetaryEmpire.Buffs.MechanicalHeartBuff.Description
+		// DisplayName: Mechanical Heart Buff
+	}
+
+	TamingWhipRingBuff: {
+		// Description: Mods.AccessoryForPlanetaryEmpire.Buffs.TamingWhipRingBuff.Description
+		// DisplayName: Taming Whip Ring Buff
+	}
+
+	SynergisticCatalystBuff: {
+		// Description: Mods.AccessoryForPlanetaryEmpire.Buffs.SynergisticCatalystBuff.Description
+		// DisplayName: Synergistic Catalyst Buff
+	}
+}
+
+// NPCs.HPnpc.DisplayName: H Pnpc
+
+Configs: {
+	EXPModConfig: {
+		// DisplayName: E X P Mod Config
+		
+		EnableExplosionDamageImmunity: {
+		}
+	}
+
+	NoMoreExplosions: {
+		// DisplayName: No More Explosions
+		
+		EnableExplosionDamageImmunity: {
+		}
+	}
+
+	WT_PearlwoodBow: {
+		// DisplayName: W T_ Pearlwood Bow
+		
+		EnablePearlwoodBowTweaks: {
+		}
+	}
+
+	WeaponTweaksConfig: {
+		// DisplayName: Weapon Tweaks Config
+		
+		EnablePearlwoodBowTweaks: {
+		}
+
+		EnablePearlwoodSwordTweaks: {
+		}
+
+		EnableDeathSickleTweaks: {
+		}
+
+		EnablePulseBowTweaks: {
+		}
+
+		EnableSniperRifleTweaks: {
+		}
+
+		EnableCelebrationTweaks: {
+		}
+
+		EnableInfernoForkTweaks: {
+		}
+
+		EnableAshWoodSwordTweaks: {
+		}
+
+		EnableFireworksLauncherTweaks: {
+		}
+	}
+
+	PLAConfigs: {
+		// DisplayName: P L A Configs
+		
+		EnableExplosionDamageImmunity: {
+			// Tooltip: 开启后让爆破物无法对玩家造成有效伤害
+			// Label: 开启玩家耐炸
+		}
+
+		EnablePearlwoodBowTweaks: {
+			// Tooltip: 开启后将修改珍珠木弓的属性和功能
+			// Label: 开启珍珠木弓更改
+		}
+
+		EnableDeathSickleTweaks: {
+			// Tooltip: 开启后将修改死神镰刀的属性和功能
+			// Label: 开启死神镰刀更改
+		}
+
+		EnablePulseBowTweaks: {
+			// Tooltip: 开启后将修改脉冲弓的属性和功能
+			// Label: 开启脉冲弓更改
+		}
+
+		EnableFireworksLauncherTweaks: {
+			// Tooltip: 开启后将修改庆典大炮的属性和功能
+			// Label: 开启庆典大炮更改
+		}
+
+		// DisplayName: P L A Configs
+	}
+}
+
+// NPCs.HPnpc.DisplayName: H Pnpc
+
+Accessory: {
+	Attack: {
+		SolarSystem: {
+			EarthAccessory: {
+				DisplayName: ����
+				Tooltip:
+					'''
+					�ٻ�Χ����ҵĵ���
+					����ÿ��10������һָ�100����ֵ
+					���������̫��ϵ����ô������ȴ������5��
+					���޾������������������ġ�
+					'''
+			}
+
+			HalleyCometAccessory: {
+				Tooltip:
+					'''
+					�ٻ�����Բ�ι��Χ����ҵĹ�������
+					���������ܹ���ǿ�Ӵ��������ҵ�Ļ75%�˺���30%�ٶ�
+					����⻮���գ������Ƶз���
+					'''
+				DisplayName: ��������
+			}
+		}
+	}
+}

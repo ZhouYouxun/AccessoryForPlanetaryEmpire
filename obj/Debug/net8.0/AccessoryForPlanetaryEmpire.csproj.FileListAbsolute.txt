@@ -1,0 +1,12 @@
+D:\Documents\My Games\Terraria\tModLoader\ModSources\AccessoryForPlanetaryEmpire\bin\Debug\net8.0\AccessoryForPlanetaryEmpire.deps.json
+D:\Documents\My Games\Terraria\tModLoader\ModSources\AccessoryForPlanetaryEmpire\bin\Debug\net8.0\AccessoryForPlanetaryEmpire.dll
+D:\Documents\My Games\Terraria\tModLoader\ModSources\AccessoryForPlanetaryEmpire\bin\Debug\net8.0\AccessoryForPlanetaryEmpire.pdb
+D:\Documents\My Games\Terraria\tModLoader\ModSources\AccessoryForPlanetaryEmpire\obj\Debug\net8.0\AccessoryForPlanetaryEmpire.csproj.AssemblyReference.cache
+D:\Documents\My Games\Terraria\tModLoader\ModSources\AccessoryForPlanetaryEmpire\obj\Debug\net8.0\AccessoryForPlanetaryEmpire.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\My Games\Terraria\tModLoader\ModSources\AccessoryForPlanetaryEmpire\obj\Debug\net8.0\AccessoryForPlanetaryEmpire.AssemblyInfoInputs.cache
+D:\Documents\My Games\Terraria\tModLoader\ModSources\AccessoryForPlanetaryEmpire\obj\Debug\net8.0\AccessoryForPlanetaryEmpire.AssemblyInfo.cs
+D:\Documents\My Games\Terraria\tModLoader\ModSources\AccessoryForPlanetaryEmpire\obj\Debug\net8.0\AccessoryForPlanetaryEmpire.csproj.CoreCompileInputs.cache
+D:\Documents\My Games\Terraria\tModLoader\ModSources\AccessoryForPlanetaryEmpire\obj\Debug\net8.0\AccessoryForPlanetaryEmpire.dll
+D:\Documents\My Games\Terraria\tModLoader\ModSources\AccessoryForPlanetaryEmpire\obj\Debug\net8.0\refint\AccessoryForPlanetaryEmpire.dll
+D:\Documents\My Games\Terraria\tModLoader\ModSources\AccessoryForPlanetaryEmpire\obj\Debug\net8.0\AccessoryForPlanetaryEmpire.pdb
+D:\Documents\My Games\Terraria\tModLoader\ModSources\AccessoryForPlanetaryEmpire\obj\Debug\net8.0\ref\AccessoryForPlanetaryEmpire.dll

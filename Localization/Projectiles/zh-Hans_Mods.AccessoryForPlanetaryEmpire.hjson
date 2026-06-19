@@ -1,0 +1,95 @@
+Projectiles: {
+	// MiaoProj.DisplayName: Miao Proj
+	// BrassBowProj.DisplayName: Brass Bow Proj
+	// WhiteHolePROJ4.DisplayName: White Hole P R O J4
+	// WhiteHolePROJ3.DisplayName: White Hole P R O J3
+	// WhiteHolePROJ2.DisplayName: White Hole P R O J2
+	// WhiteHolePROJ.DisplayName: White Hole P R O J
+	// VoidOfDarknessTHOR.DisplayName: Void Of Darkness T H O R
+	// VoidOfDarknessROT.DisplayName: Void Of Darkness R O T
+	// VoidOfDarknessPROJ.DisplayName: Void Of Darkness P R O J
+	// ThermalSmoke.DisplayName: Thermal Smoke
+	// ThermalBullet.DisplayName: Thermal Bullet
+	// PurpleES.DisplayName: Purple E S
+	// LightBlueES.DisplayName: Light Blue E S
+	// BrownES.DisplayName: Brown E S
+	// BrassLight.DisplayName: Brass Light
+	// BrassGear.DisplayName: Brass Gear
+	// BrassArrow.DisplayName: Brass Arrow
+	// BlackES.DisplayName: Black E S
+	// AbyssWorm.DisplayName: Abyss Worm
+	// AbyssEssence.DisplayName: Abyss Essence
+	// VenusProjectile.DisplayName: Venus Projectile
+	// VenusExplosionProjectile.DisplayName: Venus Explosion Projectile
+	// UranusProjectile.DisplayName: Uranus Projectile
+	// SunSmallRay.DisplayName: Sun Small Ray
+	// SunProjectile.DisplayName: Sun Projectile
+	// SunLaserProjectile.DisplayName: Sun Laser Projectile
+	// SplittingFlamesProjectile.DisplayName: Splitting Flames Projectile
+	// SaturnRingProjectile.DisplayName: Saturn Ring Projectile
+	// SaturnProjectile.DisplayName: Saturn Projectile
+	// PlutoProjectile.DisplayName: Pluto Projectile
+	// NeptuneWaterProjectile.DisplayName: Neptune Water Projectile
+	// NeptuneProjectile.DisplayName: Neptune Projectile
+	// MercuryProjectile.DisplayName: Mercury Projectile
+	// MarsProjectile.DisplayName: Mars Projectile
+	// JupiterProjectile.DisplayName: Jupiter Projectile
+	// HalleyCometProjectile.DisplayName: Halley Comet Projectile
+	// EarthProjectile.DisplayName: Earth Projectile
+	// UniversalAura.DisplayName: Universal Aura
+	// SlimeShieldProjectile.DisplayName: Slime Shield Projectile
+	// ShinySlimeShieldProjectile.DisplayName: Shiny Slime Shield Projectile
+	// MoonShieldProjectile.DisplayName: Moon Shield Projectile
+	// LifeSubSpacePROJ.DisplayName: Life Sub Space P R O J
+	// FlyEyeProj.DisplayName: Fly Eye Proj
+	// EnergyShieldCatapultPROJ.DisplayName: Energy Shield Catapult P R O J
+	// UniversalBarrierProjectile.DisplayName: Universal Barrier Projectile
+	// SubSpaceProjectile.DisplayName: Sub Space Projectile
+	// EMPProj.DisplayName: E M P Proj
+	// BarrierProjectile.DisplayName: Barrier Projectile
+	// DeathNoteProjectile.DisplayName: Death Note Projectile
+	// ControllableHaloPROJ.DisplayName: Controllable Halo P R O J
+	// BMSPROJ.DisplayName: B M S P R O J
+	// BlueRoundShield.DisplayName: Blue Round Shield
+	// AsteroidBeltPROJ.DisplayName: Asteroid Belt P R O J
+	// AncientGiftSUProj.DisplayName: Ancient Gift S U Proj
+	// AncientGiftREProj.DisplayName: Ancient Gift R E Proj
+	// AncientGiftMEProj.DisplayName: Ancient Gift M E Proj
+	// AncientGiftMAProj.DisplayName: Ancient Gift M A Proj
+	// PlanetaryHookProjectile.DisplayName: Planetary Hook Projectile
+	// KongDa.DisplayName: Kong Da
+	// KongXiao.DisplayName: Kong Xiao
+	// ShakeProj.DisplayName: Shake Proj
+	// EarthHealProj.DisplayName: Earth Heal Proj
+	// AntimatterNuclearMissilePROJ.DisplayName: Antimatter Nuclear Missile P R O J
+	// TestPROJ.DisplayName: Test P R O J
+	// ReinforcedConcretePROJ.DisplayName: Reinforced Concrete P R O J
+	// Kar98kShot.DisplayName: Kar98k Shot
+	// AKMHoldout.DisplayName: A K M Holdout
+	// DreamerBobber.DisplayName: Dreamer Bobber
+	// SpainningProjectile.DisplayName: Spainning Projectile
+	// AircraftSarrierSA.DisplayName: Aircraft Sarrier S A
+	// StarrySkyBoomerangPROJ.DisplayName: Starry Sky Boomerang P R O J
+	// ReinforcedConcreteProjectile.DisplayName: Reinforced Concrete Projectile
+	// TheASSA.DisplayName: The A S S A
+	// RedSunSummon.DisplayName: Red Sun Summon
+	// RedSunFirePROJ.DisplayName: Red Sun Fire P R O J
+	// DestroyBombProj.DisplayName: Destroy Bomb Proj
+	// StellarDrillProj.DisplayName: Stellar Drill Proj
+	// MedicalDrones.DisplayName: Medical Drones
+	// EMPVis.DisplayName: E M P Vis
+	// EMPUse.DisplayName: E M P Use
+	// EMPVis2.DisplayName: E M P Vis2
+	// EMPVis65L.DisplayName: E M P Vis65 L
+	// NeptuneProjectileTrident.DisplayName: Neptune Projectile Trident
+	// NeptuneProjectileTaiJinPProj.DisplayName: Neptune Projectile Tai Jin P Proj
+	// SwordBarrage.DisplayName: Sword Barrage
+	// PrimordialStateSlash.DisplayName: Primordial State Slash
+	// TheSuperSlash.DisplayName: The Super Slash
+	// SunProj2.DisplayName: Sun Proj2
+	// TheStaffPROJ.DisplayName: The Staff P R O J
+	// TheSumWhip.DisplayName: The Sum Whip
+	// ControllableStellarEnergyProjection.DisplayName: Controllable Stellar Energy Projection
+	TheItemKitCatalogPanel.DisplayName: 装备档案界面
+	// StellarCleaverDashboardPanel.DisplayName: Stellar Cleaver Dashboard Panel
+}

@@ -1,0 +1,37 @@
+Accessory: {
+	Movement: {
+		SpeedModActive: {
+			DisplayName: Dynamic Propulsion Device
+			Tooltip:
+				'''
+				Increases movement speed, jump speed, and fall speed by 30%, but reduces defense by 20%.
+				Press the hotkey to double these bonuses.
+				Cooldown: 60 seconds
+				"You are the embodiment of speed."        
+				'''
+		}
+
+		SwiftWindWalkerBoots: {
+			DisplayName: Swift Windwalker Boots
+			Tooltip:
+				'''
+				Upon activation, greatly increases movement speed and grants invincibility for 10 seconds.
+				Cooldown: 45 seconds
+				The cost is the inability to deal damage.
+				"The slower you run, the faster you fall."
+				'''
+		}
+
+		Teleportation: {
+			DisplayName: Warp Drive Engine
+			Tooltip:
+				'''
+				Press the hotkey to teleport to the mouse cursor's location.
+				Clears all enemy projectiles within a 15-tile radius upon arrival.
+				[c/9b59b6:Does not cause Chaos State (From Rod of Discord)]
+				Cooldown: 15 seconds
+				"That was fast—I just blinked!"
+				'''
+		}
+	}
+}

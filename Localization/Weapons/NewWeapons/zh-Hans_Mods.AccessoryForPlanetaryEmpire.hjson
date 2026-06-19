@@ -1,0 +1,41 @@
+NewWeapons: {
+	TheBow: {
+		DisplayName: 三轴发射弓
+		Tooltip:
+			'''
+			左键射出三条平行的能量箭矢，形成稳定覆盖的基础火力。
+			右键进入高速单点连射模式，用于快速压制目标。
+			'''
+	}
+
+	TheKnife: {
+		DisplayName: 旋锋战刃
+		Tooltip:
+			'''
+			左键投出高速旋转的能量刀片，逐渐减速并持续切割敌人。
+			右键进行强化近战斩击，造成更高的战士伤害。
+			'''
+	}
+
+	TheStaff: {
+		DisplayName: 裂界构能杖
+		Tooltip:
+			'''
+			在施法者周围撕开小型能量裂隙，召唤紫色构能体刺向鼠标位置。
+			适合作为开局的基础魔能引导武器。
+			'''
+	}
+
+	TheSum: {
+		DisplayName: 频脉聚能鞭
+		Tooltip:
+			'''
+			由能量脉冲编织而成的轻型聚能鞭。
+			抽击敌人后会为召唤物标记目标。
+			'''
+	}
+
+	// TheKnifePROJ.DisplayName: The Knife P R O J
+	// TheStaffPROJ.DisplayName: The Staff P R O J
+	// TheSummer.DisplayName: The Summer
+}

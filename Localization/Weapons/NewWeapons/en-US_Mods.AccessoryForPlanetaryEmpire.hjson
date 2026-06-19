@@ -1,0 +1,41 @@
+NewWeapons: {
+	TheBow: {
+		DisplayName: Tri-Axis Bow
+		Tooltip:
+			'''
+			Left-click fires three parallel energy arrows, providing stable basic coverage.
+			Right-click enters a high-speed single-shot mode for rapid suppression.
+			'''
+	}
+
+	TheKnife: {
+		DisplayName: Spinblade
+		Tooltip:
+			'''
+			Left-click throws a high-speed rotating energy blade that slows down and continues cutting.
+			Right-click performs a reinforced melee slash, dealing higher warrior damage.
+			'''
+	}
+
+	TheStaff: {
+		DisplayName: Riftspire Staff
+		Tooltip:
+			'''
+			Opens small energy rifts around the caster, summoning violet constructs toward the cursor.
+			A suitable basic arcane weapon for early progression.
+			'''
+	}
+
+	TheSum: {
+		DisplayName: Pulseweave Lash
+		Tooltip:
+			'''
+			A lightweight lash woven from pulsed energy.
+			Hitting an enemy marks the target for your minions.
+			'''
+	}
+
+	TheKnifePROJ.DisplayName: The Knife P R O J
+	TheStaffPROJ.DisplayName: The Staff P R O J
+	TheSummer.DisplayName: The Summer
+}

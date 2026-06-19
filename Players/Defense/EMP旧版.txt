@@ -1,0 +1,303 @@
+
+        //public override void PostUpdate()
+        //{
+
+        //    // -----------------------------------------
+        //    // 15型弹幕拦截器【骷髅王后】：按下快捷键时清除半径15格范围内的敌方弹幕
+        //    // -----------------------------------------
+        //    if (has15Interceptor && cooldown15Interceptor > 0)
+        //    {
+        //        cooldown15Interceptor--;
+        //        CreateTrackingParticles();
+        //        if (cooldown15Interceptor == 0)
+        //        {
+        //            CombatText.NewText(Player.getRect(), Color.Cyan, "15型弹幕拦截器冷却成功！");
+        //            SoundEngine.PlaySound(SoundID.Item4, Player.position); // 播放冷却完成音效（魔力水晶）
+        //            shouldDrawCircle15 = true;
+        //            //CreateCooldownCircle(15);
+        //            //ReleaseCircularProjectiles(15, ModContent.ProjectileType<EMPProj>(), 20);
+        //        }
+
+        //    }
+        //    if (has15Interceptor && KeybindSystem.ClearBulletKeybind.JustPressed && cooldown15Interceptor == 0)
+        //    {
+        //        ClearBullets(15);
+        //        cooldown15Interceptor = 1 * 60; // 45秒冷却时间
+        //        // CreateCooldownCircle(15);
+        //        shouldDrawCircle15 = false; // 停止绘制圆环
+        //        //ClearCircularProjectiles(ModContent.ProjectileType<EMPProj>()); // 清理特效弹幕
+        //        ShootBlueParticles(); // 射出蓝色粒子特效
+        //        CombatText.NewText(Player.getRect(), Color.Cyan, "15型弹幕拦截器释放成功！");
+        //        TriggerScreenShake(15.0f);
+        //    }
+        //    // 绘制圆环
+        //    if (has15Interceptor && shouldDrawCircle15)
+        //    {
+        //        CreateCooldownCircle(15);
+        //    }
+
+
+
+        //    // -----------------------------------------
+        //    // 25II型弹幕拦截器【肉山后】：按下快捷键时清除半径55格范围内的敌方弹幕，给所有敌人施加困惑debuff
+        //    // -----------------------------------------
+        //    if (has25IIInterceptor && cooldown25IIInterceptor > 0)
+        //    {
+        //        cooldown25IIInterceptor--;
+        //        CreateTrackingParticles();
+        //        if (cooldown25IIInterceptor == 0)
+        //        {
+        //            CombatText.NewText(Player.getRect(), Color.Cyan, "25II型弹幕拦截器冷却成功！");
+        //            SoundEngine.PlaySound(SoundID.Item4, Player.position); // 播放冷却完成音效（魔力水晶）
+        //            shouldDrawCircle25 = true;
+        //        }
+        //    }
+        //    if (has25IIInterceptor && KeybindSystem.ClearBulletKeybind.JustPressed && cooldown25IIInterceptor == 0)
+        //    {
+        //        ClearBullets(25);
+        //        ApplyDebuffToEnemies(BuffID.Confused, 60 * 5); // 给所有敌人施加困惑debuff，持续5秒
+        //        cooldown25IIInterceptor = 45 * 60; // 45秒冷却时间
+        //        CreateCooldownCircle(25);
+        //        shouldDrawCircle25 = false; // 停止绘制圆环
+        //        ShootBlueParticles(); // 射出蓝色粒子特效
+        //        CombatText.NewText(Player.getRect(), Color.Cyan, "25II型弹幕拦截器释放成功！");
+        //        TriggerScreenShake(25.0f);
+        //    }
+        //    // 绘制圆环
+        //    if (has25IIInterceptor && shouldDrawCircle25)
+        //    {
+        //        CreateCooldownCircle(25);
+        //    }
+
+
+
+        //    // -----------------------------------------
+        //    // 35IV型弹幕拦截器【毁灭者后】：按下快捷键时清除半径75格范围内的敌方弹幕，并在之后向周围散射大量激光
+        //    // -----------------------------------------
+        //    if (has35IVInterceptor && cooldown35IVInterceptor > 0)
+        //    {
+        //        cooldown35IVInterceptor--;
+        //        CreateTrackingParticles();
+        //        if (cooldown35IVInterceptor == 0)
+        //        {
+        //            CombatText.NewText(Player.getRect(), Color.Cyan, "35IV型弹幕拦截器冷却成功！");
+        //            SoundEngine.PlaySound(SoundID.Item4, Player.position); // 播放冷却完成音效（魔力水晶）
+        //            shouldDrawCircle35 = true;
+        //        }
+        //    }
+        //    if (has35IVInterceptor && KeybindSystem.ClearBulletKeybind.JustPressed && cooldown35IVInterceptor == 0)
+        //    {
+        //        ClearBullets(35);
+        //        ShootRandomLasers(35);
+        //        cooldown35IVInterceptor = 45 * 60; // 45秒冷却时间
+        //        CreateCooldownCircle(35);
+        //        shouldDrawCircle35 = false; // 停止绘制圆环
+        //        CombatText.NewText(Player.getRect(), Color.Cyan, "35IV型弹幕拦截器释放成功！");
+        //        ShootBlueParticles(); // 射出蓝色粒子特效
+        //        TriggerScreenShake(35.0f);
+        //    }
+        //    // 绘制圆环
+        //    if (has35IVInterceptor && shouldDrawCircle35)
+        //    {
+        //        CreateCooldownCircle(35);
+        //    }
+
+
+
+        //    // -----------------------------------------
+        //    // 45型转化弹幕拦截器【花后】：按下快捷键时清除半径45格范围内的敌方弹幕，同时叛变这些弹幕中的一半
+        //    // -----------------------------------------
+        //    if (has45Interceptor && cooldown45Interceptor > 0)
+        //    {
+        //        cooldown45Interceptor--;
+        //        CreateTrackingParticles();
+        //        if (cooldown45Interceptor == 0)
+        //        {
+        //            CombatText.NewText(Player.getRect(), Color.Cyan, "45型转化弹幕拦截器冷却成功！");
+        //            SoundEngine.PlaySound(SoundID.Item4, Player.position); // 播放冷却完成音效（魔力水晶）
+        //            shouldDrawCircle45 = true;
+        //        }
+        //    }
+        //    if (has45Interceptor && KeybindSystem.ClearBulletKeybind.JustPressed && cooldown45Interceptor == 0)
+        //    {
+        //        ClearAndReflectBullets(45, 0.5f); // 50%概率反转弹幕
+        //        cooldown45Interceptor = 45 * 60; // 45秒冷却时间
+        //        CreateCooldownCircle(45);
+        //        shouldDrawCircle45 = false; // 停止绘制圆环
+        //        CombatText.NewText(Player.getRect(), Color.Cyan, "45型转化弹幕拦截器释放成功！");
+        //        TriggerScreenShake(45.0f);
+        //        ShootBlueParticles(); // 射出蓝色粒子特效
+        //    }
+        //    // 绘制圆环
+        //    if (has45Interceptor && shouldDrawCircle45)
+        //    {
+        //        CreateCooldownCircle(45);
+        //    }
+
+
+
+
+
+        //    // -----------------------------------------
+        //    // 15型能量吸收装置【花后】：按下快捷键时清除半径25格范围内的敌方弹幕，但清除的每一发弹幕都能转化为3.5%的临时伤害提升，伤害提升持续5秒
+        //    // -----------------------------------------
+        //    if (has15Absorber && cooldown15Absorber > 0)
+        //    {
+        //        cooldown15Absorber--;
+        //        CreateTrackingParticles();
+        //        if (cooldown15Absorber == 0)
+        //        {
+        //            CombatText.NewText(Player.getRect(), Color.Cyan, "15型能量吸收装置冷却成功！");
+        //            SoundEngine.PlaySound(SoundID.Item4, Player.position); // 播放冷却完成音效（魔力水晶）
+        //            shouldDrawCircle15 = true;
+        //        }
+        //    }
+        //    if (has15Absorber && KeybindSystem.ClearBulletKeybind.JustPressed && cooldown15Absorber == 0)
+        //    {
+        //        ClearBulletsAndIncreaseDamage(15, 3.5f, 60 * 5); // 清除弹幕并提升伤害，持续5秒
+        //        cooldown15Absorber = 45 * 60; // 45秒冷却时间
+        //        CreateCooldownCircle(15);
+        //        shouldDrawCircle15 = false; // 停止绘制圆环
+        //        CombatText.NewText(Player.getRect(), Color.Cyan, "15型能量吸收装置释放成功！");
+        //        TriggerScreenShake(55.0f);
+        //        ShootBlueParticles(); // 射出蓝色粒子特效
+        //    }
+        //    // 绘制圆环
+        //    if (has15Absorber && shouldDrawCircle15)
+        //    {
+        //        CreateCooldownCircle(15);
+        //    }
+
+
+
+        //    // -----------------------------------------
+        //    // 55I型连锁引爆炮【石巨人后】：按下快捷键时清除半径75格范围内的敌方弹幕，弹幕被清除时会引爆，并对周围的敌人造成5倍原弹幕伤害
+        //    // -----------------------------------------
+        //    if (has55IInterceptor && cooldown55IInterceptor > 0)
+        //    {
+        //        cooldown55IInterceptor--;
+        //        CreateTrackingParticles();
+        //        if (cooldown55IInterceptor == 0)
+        //        {
+        //            CombatText.NewText(Player.getRect(), Color.Cyan, "55I型连锁引爆炮冷却成功！");
+        //            SoundEngine.PlaySound(SoundID.Item4, Player.position); // 播放冷却完成音效（魔力水晶）
+        //            shouldDrawCircle55 = true;
+        //        }
+        //    }
+        //    if (has55IInterceptor && KeybindSystem.ClearBulletKeybind.JustPressed && cooldown55IInterceptor == 0)
+        //    {
+        //        ClearBulletsAndExplode(55, 5f); // 清除弹幕并引爆，造成5倍原弹幕伤害
+        //        cooldown55IInterceptor = 45 * 60; // 60秒冷却时间
+        //        CreateCooldownCircle(55);
+        //        shouldDrawCircle55 = false; // 停止绘制圆环
+        //        CombatText.NewText(Player.getRect(), Color.Cyan, "55I型连锁引爆炮释放成功！");
+        //        TriggerScreenShake(55.0f);
+        //        ShootBlueParticles(); // 射出蓝色粒子特效
+        //    }
+        //    // 绘制圆环
+        //    if (has55IInterceptor && shouldDrawCircle55)
+        //    {
+        //        CreateCooldownCircle(55);
+        //    }
+
+
+
+
+
+
+        //    // -----------------------------------------
+        //    // 55VI型震荡弹射器【石巨人后】：按下快捷键时清除半径75格范围内的敌方弹幕，与此同时，眩晕范围内的所有敌人0.7秒
+        //    // -----------------------------------------
+        //    if (has55VIInterceptor && cooldown55VIInterceptor > 0)
+        //    {
+        //        cooldown55VIInterceptor--;
+        //        CreateTrackingParticles();
+        //        if (cooldown55VIInterceptor == 0)
+        //        {
+        //            CombatText.NewText(Player.getRect(), Color.Cyan, "55VI型震荡弹射器冷却成功！");
+        //            SoundEngine.PlaySound(SoundID.Item4, Player.position); // 播放冷却完成音效（魔力水晶）
+        //            shouldDrawCircle55 = true;
+        //        }
+        //    }
+        //    if (has55VIInterceptor && KeybindSystem.ClearBulletKeybind.JustPressed && cooldown55VIInterceptor == 0)
+        //    {
+        //        ClearBulletsAndStun(55, ModContent.BuffType<Uranium235Debuff>(), 3.0f); // 清除弹幕并定身敌人，持续3.0秒
+        //        cooldown55VIInterceptor = 45 * 60; // 45秒冷却时间
+        //        CreateCooldownCircle(55);
+        //        shouldDrawCircle55 = false; // 停止绘制圆环
+        //        CombatText.NewText(Player.getRect(), Color.Cyan, "55VI型震荡弹射器释放成功！");
+        //        TriggerScreenShake(55.0f);
+        //        ShootBlueParticles(); // 射出蓝色粒子特效
+        //    }
+        //    // 绘制圆环
+        //    if (has55VIInterceptor && shouldDrawCircle55)
+        //    {
+        //        CreateCooldownCircle(55);
+        //    }
+
+
+
+        //    // -----------------------------------------
+        //    // 55IX型转化弹幕拦截器【教徒后】：按下快捷键时清除半径55格范围内的敌方弹幕，同时叛变这些弹幕
+        //    // -----------------------------------------
+        //    if (has55IXInterceptor && cooldown55IXInterceptor > 0)
+        //    {
+        //        cooldown55IXInterceptor--;
+        //        CreateTrackingParticles();
+        //        if (cooldown55IXInterceptor == 0)
+        //        {
+        //            CombatText.NewText(Player.getRect(), Color.Cyan, "55IX型转化弹幕拦截器冷却成功！");
+        //            SoundEngine.PlaySound(SoundID.Item4, Player.position); // 播放冷却完成音效（魔力水晶）
+        //            shouldDrawCircle55 = true;
+        //        }
+        //    }
+        //    if (has55IXInterceptor && KeybindSystem.ClearBulletKeybind.JustPressed && cooldown55IXInterceptor == 0)
+        //    {
+        //        ClearAndReflectBullets(55, 1f); // 100%概率反转弹幕
+        //        cooldown55IXInterceptor = 45 * 60; // 60秒冷却时间
+        //        CreateCooldownCircle(55);
+        //        shouldDrawCircle55 = false; // 停止绘制圆环
+        //        CombatText.NewText(Player.getRect(), Color.Cyan, "55IX型转化弹幕拦截器释放成功！");
+        //        TriggerScreenShake(55.0f);
+        //        ShootBlueParticles(); // 射出蓝色粒子特效
+        //    }
+        //    // 绘制圆环
+        //    if (has55IXInterceptor && shouldDrawCircle55)
+        //    {
+        //        CreateCooldownCircle(55);
+        //    }
+
+
+
+
+
+        //    foreach (Dust dust in Main.dust)
+        //    {
+        //        if (dust.active && dust.customData is float rotationSpeed)
+        //        {
+        //            dust.rotation += rotationSpeed; // 旋转粒子
+        //            dust.scale *= 0.95f; // 更快地缩小粒子
+        //            dust.alpha += 10; // 更快地增加透明度
+        //        }
+        //    }
+
+
+
+        //    //if (shakeDuration > 0)
+        //    //{
+        //    //    float progress = (float)(shakeDuration) / shakeDuration;
+        //    //    float currentIntensity = shakeIntensity * progress;
+
+        //    //    Vector2 shakeOffset = new Vector2(Main.rand.NextFloat(-1f, 1f), Main.rand.NextFloat(-1f, 1f)) * currentIntensity;
+        //    //    Main.screenPosition = originalScreenPosition + shakeOffset;
+
+        //    //    shakeDuration--;
+        //    //}
+        //    //else if (shakeDuration == 0)
+        //    //{
+        //    //    Main.screenPosition = originalScreenPosition;
+        //    //}
+
+
+
+        //}

@@ -1,0 +1,31 @@
+----------------------------------------------------------------------------------------------------------
+This mod will add some accessories to the game that can be obtained in the early stages (and at various times)
+but will increase the player's value in percentage, so they can be used until graduation.
+Currently, this mod will only focus on accessories.
+If you have any comments, please add me as a steam friend for feedback.
+I sincerely welcome anyone to give me any feedback or come up with some ideas to make my mod more interesting!
+
+This mod mainly refers to the battleship defense skills of some bullet-hell shooting games, and designs many equipments. 
+They can often increase the player's movement speed, or defense, or eliminate the enemy's bullets, or give the player a certain invincibility time
+But these will have a certain price. 
+(Many of the current equipment) The inspiration mainly comes from Phoenix2 (a game)
+
+Important: Due to my bad English, all the English translations in the game are machine translated. I am sorry if this has caused you any trouble.
+
+As of version 6.1, there are:
+21 general offensive accessories
+8 professional skill offensive accessories (active or passive skills)
+16 professional basic offensive accessories (only numerical improvement)
+5 sprint accessories
+26 defensive accessories
+3 mobility accessories
+3 logistics accessories
+1 living accessories
+6 weapons
+
+QOL content:
+14 tools
+100+ original item modification recipes
+
+
+----------------------------------------------------------------------------------------------------------

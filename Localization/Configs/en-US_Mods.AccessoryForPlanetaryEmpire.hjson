@@ -1,0 +1,58 @@
+Configs: {
+	EXPModConfig: {
+		// DisplayName: E X P Mod Config
+		
+		EnableExplosionDamageImmunity: {
+		}
+	}
+
+	NoMoreExplosions: {
+		// DisplayName: No More Explosions
+		
+		EnableExplosionDamageImmunity: {
+		}
+	}
+
+	WT_PearlwoodBow: {
+		// DisplayName: W T_ Pearlwood Bow
+		
+		EnablePearlwoodBowTweaks: {
+		}
+	}
+
+	PLAConfigs: {
+		// DisplayName: P L A Configs
+		
+		EnableExplosionDamageImmunity: {
+			Tooltip: Grants immunity to explosion damage when enabled.
+			Label: Enable Explosion Damage Immunity
+		}
+
+		EnablePearlwoodBowTweaks: {
+			Tooltip: Modifies the attributes and functionality of the Pearlwood Bow when enabled.
+			Label: Enable Pearlwood Bow Tweaks
+		}
+
+		EnableDeathSickleTweaks: {
+			Tooltip: Modifies the attributes and functionality of the Death Sickle when enabled.
+			Label: Enable Death Sickle Tweaks
+		}
+
+		EnablePulseBowTweaks: {
+			Tooltip: Modifies the attributes and functionality of the Pulse Bow when enabled.
+			Label: Enable Pulse Bow Tweaks
+		}
+
+		EnableFireworksLauncherTweaks: {
+			Tooltip: Modifies the attributes and functionality of the Celebration Mk2 when enabled.
+			Label: Enable Fireworks Launcher Tweaks
+		}
+
+		DisplayName: Planetary Empire Accessory Settings
+
+		EnableFriendlyFire: {
+			Label: Enable Friendly Fire
+			Tooltip: Allows player projectiles to damage other players using the calculated damage value.
+		}
+	}
+}

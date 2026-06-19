@@ -1,0 +1,13 @@
+Keybinds: {
+	大冲刺.DisplayName: Big Dash
+	单键冲刺.DisplayName: Single-button Dash
+	疾风行者靴.DisplayName: Windrunner Boots
+	动力加速装置.DisplayName: Power Accelerator
+	血管加速器.DisplayName: Blood Vessel Accelerator
+	活血泵.DisplayName: Blood Pump
+	瞬间移动.DisplayName: Teleport
+	超载装置.DisplayName: Overload Device
+	通用电磁脉冲.DisplayName: EMP
+	弹幕管理终端.DisplayName: Bullet Screen Management Terminal
+	音波环.DisplayName: Sonic Ring
+}

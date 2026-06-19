@@ -1,0 +1,130 @@
+Items: {
+	PlanetaryHook: {
+		DisplayName: 星空锚钩
+		Tooltip:
+			'''
+			你说你想要整个银河系？
+			那为什么不把它钩过来？
+			'''
+	}
+
+	StellarCleaver: {
+		DisplayName: 神镐
+		Tooltip:
+			'''
+			镐力和攻击力随游戏进度而成长
+			右键当做锤使用
+			Smashing
+			Smelting
+			效率 IV
+			经验汲取 III
+			时运 III
+			磁性
+			耐久度：1401/1561
+			“直接挖墙，挖进去是吧”
+			“看看连锁挖矿”
+			“哇，哇哇，哇哇哇，哎呀我的神镐！（敲桌）”
+			'''
+	}
+
+	TheOutcast: {
+		DisplayName: 逸界者
+		Tooltip:
+			'''
+			喷射改变地形的溶液
+			右键切换模式
+			不消耗弹药
+			“净化世界必备”
+			'''
+	}
+
+	Kong: {
+		DisplayName: 空空枪
+		Tooltip:
+			'''
+			左键使敌人缩小
+			右键使敌人变大
+			仅供娱乐！
+			“空即是色”			
+			'''
+	}
+
+	Miao: {
+		DisplayName: 妙妙枪
+		Tooltip:
+			'''
+			射出随机弹幕! 哈哈！
+			你不知道下一发弹幕是什么!
+			伤害随游戏流程推进而成长
+			如果在一个“好世界”里，那么伤害永久翻三倍
+			“太妙了”
+			'''
+	}
+
+	TimeLeaper: {
+		DisplayName: 气象局
+		Tooltip:
+			'''
+			在地表和雪原左键开启或关闭下雨，在沙漠左键开启或关闭沙尘暴
+			右键更改4个时间（早上4:30，中午12点，晚上7:30，晚上12点）
+			'''
+	}
+
+	FakeZenith: {
+		DisplayName: 盗版天顶剑
+		Tooltip:
+			'''
+			对天顶剑的非常低级的劣质仿造品
+			集齐了天顶剑所有材料的力量，但仿制品终究只是仿制品罢了
+			力量不及原造物的10%
+			“粗劣的模仿”
+			'''
+	}
+
+	Dreamer: {
+		DisplayName: 梦想家
+		Tooltip:
+			'''
+			一把强大的钓鱼竿，可以在岩浆中钓鱼
+			抛出渔线的数量和渔力会随游戏流程推进而成长
+			“那些鱼说他们是自愿咬钩的，这跟我们没关系”
+			'''
+	}
+
+	CompressedBait: {
+		DisplayName: 超级压缩鱼饵
+		Tooltip:
+			'''
+			永远也用不坏的鱼饵
+			“耐用王牌”
+			'''
+	}
+
+	ElectronicPsychedelicDrugs: {
+		DisplayName: 电子迷幻药
+		Tooltip:
+			'''
+			伤害提升200%
+			你头晕目眩，感觉是要生了
+			'''
+	}
+
+	DestroyBomb: {
+		// DisplayName: Destroy Bomb
+		// Tooltip: ""
+	}
+
+	StellarDrill: {
+		// DisplayName: Stellar Drill
+		// Tooltip: ""
+	}
+
+	SB: {
+		DisplayName: 超级气球
+		Tooltip:
+			'''
+			提供九段跳外加一段时间的飞行
+			“为了超级气球”
+			'''
+	}
+}

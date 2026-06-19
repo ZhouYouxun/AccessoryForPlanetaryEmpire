@@ -1,0 +1,181 @@
+﻿using System;
+using Terraria;
+using Terraria.ID;
+using Terraria.ModLoader;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
+
+
+namespace AccessoryForPlanetaryEmpire.Projectiles.Weapon
+{
+    public class AbyssEssence : ModProjectile
+    {
+        public override void SetDefaults()
+        {
+            Projectile.width = 10;
+            Projectile.height = 10;
+            Projectile.friendly = true;
+            Projectile.penetrate = 2; // 可以穿透敌人两次
+            Projectile.tileCollide = false;
+            Projectile.ignoreWater = true;
+            Projectile.light = 0.5f;
+            Projectile.alpha = 255;
+            Projectile.timeLeft = 600;
+            Projectile.extraUpdates = 1;
+            Projectile.scale = 0.5f; // 通过调整缩放比例来变大子弹贴图
+
+        }
+
+        private bool initialPhase = true;
+        private bool lockOnPhase = false;
+        private float lockOnDelay = 45f; // 0.75秒
+
+        public override void AI()
+        {
+            if (initialPhase)
+            {
+                // 弹幕先以较快的速度射出
+                Projectile.velocity *= 0.98f;
+                if (Projectile.velocity.Length() < 0.1f)
+                {
+                    initialPhase = false;
+                    Projectile.velocity *= 0f;
+                    Projectile.netUpdate = true;
+                }
+
+                // 在长枪头部位置生成三角形粒子特效
+                if (Main.rand.NextBool(3))
+                {
+                    Vector2 dustPosition = Projectile.position;
+                    Dust dust = Dust.NewDustDirect(dustPosition, Projectile.width, Projectile.height, DustID.PurpleTorch, Projectile.velocity.X * 0.2f, Projectile.velocity.Y * 0.2f, 150, default(Color), 1.5f);
+                    dust.noGravity = true;
+                    dust.velocity *= 1.5f;
+                }
+            }
+            else if (!lockOnPhase)
+            {
+                // 停留在空中
+                lockOnDelay--;
+                if (lockOnDelay <= 0f)
+                {
+                    lockOnPhase = true;
+                    Projectile.netUpdate = true;
+                }
+            }
+            else
+            {
+                // 锁定并砸向最近的敌人
+                float detectionRadius = 1000f;
+                NPC closestNPC = FindClosestNPC(detectionRadius);
+
+                if (closestNPC != null)
+                {
+                    float speed = 20f;
+                    Vector2 direction = closestNPC.Center - Projectile.Center;
+                    direction.Normalize();
+                    Projectile.velocity = direction * speed;
+
+                    // 修改弹幕的朝向
+                    Projectile.rotation = Projectile.velocity.ToRotation() + MathHelper.PiOver2;
+                }
+            }
+
+            // 虚空精华飞行过程中留下暗紫色的DNA形状的拖尾粒子特效
+            if (Main.rand.NextBool(2))
+            {
+                Vector2 dustPosition = Projectile.position - Projectile.velocity * 0.5f;
+                Dust dust = Dust.NewDustDirect(dustPosition, 1, 1, DustID.PurpleCrystalShard, 0f, 0f, 100, default(Color), 1.5f);
+                dust.noGravity = true;
+                dust.velocity *= 0.5f;
+                dust.velocity += Projectile.velocity * 0.5f;
+                dust.position = Projectile.Center + Vector2.UnitY.RotatedByRandom(MathHelper.TwoPi) * 10f;
+            }
+
+            // 修改弹幕的朝向，使其始终指向运动方向
+            if (Projectile.velocity != Vector2.Zero)
+            {
+                Projectile.rotation = Projectile.velocity.ToRotation() + MathHelper.PiOver2;
+            }
+        }
+
+        private NPC FindClosestNPC(float maxDetectDistance)
+        {
+            NPC closestNPC = null;
+            float closestDistance = maxDetectDistance;
+
+            foreach (NPC npc in Main.npc)
+            {
+                if (npc.CanBeChasedBy())
+                {
+                    float distance = Vector2.Distance(npc.Center, Projectile.Center);
+                    if (distance < closestDistance)
+                    {
+                        closestDistance = distance;
+                        closestNPC = npc;
+                    }
+                }
+            }
+
+            return closestNPC;
+        }
+
+        public override void OnHitNPC(NPC target, NPC.HitInfo hit, int damageDone)
+        {
+            Projectile.penetrate--;
+            if (Projectile.penetrate <= 0)
+            {
+                Projectile.Kill();
+            }
+            else
+            {
+                Projectile.ai[0] = 1;
+                Projectile.netUpdate = true;
+            }
+
+            // 生成更大、更快、更远的黑色圆形扩散粒子特效
+            for (int i = 0; i < 60; i++) // 增加粒子数量
+            {
+                Vector2 dustPosition = target.Center;
+                Dust dust = Dust.NewDustDirect(dustPosition, 1, 1, DustID.Smoke, 0f, 0f, 100, default(Color), 2f); // 墛粒子规模
+                dust.noGravity = true;
+                dust.velocity = Vector2.UnitX.RotatedByRandom(MathHelper.TwoPi) * 7f; // 墛粒子速度
+            }
+
+            // 在命中敌人消失的时候产生额外的AbyssWorm弹幕
+            SpawnAbyssWorms(target.Center);
+        }
+
+        public override void OnKill(int timeLeft)
+        {
+            // 生成更大、更快、更远的黑色圆形扩散粒子特效
+            for (int i = 0; i < 60; i++) // 墛粒子数量
+            {
+                Vector2 dustPosition = Projectile.Center;
+                Dust dust = Dust.NewDustDirect(dustPosition, 1, 1, DustID.Smoke, 0f, 0f, 100, default(Color), 2f); // 墛粒子规模
+                dust.noGravity = true;
+                dust.velocity = Vector2.UnitX.RotatedByRandom(MathHelper.TwoPi) * 7f; // 墛粒子速度
+            }
+
+            // 在命中敌人消失的时候产生额外的AbyssWorm弹幕
+            SpawnAbyssWorms(Projectile.Center);
+        }
+
+        private void SpawnAbyssWorms(Vector2 position)
+        {
+            int wormCount = Main.rand.Next(2, 6); // 随机产生2到5个AbyssWorm
+            for (int i = 0; i < wormCount; i++)
+            {
+                Vector2 spawnPosition = position + new Vector2(Main.rand.NextFloat(-20f, 20f), Main.rand.NextFloat(-20f, 20f));
+                Projectile.NewProjectile(Projectile.GetSource_FromThis(), spawnPosition, Vector2.Zero, ModContent.ProjectileType<AbyssWorm>(), Projectile.damage, Projectile.knockBack, Projectile.owner);
+            }
+        }
+
+        public override bool PreDraw(ref Color lightColor)
+        {
+            Texture2D texture = Terraria.GameContent.TextureAssets.Projectile[Projectile.type].Value;
+            Vector2 drawOrigin = new Vector2(texture.Width * 0.5f, texture.Height * 0.5f);
+            Main.EntitySpriteDraw(texture, Projectile.Center - Main.screenPosition, null, lightColor, Projectile.rotation, drawOrigin, Projectile.scale, SpriteEffects.None, 0);
+            return true;
+        }
+    }
+}

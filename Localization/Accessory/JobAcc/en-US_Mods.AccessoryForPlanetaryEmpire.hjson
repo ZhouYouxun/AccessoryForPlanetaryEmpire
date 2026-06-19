@@ -1,0 +1,118 @@
+Accessory: {
+	JobAcc: {
+		Magic: {
+			Magic1: {
+				DisplayName: Arcane Container V1
+				Tooltip: Increases magic weapon damage by 15% and critical strike chance by 5%.
+			}
+
+			Magic2: {
+				DisplayName: Arcane Container V2
+				Tooltip: Increases magic weapon damage by 20% and critical strike chance by 10%.
+			}
+
+			Magic3: {
+				DisplayName: Arcane Container V3
+				Tooltip: Increases magic weapon damage by 30% and critical strike chance by 20%.
+			}
+
+			Magic4: {
+				DisplayName: Arcane Container V4
+				Tooltip: Increases magic weapon damage by 35% and critical strike chance by 30%.
+			}
+		}
+
+		Melee: {
+			Tank1: {
+				DisplayName: Shield of Glory V1
+				Tooltip:
+					'''
+					Increases melee weapon damage by 15% and critical strike chance by 5%.
+					Enemies are more likely to target you.
+					'''
+			}
+
+			Tank2: {
+				DisplayName: Shield of Glory V2
+				Tooltip:
+					'''
+					Increases melee weapon damage by 20% and critical strike chance by 10%.
+					Enemies are more likely to target you.
+					'''
+			}
+
+			Tank3: {
+				DisplayName: Shield of Glory V3
+				Tooltip:
+					'''
+					Increases melee weapon damage by 30% and critical strike chance by 20%.
+					Enemies are more likely to target you.
+					'''
+			}
+
+			Tank4: {
+				DisplayName: Shield of Glory V4
+				Tooltip:
+					'''
+					Increases melee weapon damage by 35% and critical strike chance by 30%.
+					Enemies are more likely to target you.
+					'''
+			}
+		}
+
+		Range: {
+			Ranger1: {
+				DisplayName: Firearm Care Package V1
+				Tooltip: Increases ranged weapon damage by 20% and critical strike chance by 10%.
+			}
+
+			Ranger2: {
+				DisplayName: Firearm Care Package V2
+				Tooltip: Increases ranged weapon damage by 20% and critical strike chance by 10%.
+			}
+
+			Ranger3: {
+				DisplayName: Firearm Care Package V3
+				Tooltip: Increases ranged weapon damage by 30% and critical strike chance by 20%.
+			}
+
+			Ranger4: {
+				DisplayName: Firearm Care Package V4
+				Tooltip: Increases ranged weapon damage by 35% and critical strike chance by 30%.
+			}
+		}
+
+		Summon: {
+			Summon0: {
+				DisplayName: Infinite Summoner
+				Tooltip:
+					'''
+					Grants you unlimited minion and sentry slots.
+					Also greatly increases summon weapon attack speed.
+					However, your summon damage is reduced to 0.
+					"Now go show off your personal army to your friends."
+					'''
+			}
+
+			Summon1: {
+				DisplayName: Command Baton V1
+				Tooltip: Increases summon weapon damage by 15%, and adds 2 minion and sentry slots.
+			}
+
+			Summon2: {
+				DisplayName: Command Baton V2
+				Tooltip: Increases summon weapon damage by 20%, and adds 3 minion and sentry slots.
+			}
+
+			Summon3: {
+				DisplayName: Command Baton V3
+				Tooltip: Increases summon weapon damage by 30%, and adds 4 minion and sentry slots.
+			}
+
+			Summon4: {
+				DisplayName: Command Baton V4
+				Tooltip: Increases summon weapon damage by 35%, and adds 5 minion and sentry slots.
+			}
+		}
+	}
+}

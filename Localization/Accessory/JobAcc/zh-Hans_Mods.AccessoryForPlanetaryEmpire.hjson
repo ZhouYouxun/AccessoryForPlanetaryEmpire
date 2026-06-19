@@ -1,0 +1,118 @@
+Accessory: {
+	JobAcc: {
+		Magic: {
+			Magic1: {
+				DisplayName: "奥术容器V1 "
+				Tooltip: 魔法武器伤害提升15%，暴击率提升5
+			}
+
+			Magic2: {
+				DisplayName: "奥术容器V2 "
+				Tooltip: 魔法武器伤害提升20%，暴击率提升10
+			}
+
+			Magic3: {
+				DisplayName: "奥术容器V3 "
+				Tooltip: 魔法武器伤害提升30%，暴击率提升20
+			}
+
+			Magic4: {
+				DisplayName: "奥术容器V4 "
+				Tooltip: 魔法武器伤害提升35%，暴击率提升30
+			}
+		}
+
+		Melee: {
+			Tank1: {
+				DisplayName: "荣耀之盾V1 "
+				Tooltip:
+					'''
+					近战武器伤害提升15%，暴击率提升5
+					敌人更有可能瞄准你
+					'''
+			}
+
+			Tank2: {
+				DisplayName: "荣耀之盾V2 "
+				Tooltip:
+					'''
+					近战武器伤害提升20%，暴击率提升10
+					敌人更有可能瞄准你
+					'''
+			}
+
+			Tank3: {
+				DisplayName: "荣耀之盾V3 "
+				Tooltip:
+					'''
+					近战武器伤害提升30%，暴击率提升20
+					敌人更有可能瞄准你
+					'''
+			}
+
+			Tank4: {
+				DisplayName: "荣耀之盾V4 "
+				Tooltip:
+					'''
+					近战武器伤害提升35%，暴击率提升30
+					敌人更有可能瞄准你
+					'''
+			}
+		}
+
+		Range: {
+			Ranger1: {
+				DisplayName: "枪械护理套装V1 "
+				Tooltip: 远程武器伤害提升15%，暴击率提升10
+			}
+
+			Ranger2: {
+				DisplayName: "枪械护理套装V2 "
+				Tooltip: 远程武器伤害提升20%，暴击率提升10
+			}
+
+			Ranger3: {
+				DisplayName: "枪械护理套装V3 "
+				Tooltip: 远程武器伤害提升30%，暴击率提升20
+			}
+
+			Ranger4: {
+				DisplayName: "枪械护理套装V4 "
+				Tooltip: 远程武器伤害提升35%，暴击率提升30
+			}
+		}
+
+		Summon: {
+			Summon0: {
+				DisplayName: 无限召唤器
+				Tooltip:
+					'''
+					你拥有无限的召唤栏位和哨兵栏位 
+					同时还顺便大幅提升了召唤武器攻速
+					但相应的你的召唤伤害降为0
+					“现在去向你的朋友炫耀你的私人军队吧”
+					'''
+			}
+
+			Summon1: {
+				DisplayName: "军队指挥棒V1 "
+				Tooltip: 召唤武器攻击力加15%，召唤栏与哨兵栏加2
+			}
+
+			Summon2: {
+				DisplayName: "军队指挥棒V2 "
+				Tooltip: 召唤武器攻击力加20%，召唤栏与哨兵栏加3
+			}
+
+			Summon3: {
+				DisplayName: "军队指挥棒V3 "
+				Tooltip: 召唤武器攻击力加30%，召唤栏与哨兵栏加4
+			}
+
+			Summon4: {
+				DisplayName: "军队指挥棒V4 "
+				Tooltip: 召唤武器攻击力加35%，召唤栏与哨兵栏加5
+			}
+		}
+	}
+}

@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using AccessoryForPlanetaryEmpire.Global.Configs;
 using AccessoryForPlanetaryEmpire.LazyItems.Tool;
 using AccessoryForPlanetaryEmpire.Players.Attack.Annihilation;
 using AccessoryForPlanetaryEmpire.Players.Defense.OnlyCYC;
@@ -28,7 +29,7 @@ namespace AccessoryForPlanetaryEmpire.Players.Defense
         private static void DrawMatrixStatusHud()
         {
             Player player = Main.LocalPlayer;
-            if (Main.gameMenu || !player.active || player.dead)
+            if (Main.gameMenu || !player.active || player.dead || !ModContent.GetInstance<PLAConfigs>().EnableMatrixStatusHud)
             {
                 return;
             }

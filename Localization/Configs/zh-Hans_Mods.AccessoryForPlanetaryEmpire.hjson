@@ -54,5 +54,10 @@ Configs: {
 			Label: 开启友军伤害
 			Tooltip: 开启后，玩家弹幕可以按精密计算后的伤害命中其他玩家
 		}
+
+		EnableMatrixStatusHud: {
+			Label: 开启矩阵头顶状态条
+			Tooltip: 开启后显示神镐、饰品和 EMP 的矩阵风格头顶状态条。关闭后全部隐藏，恢复为以前不显示这些条的状态。
+		}
 	}
 }

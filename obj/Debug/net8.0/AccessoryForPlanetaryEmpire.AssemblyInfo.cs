@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AccessoryForPlanetaryEmpire")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87009b5dc9242b0f1ae8fae3d480cc4748e1e538")]
 [assembly: System.Reflection.AssemblyProductAttribute("AccessoryForPlanetaryEmpire")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AccessoryForPlanetaryEmpire")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

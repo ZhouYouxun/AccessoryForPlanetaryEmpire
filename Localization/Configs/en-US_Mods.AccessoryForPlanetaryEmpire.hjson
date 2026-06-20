@@ -54,5 +54,10 @@ Configs: {
 			Label: Enable Friendly Fire
 			Tooltip: Allows player projectiles to damage other players using the calculated damage value.
 		}
+
+		EnableMatrixStatusHud: {
+			Label: Enable Matrix Status HUD
+			Tooltip: Shows the matrix-style overhead bars for supported tools, accessories, and EMP devices. Disable this to hide all of them.
+		}
 	}
 }

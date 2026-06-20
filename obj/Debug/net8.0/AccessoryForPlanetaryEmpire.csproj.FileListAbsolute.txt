@@ -10,3 +10,4 @@ D:\Documents\My Games\Terraria\tModLoader\ModSources\AccessoryForPlanetaryEmpire
 D:\Documents\My Games\Terraria\tModLoader\ModSources\AccessoryForPlanetaryEmpire\obj\Debug\net8.0\refint\AccessoryForPlanetaryEmpire.dll
 D:\Documents\My Games\Terraria\tModLoader\ModSources\AccessoryForPlanetaryEmpire\obj\Debug\net8.0\AccessoryForPlanetaryEmpire.pdb
 D:\Documents\My Games\Terraria\tModLoader\ModSources\AccessoryForPlanetaryEmpire\obj\Debug\net8.0\ref\AccessoryForPlanetaryEmpire.dll
+D:\Documents\My Games\Terraria\tModLoader\ModSources\AccessoryForPlanetaryEmpire\obj\Debug\net8.0\AccessoryForPlanetaryEmpire.sourcelink.json

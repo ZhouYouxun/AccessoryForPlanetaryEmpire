@@ -17,6 +17,11 @@ namespace AccessoryForPlanetaryEmpire.Global.Configs
         [DefaultValue(false)]
         public bool EnableFriendlyFire { get; set; }
 
+        [Label("Enable Matrix Status HUD")]
+        [Tooltip("Shows matrix-style overhead bars for supported tools, accessories, and EMP devices.")]
+        [DefaultValue(true)]
+        public bool EnableMatrixStatusHud { get; set; }
+
         //[Label("开启珍珠木弓更改")]
         //[Tooltip("开启后将修改珍珠木弓的属性和功能")]
         //[DefaultValue(true)]
